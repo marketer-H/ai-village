@@ -1,0 +1,253 @@
+[
+  {
+    "name": "OpenAI",
+    "url": "https://openai.com/news/rss.xml"
+  },
+  {
+    "name": "Google AI",
+    "url": "https://blog.google/technology/ai/rss/"
+  },
+  {
+    "name": "Hugging Face",
+    "url": "https://huggingface.co/blog/feed.xml"
+  },
+  {
+    "name": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed"
+  },
+  {
+    "name": "The Verge AI",
+    "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
+  },
+  {
+    "name": "AI타임스",
+    "url": "https://cdn.aitimes.com/rss/gn_rss_allArticle.xml"
+  },
+  {
+    "name": "요즘IT",
+    "url": "https://yozm.wishket.com/magazine/feed/",
+    "ai_only": true
+  },
+  {
+    "name": "모비인사이드",
+    "url": "https://www.mobiinside.co.kr/feed/",
+    "ai_only": true
+  },
+  {
+    "name": "벤처스퀘어",
+    "url": "https://www.venturesquare.net/feed",
+    "ai_only": true
+  },
+  {
+    "name": "한국경제 IT",
+    "url": "https://www.hankyung.com/feed/it",
+    "ai_only": true
+  },
+  {
+    "name": "ZDNet Korea",
+    "url": "https://feeds.feedburner.com/zdkorea",
+    "ai_only": true
+  },
+  {
+    "name": "구글뉴스: AI 영상 편집",
+    "url": "https://news.google.com/rss/search?q=AI+%EC%98%81%EC%83%81+%ED%8E%B8%EC%A7%91&hl=ko&gl=KR&ceid=KR:ko",
+    "category": "영상·이미지"
+  },
+  {
+    "name": "구글뉴스: AI 영상 제작",
+    "url": "https://news.google.com/rss/search?q=AI+%EC%98%81%EC%83%81+%EC%A0%9C%EC%9E%91+%EC%88%8F%ED%8F%BC&hl=ko&gl=KR&ceid=KR:ko",
+    "category": "영상·이미지"
+  },
+  {
+    "name": "구글뉴스: AI 업무 활용",
+    "url": "https://news.google.com/rss/search?q=AI+%EC%97%85%EB%AC%B4+%ED%99%9C%EC%9A%A9&hl=ko&gl=KR&ceid=KR:ko",
+    "category": "업무 활용"
+  },
+  {
+    "name": "구글뉴스: AI 직장인",
+    "url": "https://news.google.com/rss/search?q=AI+%EC%A7%81%EC%9E%A5%EC%9D%B8+%EC%83%9D%EC%82%B0%EC%84%B1&hl=ko&gl=KR&ceid=KR:ko",
+    "category": "업무 활용"
+  },
+  {
+    "name": "구글뉴스: AI SNS",
+    "url": "https://news.google.com/rss/search?q=AI+SNS+%EC%BD%98%ED%85%90%EC%B8%A0&hl=ko&gl=KR&ceid=KR:ko",
+    "category": "SNS·마케팅"
+  },
+  {
+    "name": "구글뉴스: AI 인스타 유튜브",
+    "url": "https://news.google.com/rss/search?q=AI+%EC%9D%B8%EC%8A%A4%ED%83%80%EA%B7%B8%EB%9E%A8+%EC%9C%A0%ED%8A%9C%EB%B8%8C+%ED%99%9C%EC%9A%A9&hl=ko&gl=KR&ceid=KR:ko",
+    "category": "SNS·마케팅"
+  },
+  {
+    "name": "Zapier",
+    "url": "https://zapier.com/blog/feeds/latest/",
+    "ai_only": true,
+    "category": "업무 활용"
+  },
+  {
+    "name": "GeekNews",
+    "url": "https://news.hada.io/rss/news",
+    "ai_only": true
+  },
+  {
+    "name": "Reddit r/artificial",
+    "url": "https://www.reddit.com/r/artificial/top/.rss?t=week",
+    "hot": true
+  },
+  {
+    "name": "연합뉴스",
+    "url": "https://www.yna.co.kr/rss/news.xml",
+    "ai_only": true
+  },
+  {
+    "name": "연합뉴스 경제",
+    "url": "https://www.yna.co.kr/rss/economy.xml",
+    "ai_only": true
+  },
+  {
+    "name": "조선일보",
+    "url": "https://www.chosun.com/arc/outboundfeeds/rss/category/economy/?outputType=xml",
+    "ai_only": true
+  },
+  {
+    "name": "동아일보 과학",
+    "url": "https://rss.donga.com/science.xml",
+    "ai_only": true
+  },
+  {
+    "name": "동아일보",
+    "url": "https://rss.donga.com/total.xml",
+    "ai_only": true
+  },
+  {
+    "name": "매일경제",
+    "url": "https://www.mk.co.kr/rss/50700001/",
+    "ai_only": true
+  },
+  {
+    "name": "한겨레 과학",
+    "url": "https://www.hani.co.kr/rss/science/",
+    "ai_only": true
+  },
+  {
+    "name": "경향신문 경제",
+    "url": "https://www.khan.co.kr/rss/rssdata/economy_news.xml",
+    "ai_only": true
+  },
+  {
+    "name": "전자신문",
+    "url": "https://rss.etnews.com/20.xml",
+    "ai_only": true
+  },
+  {
+    "name": "블로터",
+    "url": "https://www.bloter.net/rss/allArticle.xml",
+    "ai_only": true
+  },
+  {
+    "name": "뉴시스",
+    "url": "https://www.newsis.com/RSS/sokbo.xml",
+    "ai_only": true
+  },
+  {
+    "name": "구글뉴스: 챗GPT 활용법",
+    "url": "https://news.google.com/rss/search?q=%EC%B1%97GPT+%ED%99%9C%EC%9A%A9%EB%B2%95&hl=ko&gl=KR&ceid=KR:ko",
+    "category": "생활·교육"
+  },
+  {
+    "name": "구글뉴스: AI 시니어",
+    "url": "https://news.google.com/rss/search?q=AI+%EC%8B%9C%EB%8B%88%EC%96%B4+%EC%96%B4%EB%A5%B4%EC%8B%A0+%EA%B5%90%EC%9C%A1&hl=ko&gl=KR&ceid=KR:ko",
+    "category": "생활·교육"
+  },
+  {
+    "name": "구글뉴스: AI 일상",
+    "url": "https://news.google.com/rss/search?q=AI+%EC%9D%BC%EC%83%81+%EC%83%9D%ED%99%9C+%ED%99%9C%EC%9A%A9&hl=ko&gl=KR&ceid=KR:ko",
+    "category": "생활·교육"
+  },
+  {
+    "name": "구글뉴스: AI 사기",
+    "url": "https://news.google.com/rss/search?q=AI+%EB%B3%B4%EC%9D%B4%EC%8A%A4%ED%94%BC%EC%8B%B1+%EB%94%A5%ED%8E%98%EC%9D%B4%EC%8A%A4+%EC%82%AC%EA%B8%B0+%EC%A3%BC%EC%9D%98&hl=ko&gl=KR&ceid=KR:ko",
+    "category": "생활·교육"
+  },
+  {
+    "name": "구글뉴스: AI 배우기",
+    "url": "https://news.google.com/rss/search?q=%EC%83%9D%EC%84%B1%ED%98%95+AI+%EB%B0%B0%EC%9A%B0%EA%B8%B0+%EA%B0%95%EC%A2%8C&hl=ko&gl=KR&ceid=KR:ko",
+    "category": "생활·교육"
+  },
+  {
+    "name": "구글뉴스: AI 건강",
+    "url": "https://news.google.com/rss/search?q=AI+%EA%B1%B4%EA%B0%95+%EC%9D%98%EB%A3%8C+%EC%9D%BC%EC%83%81&hl=ko&gl=KR&ceid=KR:ko",
+    "category": "생활·교육"
+  },
+  {
+    "name": "삼성 뉴스룸",
+    "url": "https://news.samsung.com/kr/feed",
+    "ai_only": true,
+    "category": "국내 동향"
+  },
+  {
+    "name": "국민일보",
+    "url": "https://www.kmib.co.kr/rss/data/kmibRssAll.xml",
+    "ai_only": true
+  },
+  {
+    "name": "세계일보",
+    "url": "https://www.segye.com/Articles/RSSList/segye_recent.xml",
+    "ai_only": true
+  },
+  {
+    "name": "아시아경제",
+    "url": "https://www.asiae.co.kr/rss/all.htm",
+    "ai_only": true
+  },
+  {
+    "name": "SBS 뉴스",
+    "url": "https://news.sbs.co.kr/news/newsflashRssFeed.do?plink=RSSREADER",
+    "ai_only": true
+  },
+  {
+    "name": "구글뉴스: 네이버 AI",
+    "url": "https://news.google.com/rss/search?q=%EB%84%A4%EC%9D%B4%EB%B2%84+%ED%95%98%EC%9D%B4%ED%8D%BC%ED%81%B4%EB%A1%9C%EB%B0%94+AI&hl=ko&gl=KR&ceid=KR:ko",
+    "category": "국내 동향"
+  },
+  {
+    "name": "구글뉴스: 카카오 AI",
+    "url": "https://news.google.com/rss/search?q=%EC%B9%B4%EC%B9%B4%EC%98%A4+AI+%EC%B9%B4%EB%82%98%EB%82%98&hl=ko&gl=KR&ceid=KR:ko",
+    "category": "국내 동향"
+  },
+  {
+    "name": "구글뉴스: 삼성·LG AI",
+    "url": "https://news.google.com/rss/search?q=%EC%82%BC%EC%84%B1+%EA%B0%A4%EB%9F%AD%EC%8B%9C+AI+LG+%EC%97%91%EC%82%AC%EC%9B%90&hl=ko&gl=KR&ceid=KR:ko",
+    "category": "국내 동향"
+  },
+  {
+    "name": "구글뉴스: AI 정부 정책",
+    "url": "https://news.google.com/rss/search?q=AI+%EA%B8%B0%EB%B3%B8%EB%B2%95+%EA%B3%BC%EA%B8%B0%EC%A0%95%ED%86%B5%EB%B6%80+%EC%A0%95%EC%B1%85&hl=ko&gl=KR&ceid=KR:ko",
+    "category": "국내 동향"
+  },
+  {
+    "name": "구글뉴스: 소상공인 AI",
+    "url": "https://news.google.com/rss/search?q=%EC%86%8C%EC%83%81%EA%B3%B5%EC%9D%B8+%EC%9E%90%EC%98%81%EC%97%85+AI+%ED%99%9C%EC%9A%A9&hl=ko&gl=KR&ceid=KR:ko",
+    "category": "생활·교육"
+  },
+  {
+    "name": "구글뉴스: 중장년 AI",
+    "url": "https://news.google.com/rss/search?q=%EC%A4%91%EC%9E%A5%EB%85%84+%EC%9D%BC%EC%9E%90%EB%A6%AC+AI+%EB%94%94%EC%A7%80%ED%84%B8+%EB%B0%B0%EC%9B%80%ED%84%B0&hl=ko&gl=KR&ceid=KR:ko",
+    "category": "생활·교육"
+  },
+  {
+    "name": "구글뉴스: AI 교과서",
+    "url": "https://news.google.com/rss/search?q=AI+%EA%B5%90%EA%B3%BC%EC%84%9C+%ED%95%99%EB%B6%80%EB%AA%A8+%EC%82%AC%EA%B5%90%EC%9C%A1&hl=ko&gl=KR&ceid=KR:ko",
+    "category": "생활·교육"
+  },
+  {
+    "name": "구글뉴스: AI 부업",
+    "url": "https://news.google.com/rss/search?q=AI+%EB%B6%80%EC%97%85+%EC%88%98%EC%9D%B5+%EC%B0%BD%EC%B6%9C&hl=ko&gl=KR&ceid=KR:ko",
+    "category": "생활·교육"
+  },
+  {
+    "name": "구글뉴스: AI 노후",
+    "url": "https://news.google.com/rss/search?q=AI+%EB%85%B8%ED%9B%84+%EC%9D%80%ED%87%B4+%EC%8B%9C%EB%8B%88%EC%96%B4&hl=ko&gl=KR&ceid=KR:ko",
+    "category": "생활·교육"
+  }
+]

@@ -1,0 +1,272 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI 회관</title>
+<meta name="description" content="AI 공부하는 사람들이 모이는 곳">
+<style>
+:root{
+  --bg:#f7f6f2;--surface:#fff;--fg:#1a1a18;--muted:#6a6a64;--line:#e6e4dc;
+  --accent:#2f4bd8;--accent-soft:#e8ecff;--pick:#fff1c9;--pick-fg:#6b4e00;
+  --shadow:0 1px 2px rgba(20,20,10,.04),0 4px 14px rgba(20,20,10,.05);
+}
+@media (prefers-color-scheme:dark){:root{
+  --bg:#141413;--surface:#1d1d1b;--fg:#ecebe6;--muted:#9b9a92;--line:#302f2c;
+  --accent:#9aabff;--accent-soft:#242a4a;--pick:#3b3216;--pick-fg:#f0d78a;
+  --shadow:none;
+}}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.65 -apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Pretendard","Noto Sans KR",sans-serif;word-break:keep-all}
+.wrap{max-width:980px;margin:0 auto;padding:0 20px 80px}
+
+header{padding:56px 0 28px}
+.eyebrow{font-size:13px;font-weight:600;letter-spacing:.08em;color:var(--accent);margin:0 0 10px}
+h1{font-size:clamp(30px,5vw,44px);line-height:1.2;letter-spacing:-.02em;margin:0 0 12px}
+.sub{color:var(--muted);margin:0;font-size:17px;max-width:560px}
+.stats{margin-top:16px;font-size:13px;color:var(--muted)}
+
+.bar{position:sticky;top:0;z-index:5;background:color-mix(in srgb,var(--bg) 92%,transparent);backdrop-filter:blur(8px);padding:12px 0;border-bottom:1px solid var(--line);margin-bottom:24px}
+.row{display:flex;gap:12px;align-items:center;flex-wrap:wrap}
+.search{flex:1;min-width:200px;position:relative}
+.search input{width:100%;font:inherit;font-size:15px;padding:10px 14px 10px 38px;border:1px solid var(--line);border-radius:10px;background:var(--surface);color:var(--fg);outline:none}
+.search input:focus{border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-soft)}
+.search svg{position:absolute;left:12px;top:50%;transform:translateY(-50%);width:16px;height:16px;stroke:var(--muted);fill:none;stroke-width:2}
+.seg{display:flex;background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:3px}
+.seg button{font:inherit;font-size:14px;font-weight:600;border:0;background:none;color:var(--muted);padding:6px 14px;border-radius:7px;cursor:pointer}
+.seg button.on{background:var(--accent);color:#fff}
+.chips{display:flex;gap:8px;overflow-x:auto;padding:10px 0 2px;scrollbar-width:none}
+.chips::-webkit-scrollbar{display:none}
+.chip{flex:none;font:inherit;font-size:13px;padding:5px 12px;border:1px solid var(--line);border-radius:999px;background:var(--surface);color:var(--fg);cursor:pointer;white-space:nowrap}
+.chip.on{background:var(--fg);color:var(--bg);border-color:var(--fg)}
+
+.group{margin-top:36px}
+.group h3{display:flex;align-items:baseline;gap:8px;font-size:20px;margin:0 0 14px;letter-spacing:-.01em}
+.divider{font-size:13px;font-weight:600;letter-spacing:.06em;color:var(--muted);margin:48px 0 0;padding-top:20px;border-top:1px solid var(--line)}
+.group h3 span{font-size:13px;font-weight:400;color:var(--muted)}
+.group h3 button{margin-left:auto;font:inherit;font-size:13px;border:0;background:none;color:var(--accent);cursor:pointer}
+select{font:inherit;font-size:14px;padding:9px 12px;border:1px solid var(--line);border-radius:10px;background:var(--surface);color:var(--fg)}
+.dot{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:6px;vertical-align:middle}
+a.card{display:flex;flex-direction:column;background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:20px;text-decoration:none;color:inherit;box-shadow:var(--shadow);transition:transform .15s,border-color .15s}
+a.card:hover,a.card:focus-visible{transform:translateY(-2px);border-color:var(--accent);outline:none}
+.meta{font-size:13px;color:var(--muted);margin-bottom:8px}
+.card h2{font-size:18px;line-height:1.42;letter-spacing:-.01em;margin:0 0 8px}
+.card p{margin:0;color:var(--muted);font-size:14.5px;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.orig{font-size:12px;color:var(--muted);opacity:.8;margin:-2px 0 8px;display:-webkit-box;-webkit-line-clamp:1;-webkit-box-orient:vertical;overflow:hidden}
+.buzz{margin-left:8px;font-weight:600;color:#d9480f}
+@media (prefers-color-scheme:dark){.buzz{color:#ff922b}}
+.note{margin-top:14px;background:var(--pick);color:var(--pick-fg);border-radius:10px;padding:9px 12px;font-size:14px;line-height:1.5}
+.feature{margin-bottom:20px;padding:28px}
+.feature .tag{font-size:12px;font-weight:700;color:var(--accent);letter-spacing:.06em;margin-bottom:10px}
+.feature h2{font-size:clamp(22px,3.4vw,30px);line-height:1.35}
+.feature p{font-size:16px;-webkit-line-clamp:4}
+.grid{display:grid;grid-template-columns:repeat(2,1fr);gap:16px}
+@media (max-width:680px){.grid{grid-template-columns:1fr}header{padding-top:36px}}
+
+.more{display:block;margin:24px auto 0;font:inherit;font-weight:600;padding:12px 28px;border:1px solid var(--line);border-radius:999px;background:var(--surface);color:var(--fg);cursor:pointer}
+.more:hover{border-color:var(--accent);color:var(--accent)}
+.empty{text-align:center;color:var(--muted);padding:72px 0}
+footer{margin-top:56px;text-align:center;font-size:13px;color:var(--muted)}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>AI 회관</h1>
+    <p class="sub">AI 공부하는 사람들이 모이는 곳</p>
+    <div class="stats" id="stats"></div>
+  </header>
+
+  <div class="bar">
+    <div class="row">
+      <label class="search">
+        <svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <input id="q" type="search" placeholder="제목·요약 검색" aria-label="검색">
+      </label>
+      <select id="srcSel" aria-label="출처"><option value="">모든 출처</option></select>
+      <div class="seg" role="tablist">
+        <button data-tab="all" class="on">전체</button>
+        <button data-tab="pick">★ 추천</button>
+      </div>
+    </div>
+    <div class="chips" id="chips"></div>
+  </div>
+
+  <main id="main"></main>
+  <footer>OpenAI · Google AI · Hugging Face · MIT Technology Review · The Verge · AI타임스 · 요즘IT · 모비인사이드 · 벤처스퀘어 · 한국경제 · ZDNet Korea · Zapier · GeekNews · Reddit · 연합뉴스 · 조선일보 · 동아일보 · 매일경제 · 한겨레 · 경향신문 · 전자신문 · 블로터 · 뉴시스의 RSS 피드와 구글 뉴스 키워드 검색(영상 편집·업무 활용·SNS·생활·교육)에서 수집합니다. 글은 각 매체로 연결되며 저작권은 매체에 있습니다.</footer>
+</div>
+
+<script>
+const $ = s => document.querySelector(s);
+const PAGE = 24;
+let articles = [], tab = "all", src = "", cat = "", shown = PAGE, freshShown = 12;
+const time = a => new Date(a.date).getTime();
+
+const hue = s => [...s].reduce((h, c) => (h * 31 + c.charCodeAt(0)) % 360, 7);
+
+function ago(iso) {
+  const d = (Date.now() - new Date(iso)) / 864e5;
+  if (d < 1 / 24) return Math.max(1, Math.round(d * 1440)) + "분 전";
+  if (d < 1) return Math.floor(d * 24) + "시간 전";
+  if (d < 2) return "어제";
+  if (d < 7) return Math.floor(d) + "일 전";
+  return new Date(iso).toLocaleDateString("ko-KR", {month: "long", day: "numeric"});
+}
+
+function card(a, feature) {
+  const el = document.createElement("a");
+  el.className = "card" + (feature ? " feature" : "");
+  el.href = a.url; el.target = "_blank"; el.rel = "noopener";
+  if (feature) {
+    const t = document.createElement("div"); t.className = "tag";
+    t.textContent = a.pick ? "★ 에디터 추천" : "LATEST";
+    el.append(t);
+  }
+  const m = document.createElement("div"); m.className = "meta";
+  const dot = document.createElement("span"); dot.className = "dot";
+  dot.style.background = `hsl(${hue(a.source)} 60% 52%)`;
+  m.append(dot, a.source + " · " + ago(a.date));
+  if (a.buzz >= 3) { const f = document.createElement("span"); f.className = "buzz"; f.textContent = "🔥 " + a.buzz + "곳에서 다룸"; m.append(f); }
+  const h = document.createElement("h2"); h.textContent = a.title;
+  el.append(m, h);
+  if (a.title_en) { const o = document.createElement("div"); o.className = "orig"; o.textContent = "원문: " + a.title_en; el.append(o); }
+  if (a.summary) { const p = document.createElement("p"); p.textContent = a.summary; el.append(p); }
+  if (a.pick) { const n = document.createElement("div"); n.className = "note"; n.textContent = a.pick; el.append(n); }
+  return el;
+}
+
+function grid(items) {
+  const g = document.createElement("div"); g.className = "grid";
+  items.forEach(a => g.append(card(a)));
+  return g;
+}
+
+function render() {
+  const q = $("#q").value.trim().toLowerCase();
+  const rows = articles.filter(a =>
+    (tab === "all" || a.pick) && (!src || a.source === src) && (!cat || a.category === cat) &&
+    (!q || (a.title + " " + a.summary).toLowerCase().includes(q)));
+  const main = $("#main");
+  main.replaceChildren();
+  if (!rows.length) {
+    main.innerHTML = '<div class="empty">' + (tab === "pick" ? "아직 추천 글이 없습니다." : "조건에 맞는 글이 없습니다.") + "</div>";
+    return;
+  }
+  const plain = !q && !src && !cat && tab === "all";
+  if (plain) {
+    // 전체 보기: 최근 24시간 글을 맨 위에, 그 이전 글은 분야별로
+    const DAY = 864e5, now = Date.now();
+    const hot = rows.filter(a => a.buzz >= 3 && now - time(a) <= 3 * DAY)
+      .sort((x, y) => y.buzz - x.buzz || time(y) - time(x)).slice(0, 6);
+    if (hot.length) {
+      const sec = document.createElement("section"); sec.className = "group"; sec.style.marginTop = "0";
+      const h = document.createElement("h3"); h.textContent = "🔥 지금 화제";
+      const n = document.createElement("span"); n.textContent = "여러 매체가 함께 다룬 소식 · 최근 3일";
+      h.append(n); sec.append(h, grid(hot)); main.append(sec);
+    }
+    const fresh = rows.filter(a => now - time(a) <= DAY);
+    const older = rows.filter(a => now - time(a) > DAY);
+    if (fresh.length) {
+      const lead = fresh.find(a => a.pick) || fresh[0];
+      const first = card(lead, true); first.style.marginTop = hot.length ? "36px" : "0";
+      main.append(first);
+      const rest = fresh.filter(a => a !== lead);
+      const sec = document.createElement("section"); sec.className = "group";
+      const h = document.createElement("h3"); h.textContent = "최근 24시간";
+      const n = document.createElement("span"); n.textContent = fresh.length + "개 새 글";
+      h.append(n);
+      sec.append(h, grid(rest.slice(0, freshShown)));
+      if (rest.length > freshShown) {
+        const m = document.createElement("button"); m.className = "more";
+        m.textContent = `새 글 더 보기 (${rest.length - freshShown}개 남음)`;
+        m.onclick = () => { freshShown += 12; render(); };
+        sec.append(m);
+      }
+      main.append(sec);
+    }
+    const groups = new Map();
+    older.forEach(a => {
+      if (!groups.has(a.category)) groups.set(a.category, []);
+      groups.get(a.category).push(a);
+    });
+    const order = [...groups.keys()].sort((x, y) => time(groups.get(y)[0]) - time(groups.get(x)[0]));
+    if (order.length) {
+      const t = document.createElement("h3"); t.className = "divider"; t.textContent = "이전 글, 분야별";
+      main.append(t);
+    }
+    for (const name of order) {
+      const items = groups.get(name);
+      const sec = document.createElement("section"); sec.className = "group";
+      const h = document.createElement("h3"); h.textContent = name;
+      const n = document.createElement("span"); n.textContent = items.length + "개";
+      h.append(n);
+      if (items.length > 6) {
+        const b = document.createElement("button"); b.textContent = "전체 보기 →";
+        b.onclick = () => { cat = name; buildChips(); reset(); scrollTo({top: 0}); };
+        h.append(b);
+      }
+      sec.append(h, grid(items.slice(0, 6)));
+      main.append(sec);
+    }
+    return;
+  }
+  main.append(grid(rows.slice(0, shown)));
+  if (rows.length > shown) {
+    const b = document.createElement("button"); b.className = "more";
+    b.textContent = `더 보기 (${rows.length - shown}개 남음)`;
+    b.onclick = () => { shown += PAGE; render(); };
+    main.append(b);
+  }
+}
+
+function reset() { shown = PAGE; freshShown = 12; render(); }
+
+function buildChips() {
+  const counts = {};
+  articles.forEach(a => counts[a.category] = (counts[a.category] || 0) + 1);
+  const box = $("#chips");
+  const add = (label, val) => {
+    const c = document.createElement("button");
+    c.className = "chip" + (val === cat ? " on" : ""); c.textContent = label;
+    c.onclick = () => { cat = val; buildChips(); reset(); };
+    box.append(c);
+  };
+  box.replaceChildren();
+  add("전체 분야", "");
+  Object.keys(counts).sort((a, b) => (a === "기타") - (b === "기타") || counts[b] - counts[a])
+    .forEach(c => add(`${c} ${counts[c]}`, c));
+}
+
+async function init() {
+  const [auto, picks] = await Promise.all([
+    fetch("data/articles.json").then(r => r.json()),
+    fetch("data/picks.json").then(r => r.json()),
+  ]);
+  const byUrl = new Map(auto.map(a => [a.url, a]));
+  for (const [url, comment] of Object.entries(picks)) {
+    if (url.includes("example.com")) continue;
+    const a = byUrl.get(url);
+    if (a) a.pick = comment;
+    else byUrl.set(url, {url, title: url, summary: "", source: "추천", date: new Date().toISOString(), pick: comment});
+  }
+  articles = [...byUrl.values()].sort((a, b) => time(b) - time(a));
+  articles.forEach(a => a.category = a.category || "기타");
+  for (const s of [...new Set(articles.map(a => a.source))].sort()) $("#srcSel").append(new Option(s, s));
+  const nSrc = new Set(articles.map(a => a.source)).size;
+  $("#stats").textContent = `${articles.length}개의 글 · ${nSrc}개 출처 · 최근 업데이트 ${ago(articles[0]?.date)}`;
+  buildChips();
+  render();
+}
+
+$("#q").addEventListener("input", reset);
+$("#srcSel").addEventListener("change", e => { src = e.target.value; reset(); });
+document.querySelectorAll(".seg button").forEach(b => b.addEventListener("click", () => {
+  tab = b.dataset.tab;
+  document.querySelectorAll(".seg button").forEach(x => x.classList.toggle("on", x === b));
+  reset();
+}));
+init().catch(() => { $("#main").innerHTML = '<div class="empty">데이터를 불러오지 못했습니다. 로컬 서버로 열어주세요.</div>'; });
+</script>
+</body>
+</html>
