@@ -873,12 +873,13 @@
   "buzz": 1
  },
  {
-  "title": "Our newest AI Quest: Mapping the human brain",
+  "title": "새로운 AI 퀘스트: 인간의 뇌 지도 그리기",
   "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
-  "summary": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
+  "summary": "구글의 최신 AI 퀘스트 수업 '폴라 피크스'로 신경과학을 통해 AI 리터러시를 배워 보세요.",
   "source": "Google AI",
   "date": "2026-10-26T16:00:00+00:00",
   "category": "공식 자료",
+  "title_en": "Our newest AI Quest: Mapping the human brain",
   "buzz": 1
  },
  {
@@ -1208,12 +1209,13 @@
   "buzz": 1
  },
  {
-  "title": "Microsoft offers buyouts to 60,000 employees",
+  "title": "마이크로소프트, 직원 6만 명에게 자발적 퇴직 제안",
   "url": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
-  "summary": "Microsoft is offering voluntary buyouts to up to 60,000 employees across the US, UK, Canada, and India. In a message to employees, Microsoft chief people officer Amy Coleman writes that this gives sta",
+  "summary": "미국, 영국, 캐나다, 인도 직원 최대 6만 명에게 자발적 퇴직 제안을 하고 있습니다.",
   "source": "The Verge AI",
   "date": "2026-10-26T11:58:27-04:00",
   "category": "기타",
+  "title_en": "Microsoft offers buyouts to 60,000 employees",
   "buzz": 1
  },
  {
@@ -1702,6 +1704,16 @@
   "buzz": 1
  },
  {
+  "title": "경기도의회, ‘대한민국 SNS대상’ 9년 연속 수상…AI 숏폼으로 도민 소통 강화",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JeFNyME1VS212aGhwOFdnMmNnVGdna3NzZmhaNHZKU1VRY28yc21CTzg4dV9GT3F1N2dPRVYyVTdvQXc4S0NTT0JMSDBhS3M?oc=5",
+  "summary": "",
+  "source": "포천신문",
+  "date": "2026-10-26T07:29:05+00:00",
+  "category_hint": "SNS·마케팅",
+  "category": "SNS·마케팅",
+  "buzz": 2
+ },
+ {
   "title": "[TV로 연결하는 스마트한 일상]LG유플러스, AI로 TV를 생활정보 플랫폼으로…‘U+tv 오늘일상’ 출시",
   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5FdXczSEZ6UXFFMzRCUk50UTk5QVg2NWxycy1LSS0xRklWR3JiUVo3eVFFZkhKdFppTHBvVks5WnhySDBhN3AwLXNndzZ6R3ZBRkNGUHFFaWtBZHFtY29xbTZjOFN4V3NqTWhheGRYam8?oc=5",
   "summary": "",
@@ -1730,16 +1742,6 @@
   "category_hint": "영상·이미지",
   "category": "영상·이미지",
   "buzz": 2
- },
- {
-  "title": "경기도의회 ‘대한민국 SNS대상’ 9년 연속 수상···AI 숏폼으로 도민 소통 강화",
-  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfOVRTLXh2V2R4d1pvY1E4TnFwM0tndFloOHRKaUtpNzBJV3RHWW1GSU5nSTNvS0thMTA5cGpLMGhnVDc2RXlqQ1dwY01BVktxZjFrX3YtYjg0bUVlSGlPWkFTWFBsSG05VnIyRFVTTFc?oc=5",
-  "summary": "",
-  "source": "산경일보",
-  "date": "2026-10-26T07:00:38+00:00",
-  "category_hint": "SNS·마케팅",
-  "category": "SNS·마케팅",
-  "buzz": 1
  },
  {
   "title": "패나틱스와 오픈AI가 팬 경험을 매끄럽게 만드는 방법",
@@ -2964,6 +2966,16 @@
   "category_hint": "업무 활용",
   "category": "업무 활용",
   "title_en": "How to implement AI training for employees",
+  "buzz": 1
+ },
+ {
+  "title": "AI가 바꾸는 미래 의료…분당서울대병원, 국제 헬스케어 컨퍼런스 개최",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DUnROZEZZUUVhRUFHaTFhODAxc3N0MXJQVHJVOWVHQW5fRzJDNW1KRUV4cndXOFppNWNSUVE0a1IwYjBtVG4yRUtZN1ZFTWYyTEE?oc=5",
+  "summary": "",
+  "source": "AI경기방송",
+  "date": "2026-10-21T04:57:00+00:00",
+  "category_hint": "생활·교육",
+  "category": "생활·교육",
   "buzz": 1
  },
  {
@@ -5222,6 +5234,16 @@
   "buzz": 1
  },
  {
+  "title": "경로당 임원진 대상 스마트 교육…카카오톡·챗GPT 활용법 실습",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZdGxidjZhZjI4enJLakd3a0xkVF91NlRWcVNPVzlaencyYV9VcHhCM19VT2tvNUhYenRvY0llZGdkdnVQclNUUGxoUkRuaWlmN2Q0LVQ0N2Rtd3NWbFl4bHdmSDZUTThZNEg2aUJn?oc=5",
+  "summary": "",
+  "source": "www.gukjenews.com",
+  "date": "2026-08-07T07:00:00+00:00",
+  "category_hint": "생활·교육",
+  "category": "생활·교육",
+  "buzz": 1
+ },
+ {
   "title": "AI기본의료 추진…\"지·필·공의료 공백 메우고 국민 생명 지킨다\"",
   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VdzJzZ1p0YkdUZ2VIOTViUTFqRjBhVll4R05ZNFg3OUJCc3k5NGVPLUItRlh2ZkFzU0tBMXBMU0F5Rm52dy1TaDc3REllM2x5cWZ2ZUlB?oc=5",
   "summary": "",
@@ -6402,6 +6424,16 @@
   "buzz": 1
  },
  {
+  "title": "챗GPT를 업무에 적용하는 11가지 방법(UX)",
+  "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBwYkluSzJCLWVtZ1J2emZhdEZLX2NkNWRidWFqRlhCb2FrWVR1bmFqQUJJbG1oWDFnYmVBNllzcktMeXp3cTBtaA?oc=5",
+  "summary": "",
+  "source": "브런치",
+  "date": "2026-01-28T08:00:00+00:00",
+  "category_hint": "생활·교육",
+  "category": "생활·교육",
+  "buzz": 1
+ },
+ {
   "title": "노트북 가격 500만원 육박...AI 수요 폭증에 ‘메모리 쇼크'",
   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DOHRfM2d4a3hjZlF6dWYxZ0hwaFhyVWlDc203MEFUbXVBY3laUi13RERpdTlIMldXTlZob0JieXhscHItUE4wUFZxREJDd2g5aXdLVURjV3FXU0lOS2ZHcU1CU3FRdHVRSnhyNNIBcEFVX3lxTFBuRzRvWmZDMXg2MVFMRm10eEtTY3RlQW5fQ2poZTJrbHpqa2d1UVNuS1pmVFdMNDVVOUwtN1lmNFFWazVBaTFIQ1Njb0F0SmZVbnNhdjItaUpqaWJmcktMeGhEejd5dWNzZENSY09qQ1c?oc=5",
   "summary": "",
@@ -6652,6 +6684,16 @@
   "buzz": 1
  },
  {
+  "title": "자영업대출 사상 최대…영세 소상공인 연체율 12년만에 최고",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYVU4za0FIOGlObVJfcjJ3OTQ0Z19kLVQxczY1MjFaOHpIcHNCbjk0QkxFa3BNM2htNVVxbUdUX0w4QS16UF9pdHBFLUEwMWhEdXIzQVo0U3c3dFNjMktJTnVuU1BsejQ?oc=5",
+  "summary": "",
+  "source": "연합뉴스TV",
+  "date": "2025-10-12T07:00:00+00:00",
+  "category_hint": "생활·교육",
+  "category": "생활·교육",
+  "buzz": 1
+ },
+ {
   "title": "“AI는 노후 달리게 하는 ‘운전면허’, 시니어에게 기회”",
   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nWGhvT05fdThVc19maUdlSGRCMUtxVG9oVUM4V3RuOWlPZU41SENLNldsV0Q5cE9PN0dJZFNCbjYtdWwyemM0eFNja0Y4dTVpWXRVaVJ0R0YxUQ?oc=5",
   "summary": "",
@@ -6687,6 +6729,16 @@
   "summary": "",
   "source": "이투데이",
   "date": "2025-09-04T07:00:00+00:00",
+  "category_hint": "생활·교육",
+  "category": "생활·교육",
+  "buzz": 1
+ },
+ {
+  "title": "[Books] 된다! 하루 만에 끝내는 챗GPT 활용법",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tSldvbWQxVnNMcy1VM29sUnpIQzQ2Y2lRZlBlTVc4dzJ6MHZ0bXZtRTVReS1TdGNmb1UzN1JNdVRWTVAwU1Q1QkNleGxMS1ZpbzJURGtxaUt6Q21jQW5hZnhqTU5yMGxkM0VESg?oc=5",
+  "summary": "",
+  "source": "로봇신문",
+  "date": "2025-08-11T07:00:00+00:00",
   "category_hint": "생활·교육",
   "category": "생활·교육",
   "buzz": 1
@@ -6742,11 +6794,41 @@
   "buzz": 1
  },
  {
+  "title": "챗GPT 활용하자 동물병원 마케팅이 쉬워졌다",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zMU1UeldQc0dqdHYwSGVSdUdJUVJQOGdacy1WZ3dFRnZtemRCcWRhSjZydVJJWlhPT0NrdTV5SDJKNmhFUldIeG1hWExKczhfQW83VjF1bWNXbWRheERSTmltempTdDRIOU83VktzY2c0dw?oc=5",
+  "summary": "",
+  "source": "데일리벳",
+  "date": "2025-04-30T07:00:00+00:00",
+  "category_hint": "생활·교육",
+  "category": "생활·교육",
+  "buzz": 1
+ },
+ {
+  "title": "GPT 탐색! GPTs를 알면 챗GPT 활용이 달라진다",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kcUl2NXp2a2JENnJEaDFpeFhiWUl2WE9IQnRpNEdpWks2UWpzYXdrS1BkTnltSFljVGZqTktSTC1TQkFUbkdpc1ZxZjY0UFEyalBB?oc=5",
+  "summary": "",
+  "source": "브런치",
+  "date": "2025-04-26T07:00:00+00:00",
+  "category_hint": "생활·교육",
+  "category": "생활·교육",
+  "buzz": 1
+ },
+ {
   "title": "[교육칼럼] 사교육비 경감이 기대되는 AI디지털교과서",
   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yUXc0d1JPN3hQYVZwZi1GY1o3dUlyX0NyWEh2aEs2c2E2TExaaEFOUjFmVVBtVUFsdmhOemRUejBQVGF4ekN2YmFtUEtLMGJwMUdSMHA5TDdYamFvVlZaVkRJcXZhdW9QdEI1NVFzNTA?oc=5",
   "summary": "",
   "source": "인천일보",
   "date": "2025-04-23T07:00:00+00:00",
+  "category_hint": "생활·교육",
+  "category": "생활·교육",
+  "buzz": 1
+ },
+ {
+  "title": "챗GPT로 글쓰기 해봤더니..",
+  "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9sMHlDbW5aRGpWeVB2T21uR2kxWFV1SWtHT2p5X0NyV01YQkJfY0M3TjQ4ck16cFREMGN2VENqMlFNYTZlQVR3cQ?oc=5",
+  "summary": "",
+  "source": "브런치",
+  "date": "2025-04-11T03:17:14+00:00",
   "category_hint": "생활·교육",
   "category": "생활·교육",
   "buzz": 1
@@ -6767,6 +6849,16 @@
   "summary": "",
   "source": "이투데이",
   "date": "2025-04-07T07:00:00+00:00",
+  "category_hint": "생활·교육",
+  "category": "생활·교육",
+  "buzz": 1
+ },
+ {
+  "title": "홈>시민생각찾기>체험 프로그램 > 챗GPT 활용 글쓰기('24.6.22.) | 캠프마켓",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBkT0ZiM0tiQmJWTlVTSXlvU2xxN2Rlb1pfaUtnYnpsQ3NobUtCWE00NEVrb3V3WXpxTVR6eTJkMngyMl9pQ1VNbXpQWHNqWXF1SkJLYy1PQ2kyMS05R0hoRk5wZw?oc=5",
+  "summary": "",
+  "source": "인천광역시",
+  "date": "2025-03-29T19:55:31+00:00",
   "category_hint": "생활·교육",
   "category": "생활·교육",
   "buzz": 1
@@ -6982,6 +7074,26 @@
   "buzz": 1
  },
  {
+  "title": "상세페이지 기획부터 제작까지 챗GPT 활용법 > 괜찮은 상세페이지로 살아남기/최홍희 · 류소미",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sMHZwUUk2cFBYOWloejc3UjZzZ0hjLWxwSDRORXlGTldDcUluQU5RWXJoWmxiLThkNUd4SldMb3VxcGNSRl9Tdy1ZeU9kYURHZ0tGZ21fbGtKMG94X0JkU0h4c0dodWRkWFQxOHAzSjAteTE0dkE?oc=5",
+  "summary": "",
+  "source": "패션포스트",
+  "date": "2024-04-11T16:00:02+00:00",
+  "category_hint": "생활·교육",
+  "category": "생활·교육",
+  "buzz": 1
+ },
+ {
+  "title": "애인 하자고? 너 강퇴…사랑 빼고 다 되는 챗GPT 활용법",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1adzZWWW9SelIwei1jbWVrNEF6TEE2Q3RYVlhHUmxGTGtaV2pwQkVoVjRtTnZNdWpYS01PUGc5cHotRVlfT2J6T0tfR3gtQzNobmlfWkZR?oc=5",
+  "summary": "",
+  "source": "중앙일보",
+  "date": "2024-04-02T07:00:00+00:00",
+  "category_hint": "생활·교육",
+  "category": "생활·교육",
+  "buzz": 1
+ },
+ {
   "title": "지인인 척 접근하는 ‘그놈 목소리’ … 돈 얘기 꺼내면 일단 의심을",
   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mSnJqSmU5R09TWGIxQ3Nqb1BpdnA2ZERTSGNUbFZzUHV6X0t5VEJKR2t3YVU3ZjAxWGtGQ21VSkUtSVMyZWRuWEVud012MHlaR1dZYUd1dUxxUQ?oc=5",
   "summary": "",
@@ -7012,11 +7124,51 @@
   "buzz": 1
  },
  {
+  "title": "소매업계의 챗GPT 활용방안 : Strategy",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XWDc1cVlIR1p3WVRDb1NiZjhaMXYtVE5DdjlfOHJlc1Z0em1kN2Q4WUVCVmJRalR2M1F5TXhtZjNPRUpNeFltemJscTZrZDUxY2Z3QzY0T2pzQ0dsRV8yZUJCUmJ0c3JUWkE?oc=5",
+  "summary": "",
+  "source": "리테일톡",
+  "date": "2023-07-19T07:00:00+00:00",
+  "category_hint": "생활·교육",
+  "category": "생활·교육",
+  "buzz": 1
+ },
+ {
+  "title": "“자기 직무 챗GPT 활용법부터 고민하라, 富가 따라올 것”",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZnRfX0VKakdtdmNWUXFyRUR3RXRra2ZrYml5bUx4emw4ckJHeWtMT1RibTl1VHotRWRRNjJ2T2tUSVRnbklRV3BVb3JEOU02bE14VVFOcVhraldvalZDRjEwb1Q0VW9VVFNnMVFUdEFxZVQwblg0X2hHNVZOamhqMEk5YkxZOU5YYlZ2SnpR?oc=5",
+  "summary": "",
+  "source": "국제신문",
+  "date": "2023-07-06T07:00:00+00:00",
+  "category_hint": "생활·교육",
+  "category": "생활·교육",
+  "buzz": 1
+ },
+ {
   "title": "AI교과서 도입으로 '맞춤형 학습' 가능할까…기대·우려 교차",
   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1yUlh5T1JXYUFDRlhrdEZ0V3o0OU4zbkFzbkVoUVVfam5XVWpWcDhYa0EtcG5RNnZZcVBPaUdMRFFlUHI4M2htOUFOMGhOUkJ3RDllS3ZBaENKVUHSAWBBVV95cUxQOUxhVFRYZTl1MXF1Sk51VEozdVZZU1NybjRzLVVqdDZQTURqeWFpM1RkLXd4UV9fY1FMLV9tc1E1MmlieUpvX19RbHN6UzVuUTk5cnVudnhzd05Qb1RlMUQ?oc=5",
   "summary": "",
   "source": "연합뉴스",
   "date": "2023-06-08T07:00:00+00:00",
+  "category_hint": "생활·교육",
+  "category": "생활·교육",
+  "buzz": 1
+ },
+ {
+  "title": "[챗GPT] '척척박사' 챗GPT, 어떻게 활용해야 할까",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE82aHIyX1MwWWczaHdIZGdqWExJbG50clg1SVBRRXZLTGZQMkdxRUotc1FEdThJTmRHYmVqTTJfM2VRM1M4dUZjUFVOV19NMzNPaUw4ZGEyblhsczBuYzROQmZiN0pBTzFnX2pQM3h0VGpLZ9IBdkFVX3lxTE93QmpfS2VTamszdmROM013bHg4OVVoQ1kxWENJUU5Ib1VtM3A1NjFWNkNSV2lldF9hXy1mVWc2WUtGNjIxaF9GOTNodnhLUnJXRXlaOTAtTmN2M3AzMmxteWN3SHFJSG9kWEFhT1I2Y1gyNHRTRVE?oc=5",
+  "summary": "",
+  "source": "채널PNU",
+  "date": "2023-05-04T07:00:00+00:00",
+  "category_hint": "생활·교육",
+  "category": "생활·교육",
+  "buzz": 1
+ },
+ {
+  "title": "[위클리 스마트] 글만 잘 짓는 게 아니네…챗GPT 활용법은 무궁무진",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kTVA2R202MTltNEw5ZExOWW9ySl9UaE0zaXF5d0kwYi1VUjdydlJvcTFXQVRDVHlWOVViTjNraV9Mb0FLMnlQYmVCdVNLbEN4dHpVS2VtY3RtUUHSAWBBVV95cUxNVi1YdGRhVEZ4M1YtVXlrd3NUUmYyOThZaHBrQmZGTWNBYW5zVHZjQ3dCMWo5UzVjYTlTdjY0dXk1Z3o5ek12Q183WjJMV3FtUzZKY01FVFlJZjdLSzVqRUQ?oc=5",
+  "summary": "",
+  "source": "연합뉴스",
+  "date": "2023-04-01T07:00:00+00:00",
   "category_hint": "생활·교육",
   "category": "생활·교육",
   "buzz": 1
