@@ -1,5 +1,25 @@
 [
  {
+  "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+  "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+  "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after"
+ },
+ {
+  "url": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
+  "title": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
+  "summary": "Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document'"
+ },
+ {
+  "url": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
+  "title": "Data center backlash is uniting America",
+  "summary": "If there's one issue that seems to activate all kinds of voters in 2026, it's data centers. The rapid buildout of these massive server storage facilities - and the infrastructure construction and expe"
+ },
+ {
+  "url": "https://www.reddit.com/r/artificial/comments/1xgbnyg/openai_claims_to_have_proved_that_the_exponential/",
+  "title": "OpenAi claims to have proved that the Exponential Time Hypothesis is false, invalidating many past results that relied on it being true.",
+  "summary": ""
+ },
+ {
   "url": "https://openai.com/index/greptile-code-review-codex-astra",
   "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
   "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework."
@@ -33,6 +53,11 @@
   "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
   "title": "Working with academic communities to build scientific understanding",
   "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them."
+ },
+ {
+  "url": "https://www.reddit.com/r/artificial/comments/1xfybgm/openai_starts_training_its_most_powerful_systems/",
+  "title": "OpenAI starts training its most powerful systems again – but keeps them off the internet out of fear they would go rogue",
+  "summary": ""
  },
  {
   "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
@@ -73,6 +98,26 @@
   "url": "https://openai.com/index/introducing-gpt-6-1-terra",
   "title": "Introducing GPT-6.1 Terra",
   "summary": "Bringing fast and capable computer use to everyone"
+ },
+ {
+  "url": "https://www.reddit.com/r/artificial/comments/1xenhio/people_are_starting_to_use_ai_for_fb_marketplace/",
+  "title": "People are starting to use AI for FB Marketplace listings and it’s making me mad",
+  "summary": "A leather couch was listed. Pristine condition. Little wrinkling. Showed up and the couch was so worn down. I wouldn’t have looked at the listing in the first place had they used legitimate photos. It"
+ },
+ {
+  "url": "https://www.reddit.com/r/artificial/comments/1xcfl9w/have_you_used_used_ai_to_run_customer_interviews/",
+  "title": "Have you used used AI to run customer interviews at scale?",
+  "summary": "We’re lookin at AI moderation for a larger B2b customer research project and I’m tryna understand how much human review is still needed afterward I’ve looked at GLG and Qualitate to run the interviews"
+ },
+ {
+  "url": "https://www.reddit.com/r/artificial/comments/1xb3orm/hugging_face_ceo_calls_netflix_hacking_doc_scifi/",
+  "title": "Hugging Face CEO calls Netflix hacking doc 'sci-fi'",
+  "summary": ""
+ },
+ {
+  "url": "https://www.reddit.com/r/artificial/comments/1xaw48m/one_hacker_used_ai_agents_to_breach_100_company/",
+  "title": "One Hacker Used AI Agents to Breach 100+ Company Websites for About $5,000",
+  "summary": ""
  },
  {
   "url": "https://www.reddit.com/r/artificial/comments/1xatb44/how_a_photo_of_a_patients_face_could_predict/",
