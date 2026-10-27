@@ -1,1 +1,82 @@
-[]
+[
+ {
+  "url": "https://openai.com/index/greptile-code-review-codex-astra",
+  "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+  "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework."
+ },
+ {
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+  "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+  "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math,"
+ },
+ {
+  "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+  "title": "Will the real Anthropic please stand up",
+  "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its I"
+ },
+ {
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+  "title": "Anthropic is burning gas to feed the AI boom",
+  "summary": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate pow"
+ },
+ {
+  "url": "https://www.reddit.com/r/artificial/comments/1xg34zr/johns_hopkins_alerts_3000_patients_after_data/",
+  "title": "Johns Hopkins alerts 3,000+ patients after data sent to AI tool",
+  "summary": ""
+ },
+ {
+  "url": "https://www.reddit.com/r/artificial/comments/1xg12na/dutch_government_plans_to_cut_25000_jobs_16_in/",
+  "title": "Dutch Government Plans to Cut 25,000 Jobs (16%) in AI-Led Overhaul",
+  "summary": ""
+ },
+ {
+  "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+  "title": "Working with academic communities to build scientific understanding",
+  "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them."
+ },
+ {
+  "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+  "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+  "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes."
+ },
+ {
+  "url": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+  "title": "The RealReal won’t let AI agents hog designer clothing",
+  "summary": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after T"
+ },
+ {
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+  "title": "Five weird details from Anthropic’s IPO filing",
+  "summary": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending"
+ },
+ {
+  "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+  "title": "ChatGPT’s expanding world of work",
+  "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time."
+ },
+ {
+  "url": "https://www.reddit.com/r/artificial/comments/1xfreib/elvis_rights_holders_sue_anthropic_over_274/",
+  "title": "Elvis rights holders sue Anthropic over 274 compositions",
+  "summary": "Rights holders for 274 musical compositions recorded by Elvis Presley filed a federal complaint against Anthropic on October 23, 2026. The complaint identifies ABG EPE IP LLC and other companies, trus"
+ },
+ {
+  "url": "https://openai.com/index/openai-cut-incident-investigation",
+  "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+  "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows."
+ },
+ {
+  "url": "https://zapier.com/blog/gemini-omni",
+  "title": "Gemini Omni: What it is and how to use it",
+  "summary": "It feels like it was only last week when spotting an AI-generated video was easy peasy. All you had to do was look for the very obvious tells—like when a dog spawned a mysterious fifth limb mid-run or"
+ },
+ {
+  "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+  "title": "Introducing GPT-6.1 Terra",
+  "summary": "Bringing fast and capable computer use to everyone"
+ },
+ {
+  "url": "https://www.reddit.com/r/artificial/comments/1xatb44/how_a_photo_of_a_patients_face_could_predict/",
+  "title": "How a photo of a patient’s face could predict whether they’ll survive cancer",
+  "summary": ""
+ }
+]
