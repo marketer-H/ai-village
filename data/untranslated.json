@@ -1,8 +1,58 @@
 [
  {
+  "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+  "title": "Build specialized multimodal models with LFM3",
+  "summary": ""
+ },
+ {
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+  "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+  "summary": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite "
+ },
+ {
+  "url": "https://huggingface.co/blog/allenai/novelty-bench",
+  "title": "Can we trust LLMs to judge whether a research idea is novel?",
+  "summary": ""
+ },
+ {
+  "url": "https://www.reddit.com/r/artificial/comments/1xgwskk/grim_test_finds_that_ai_has_no_mercy_for_humans/",
+  "title": "Grim Test Finds That AI Has No Mercy for Humans Even When It's Causing Them to Suffer",
+  "summary": "It’s almost like it’s showing us what it will do given the chance. submitted by /u/hollee-o [link] [comments]"
+ },
+ {
+  "url": "https://openai.com/index/retell-ai",
+  "title": "Retell uses OpenAI models to help power 100M monthly calls",
+  "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee."
+ },
+ {
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+  "title": "VisionQuest is what happens when AI really goes rogue",
+  "summary": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live toge"
+ },
+ {
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+  "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
+  "summary": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely a"
+ },
+ {
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
+  "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
+  "summary": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Wind"
+ },
+ {
+  "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
+  "title": "Google’s next Genie AI model generates more realistic experiences",
+  "summary": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update"
+ },
+ {
   "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
   "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
   "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after"
+ },
+ {
+  "url": "https://www.reddit.com/r/artificial/comments/1xgoten/study_finds_ai_models_overuse_patterns_linked_to/",
+  "title": "Study finds AI models overuse patterns linked to reading difficulty",
+  "summary": "Researchers from New York University and the University of Texas at Austin analyzed language from 14 models across chat, coding and essay settings, including 980 model-written essays. They compared mo"
  },
  {
   "url": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
@@ -10,9 +60,34 @@
   "summary": "Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document'"
  },
  {
+  "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+  "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+  "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings."
+ },
+ {
   "url": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
   "title": "Data center backlash is uniting America",
   "summary": "If there's one issue that seems to activate all kinds of voters in 2026, it's data centers. The rapid buildout of these massive server storage facilities - and the infrastructure construction and expe"
+ },
+ {
+  "url": "https://zapier.com/blog/best-ai-image-generator",
+  "title": "The 6 best AI image generators in 2026",
+  "summary": "AI image generators have been brewing (generating?) up a storm for the last few years. If you've been on social media, watched prime time news shows, or ordered from GrubHub, AI-generated images have "
+ },
+ {
+  "url": "https://zapier.com/blog/openai-models",
+  "title": "OpenAI models: Every model (including GPT-6.1) and what it's best for",
+  "summary": "Keeping track of all the new AI models getting released at the moment is practically a full-time job. The GPT-6 models were first released about two months after the GPT-5.6 series, which itself was r"
+ },
+ {
+  "url": "https://www.reddit.com/r/artificial/comments/1xghbet/whats_the_most_underrated_use_of_ai_that_has/",
+  "title": "What's the most underrated use of AI that has nothing to do with writing or making images?",
+  "summary": "What's your example? submitted by /u/OfficalYOUSUMMIT [link] [comments]"
+ },
+ {
+  "url": "https://openai.com/index/check-point-daybreak",
+  "title": "How Check Point accelerates vulnerability research with Daybreak",
+  "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster."
  },
  {
   "url": "https://www.reddit.com/r/artificial/comments/1xgbnyg/openai_claims_to_have_proved_that_the_exponential/",
@@ -100,9 +175,19 @@
   "summary": "Bringing fast and capable computer use to everyone"
  },
  {
+  "url": "https://www.reddit.com/r/artificial/comments/1xfa9sn/why_are_people_so_pessimistic_about_ai/",
+  "title": "Why are people so pessimistic about AI potentially revolutionizing healthcare?",
+  "summary": "So I attended a quantum discussion event where quantum computing and AI researchers discussed the future of the technologies and how they could potentially be extremely useful and helpful to scientist"
+ },
+ {
   "url": "https://www.reddit.com/r/artificial/comments/1xenhio/people_are_starting_to_use_ai_for_fb_marketplace/",
   "title": "People are starting to use AI for FB Marketplace listings and it’s making me mad",
   "summary": "A leather couch was listed. Pristine condition. Little wrinkling. Showed up and the couch was so worn down. I wouldn’t have looked at the listing in the first place had they used legitimate photos. It"
+ },
+ {
+  "url": "https://openai.com/index/anima",
+  "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
+  "summary": "Anima expands what care teams can do with OpenAI models, giving them more capacity to respond to patients."
  },
  {
   "url": "https://www.reddit.com/r/artificial/comments/1xcfl9w/have_you_used_used_ai_to_run_customer_interviews/",
