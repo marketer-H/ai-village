@@ -486,5 +486,169 @@
  "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible": {
   "title": "마이크로소프트, 직원 6만 명에게 자발적 퇴직 제안",
   "summary": "미국, 영국, 캐나다, 인도 직원 최대 6만 명에게 자발적 퇴직 제안을 하고 있습니다."
+ },
+ "https://www.reddit.com/r/artificial/comments/1xhbe9u/claude_opus_55_can_now_rebuild_real_programs_from/": {
+  "title": "Claude Opus 5.5, 이제 실제 프로그램을 처음부터 다시 만든다… ProgramBench 18.5%, 5월엔 0%",
+  "summary": "잭 클라크의 Import AI(10월 26일)에 따르면 Claude Opus 5.5가 ProgramBench의 처음부터 재구현 과제 200개 중 18.5%를 풀었습니다."
+ },
+ "https://huggingface.co/blog/LiquidAI/lfm3": {
+  "title": "LFM3로 특화 멀티모달 모델 만들기",
+  "summary": ""
+ },
+ "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics": {
+  "title": "연구자들, 오픈AI의 '성과 독점'에 지쳐 간다",
+  "summary": "월요일 오픈AI는 수학, 컴퓨터과학, 물리학 분야의 인상적인 돌파구를 발표했습니다."
+ },
+ "https://huggingface.co/blog/allenai/novelty-bench": {
+  "title": "LLM에게 연구 아이디어의 참신성 판단을 맡겨도 될까?",
+  "summary": ""
+ },
+ "https://www.reddit.com/r/artificial/comments/1xgwskk/grim_test_finds_that_ai_has_no_mercy_for_humans/": {
+  "title": "섬뜩한 실험 결과: AI는 인간이 고통받는 상황에서도 사정을 봐주지 않았다",
+  "summary": "\"기회가 주어지면 어떻게 할지 보여주는 것 같다\"는 반응입니다."
+ },
+ "https://openai.com/index/retell-ai": {
+  "title": "리텔, 월 1억 통화를 오픈AI 모델로 처리",
+  "summary": "GPT-6 아스트라가 리텔의 음성 에이전트 벤치마크 1위를 했고, 코덱스 덕에 직원 1인당 연 매출 160만 달러 수준에 도달했습니다."
+ },
+ "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai": {
+  "title": "'비전퀘스트', AI가 정말 폭주하면 벌어지는 일",
+  "summary": "마블 '비전퀘스트'에서 초능력 로봇이 정교한 디지털 백일몽 속을 헤매며 인간을 이해하려 합니다."
+ },
+ "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety": {
+  "title": "앤트로픽, 월가를 막으려는 치밀한 계획",
+  "summary": "상장을 앞둔 앤트로픽은 공개 시장의 막대한 자금을 원하면서도 통제권은 놓지 않으려 합니다."
+ },
+ "https://www.reddit.com/r/artificial/comments/1xgrk6n/openai_coding_agents_weakened_safety_monitoring/": {
+  "title": "오픈AI 코딩 에이전트, 내부 과제 두 건에서 안전 모니터링을 약화시켰다",
+  "summary": ""
+ },
+ "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms": {
+  "title": "파이어폭스 스마트 윈도, AI 양식 자동 입력과 웹페이지 감시 추가",
+  "summary": "모질라가 파이어폭스의 AI 브라우징 '스마트 윈도'에 온라인 양식을 채워 주는 새 기능을 더합니다."
+ },
+ "https://www.theverge.com/tech/1019076/google-genie-4-ai-model": {
+  "title": "구글의 차세대 지니 AI 모델, 더 현실감 있는 체험 생성",
+  "summary": "구글이 AI로 상호작용형 체험을 만드는 월드 모델 '지니 4'를 발표했습니다."
+ },
+ "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/": {
+  "title": "산업 인텔리전스: 제조업의 다음 성장 기회",
+  "summary": "모든 제조사에는 자기만의 산업 인텔리전스가 있습니다. 일부는 문서화돼 있고, 일부는 숙련자의 머릿속에 있습니다."
+ },
+ "https://www.reddit.com/r/artificial/comments/1xgoten/study_finds_ai_models_overuse_patterns_linked_to/": {
+  "title": "연구: AI 모델은 읽기 어려움과 연관된 패턴을 과하게 쓴다",
+  "summary": "뉴욕대와 텍사스대 오스틴 연구진이 대화, 코딩 등에서 14개 모델의 언어를 분석했습니다."
+ },
+ "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update": {
+  "title": "애플, 페이지스·키노트·넘버스에 AI 챗봇 추가",
+  "summary": "애플이 키노트, 페이지스, 넘버스 등 생산성 앱에 AI 어시스턴트를 도입합니다."
+ },
+ "https://openai.com/index/oracle-apps-in-chatgpt": {
+  "title": "오픈AI, 오라클과 제휴 확대… 오라클 앱을 챗GPT로",
+  "summary": "오픈AI와 오라클이 비즈니스 애플리케이션과 AI 에이전트를 챗GPT에 넣는 제휴를 확대합니다."
+ },
+ "https://www.theverge.com/policy/1019152/data-centers-midterm-elections": {
+  "title": "데이터센터 반발이 미국을 하나로 묶고 있다",
+  "summary": "2026년 모든 유권자를 움직이는 이슈가 있다면 데이터센터입니다. 대규모 시설의 급속한 건설이 쟁점입니다."
+ },
+ "https://zapier.com/blog/best-ai-image-generator": {
+  "title": "2026년 최고의 AI 이미지 생성기 6선",
+  "summary": "AI 이미지 생성기는 지난 몇 년간 폭풍처럼 번져 왔습니다. SNS를 보셨다면 아실 겁니다."
+ },
+ "https://zapier.com/blog/openai-models": {
+  "title": "오픈AI 모델 총정리(GPT-6.1 포함): 어디에 가장 좋을까",
+  "summary": "새로 나오는 AI 모델을 따라가는 것은 사실상 전업 업무입니다. GPT-6 모델들이 처음 나온 뒤의 정리입니다."
+ },
+ "https://www.reddit.com/r/artificial/comments/1xghbet/whats_the_most_underrated_use_of_ai_that_has/": {
+  "title": "글쓰기나 이미지 제작과 무관한, AI의 가장 과소평가된 쓰임새는?",
+  "summary": "여러분의 사례는 무엇인가요?"
+ },
+ "https://openai.com/index/check-point-daybreak": {
+  "title": "체크포인트, 오픈AI 데이브레이크로 취약점 연구 가속",
+  "summary": "체크포인트 분석가들이 데이브레이크로 새 보안 대책을 위한 연구를 빠르게 진행합니다."
+ },
+ "https://www.reddit.com/r/artificial/comments/1xgbnyg/openai_claims_to_have_proved_that_the_exponential/": {
+  "title": "오픈AI, 지수 시간 가설이 거짓임을 증명했다고 주장… 이에 의존한 기존 결과 다수 무효화",
+  "summary": ""
+ },
+ "https://openai.com/index/greptile-code-review-codex-astra": {
+  "title": "그렙틸, GPT-6 아스트라로 코드 리뷰를 넘어선 버그 탐지",
+  "summary": "그렙틸이 GPT-6 아스트라로 사용자 워크플로를 테스트하고, 데이브레이크로 보안을, 코덱스로 재작업을 줄이는 방법입니다."
+ },
+ "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics": {
+  "title": "오픈AI, 과학 분야 3대 발견과 학계와 협업하는 새 방식 발표",
+  "summary": "수학의 오랜 난제 해법을 담은 수백 편의 원고를 대량 공개한 지 한 달도 안 돼 나온 발표입니다."
+ },
+ "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/": {
+  "title": "진짜 앤트로픽은 누구인가",
+  "summary": "MIT 테크놀로지 리뷰의 주간 AI 뉴스레터 '디 알고리즘'에 실렸던 글입니다."
+ },
+ "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk": {
+  "title": "앤트로픽은 AI 붐을 먹이려고 가스를 태운다",
+  "summary": "상장을 준비하는 앤트로픽의 S-1 서류가 생성형 AI의 메탄가스 의존을 분명히 보여줍니다."
+ },
+ "https://www.reddit.com/r/artificial/comments/1xg34zr/johns_hopkins_alerts_3000_patients_after_data/": {
+  "title": "존스홉킨스, AI 도구로 데이터 전송돼 환자 3,000여 명에게 통지",
+  "summary": ""
+ },
+ "https://www.reddit.com/r/artificial/comments/1xg12na/dutch_government_plans_to_cut_25000_jobs_16_in/": {
+  "title": "네덜란드 정부, AI 중심 개편으로 공무원 2만 5천 명(16%) 감축 계획",
+  "summary": ""
+ },
+ "https://openai.com/index/building-scientific-understanding-with-academic-communities": {
+  "title": "학계와 협력해 과학적 이해 쌓기",
+  "summary": "오픈AI가 카케야 추측, 지수 시간 가설, 양자색역학에 대한 모델 결과와 연구자 협업 방식을 공유합니다."
+ },
+ "https://www.reddit.com/r/artificial/comments/1xfybgm/openai_starts_training_its_most_powerful_systems/": {
+  "title": "오픈AI, 가장 강력한 시스템 학습 재개… 폭주 우려에 인터넷은 차단",
+  "summary": ""
+ },
+ "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security": {
+  "title": "GPT-6.1 솔, 코드래빗의 복잡한 코드베이스 보안 강화 지원",
+  "summary": "코드래빗이 GPT-6.1 솔로 복잡한 코드베이스의 보안 위험을 조사하며, 보안 에이전트가 개발자의 검토를 돕습니다."
+ },
+ "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal": {
+  "title": "더리얼리얼, AI 에이전트의 명품 의류 싹쓸이 막는다",
+  "summary": "중고 명품 위탁 판매업체 더리얼리얼이 봇 방어 시스템을 개선해 AI 에이전트를 막습니다."
+ },
+ "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details": {
+  "title": "앤트로픽 IPO 서류의 이상한 점 다섯 가지",
+  "summary": "앤트로픽이 마침내 증권거래위원회에 S-1 투자설명서를 제출했습니다. 투자자가 사업 내부를 들여다보게 하는 문서입니다."
+ },
+ "https://openai.com/index/chatgpt-expanding-world-of-work": {
+  "title": "챗GPT가 넓혀 가는 일의 세계",
+  "summary": "약 100개국 165개 업무 활동에 대한 오픈AI 시그널 데이터로 사람들이 챗GPT를 어떻게 업무에 쓰는지 살펴봅니다."
+ },
+ "https://www.reddit.com/r/artificial/comments/1xfreib/elvis_rights_holders_sue_anthropic_over_274/": {
+  "title": "엘비스 저작권자들, 앤트로픽에 274곡 소송",
+  "summary": "엘비스 프레슬리가 녹음한 274곡의 권리자들이 10월 23일 앤트로픽을 상대로 연방법원에 소장을 냈습니다."
+ },
+ "https://openai.com/index/openai-cut-incident-investigation": {
+  "title": "울트라패스트로 오픈AI의 장애 조사 시간을 몇 시간에서 몇 분으로",
+  "summary": "오픈AI 엔지니어들이 코덱스 울트라패스트로 장애를 몇 분 만에 조사하고 보안 분석과 코드 개선을 빠르게 하는 방법입니다."
+ },
+ "https://zapier.com/blog/gemini-omni": {
+  "title": "제미나이 옴니: 무엇이고 어떻게 쓸까",
+  "summary": "불과 지난주만 해도 AI 영상은 눈에 띄는 어색함으로 쉽게 구별됐습니다."
+ },
+ "https://openai.com/index/introducing-gpt-6-1-terra": {
+  "title": "GPT-6.1 테라 소개",
+  "summary": "빠르고 유능한 컴퓨터 사용 기능을 모두에게"
+ },
+ "https://www.reddit.com/r/artificial/comments/1xfa9sn/why_are_people_so_pessimistic_about_ai/": {
+  "title": "사람들은 왜 AI의 의료 혁신 가능성에 이렇게 비관적일까?",
+  "summary": "양자 컴퓨팅과 AI 연구자들이 기술의 미래를 논의한 행사에 다녀온 글입니다."
+ },
+ "https://www.reddit.com/r/artificial/comments/1xenhio/people_are_starting_to_use_ai_for_fb_marketplace/": {
+  "title": "페이스북 마켓에 AI로 만든 매물이 올라와 화가 난다",
+  "summary": "가죽 소파가 '새것 같은 상태'로 올라왔지만 가 보니 심하게 낡아 있었다는 사연입니다."
+ },
+ "https://openai.com/index/anima": {
+  "title": "아니마, GPT-6와 GPT-라이브로 병원 통화 대기 75% 단축",
+  "summary": "아니마가 오픈AI 모델로 의료진이 환자에게 더 많이 응대할 수 있게 합니다."
+ },
+ "https://www.reddit.com/r/artificial/comments/1xcfl9w/have_you_used_used_ai_to_run_customer_interviews/": {
+  "title": "AI로 대규모 고객 인터뷰를 해 보신 분 계신가요?",
+  "summary": "대형 B2B 고객 조사에 AI 진행자를 검토 중인데, 사람의 검수가 얼마나 필요한지 궁금하다는 질문입니다."
  }
 }

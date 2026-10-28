@@ -249,5 +249,40 @@
     "name": "구글뉴스: AI 노후",
     "url": "https://news.google.com/rss/search?q=AI+%EB%85%B8%ED%9B%84+%EC%9D%80%ED%87%B4+%EC%8B%9C%EB%8B%88%EC%96%B4&hl=ko&gl=KR&ceid=KR:ko",
     "category": "생활·교육"
+  },
+  {
+    "name": "구글뉴스: AI 도입 후기",
+    "url": "https://news.google.com/rss/search?q=AI+%EB%8F%84%EC%9E%85+%ED%9B%84%EA%B8%B0+%EC%A7%81%EC%9E%A5%EC%9D%B8&hl=ko&gl=KR&ceid=KR:ko",
+    "category": "활용 사례"
+  },
+  {
+    "name": "구글뉴스: AI 활용 사례 공유",
+    "url": "https://news.google.com/rss/search?q=AI+%EC%97%85%EB%AC%B4+%ED%99%9C%EC%9A%A9+%EC%82%AC%EB%A1%80+%EA%B3%B5%EC%9C%A0&hl=ko&gl=KR&ceid=KR:ko",
+    "category": "활용 사례"
+  },
+  {
+    "name": "구글뉴스: 챗GPT 업무 적용",
+    "url": "https://news.google.com/rss/search?q=%EC%B1%97GPT+%EC%97%85%EB%AC%B4+%EC%A0%81%EC%9A%A9+%EC%82%AC%EB%A1%80&hl=ko&gl=KR&ceid=KR:ko",
+    "category": "활용 사례"
+  },
+  {
+    "name": "구글뉴스: AI 자동화 성공",
+    "url": "https://news.google.com/rss/search?q=AI+%EC%97%85%EB%AC%B4+%EC%9E%90%EB%8F%99%ED%99%94+%EC%84%B1%EA%B3%B5+%EC%82%AC%EB%A1%80&hl=ko&gl=KR&ceid=KR:ko",
+    "category": "활용 사례"
+  },
+  {
+    "name": "구글뉴스: 중소기업 AI 사례",
+    "url": "https://news.google.com/rss/search?q=%EC%A4%91%EC%86%8C%EA%B8%B0%EC%97%85+AI+%EB%8F%84%EC%9E%85+%EC%82%AC%EB%A1%80&hl=ko&gl=KR&ceid=KR:ko",
+    "category": "활용 사례"
+  },
+  {
+    "name": "구글뉴스: AI 써봤더니",
+    "url": "https://news.google.com/rss/search?q=AI+%EC%8D%A8%EB%B4%A4%EB%8D%94%EB%8B%88+%EC%97%85%EB%AC%B4+%ED%9B%84%EA%B8%B0&hl=ko&gl=KR&ceid=KR:ko",
+    "category": "활용 사례"
+  },
+  {
+    "name": "구글뉴스: 공공 AI 사례",
+    "url": "https://news.google.com/rss/search?q=%EA%B3%B5%EB%AC%B4%EC%9B%90+%EC%A7%80%EC%9E%90%EC%B2%B4+AI+%ED%99%9C%EC%9A%A9+%EC%82%AC%EB%A1%80&hl=ko&gl=KR&ceid=KR:ko",
+    "category": "활용 사례"
   }
 ]

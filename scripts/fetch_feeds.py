@@ -11,12 +11,14 @@ ROOT = Path(__file__).resolve().parent.parent
 MAX_PER_FEED = 20
 SCAN_LIMIT = 60
 AI_WORDS = ["ai", "인공지능", "챗gpt", "chatgpt", "gpt", "생성형", "llm", "클로드", "claude", "제미나이", "gemini", "코파일럿", "copilot", "딥러닝", "머신러닝", "오픈ai", "앤트로픽", "딥시크"]
-MAX_TOTAL = 800
+MAX_TOTAL = 1500
+KEEP_DAYS = 30  # 이보다 오래된 글은 목록에서 뺀다
 ATOM = "{http://www.w3.org/2005/Atom}"
 
 
 # 위에서부터 먼저 걸리는 분야로 분류한다. 어디에도 안 걸리면 공식 출처는 "공식 자료", 나머지는 "기타".
 CATEGORIES = [
+    ("활용 사례", ["활용 사례", "도입 사례", "적용 사례", "성공 사례", "도입 후기", "사용 후기", "업무 후기", "써봤", "써보니", "해봤", "도입기", "경험담", "case study", "customer story", "how a ", "how an "]),
     ("영상·이미지", ["영상", "동영상", "편집", "이미지", "사진", "그림", "음악", "음성", "목소리", "video", "sora", "veo", "image", "photo", "music", "audio", "voice", "midjourney", "runway", "diffusion"]),
     ("생활·교육", ["시니어", "노인", "어르신", "중장년", "교육", "학교", "학생", "수업", "일상", "생활", "건강", "의료", "보이스피싱", "사기", "육아", "여행", "요리", "활용법", "배우", "강좌", "입문"]),
     ("SNS·마케팅", ["sns", "인스타", "유튜브", "틱톡", "쇼츠", "블로그", "마케팅", "광고", "콘텐츠", "크리에이터", "소셜", "instagram", "youtube", "tiktok", "social", "creator", "marketing", "ads", "seo"]),
@@ -209,6 +211,8 @@ def main():
     for a in by_url.values():
         a["category"] = a.get("category_hint") or classify(a)
     merged = sorted(by_url.values(), key=lambda a: a["date"], reverse=True)
+    cutoff = datetime.now(timezone.utc).timestamp() - KEEP_DAYS * 86400
+    merged = [a for a in merged if datetime.fromisoformat(a["date"]).timestamp() >= cutoff]
     left = apply_translations(merged)  # 번역한 한국어 제목으로 비교해야 영어 글과 한국어 기사가 같은 사건으로 묶인다
     merged = dedupe(merged, prior)[:MAX_TOTAL]
     path.write_text(json.dumps(merged, ensure_ascii=False, indent=1))
