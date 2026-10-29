@@ -1,8 +1,53 @@
 [
  {
+  "url": "https://www.reddit.com/r/artificial/comments/1xi1fg7/llms_are_significantly_better_at_finding_mistakes/",
+  "title": "LLMs are significantly better at finding mistakes in papers than trained human reviewers",
+  "summary": "https://fixupx.com/rust_ruslan/status/2115493697001513053?a=rVJZ_8g4TDjREuYi4jc&s=20 submitted by /u/Eliv_nurotic [link] [comments]"
+ },
+ {
+  "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+  "title": "Creating AI value with enterprise context",
+  "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automati"
+ },
+ {
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+  "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+  "summary": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's"
+ },
+ {
+  "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+  "title": "Akai is embracing vibe-coded mods with an open-source MPC",
+  "summary": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers"
+ },
+ {
+  "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+  "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+  "summary": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's to"
+ },
+ {
   "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
   "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
   "summary": ""
+ },
+ {
+  "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+  "title": "Microsoft is ending Copilot support on smart TVs",
+  "summary": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality "
+ },
+ {
+  "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+  "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+  "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex."
+ },
+ {
+  "url": "https://www.reddit.com/r/artificial/comments/1xhnkxt/uk_uses_ai_to_summarise_asylum_interviews_one_in/",
+  "title": "UK Uses AI to Summarise Asylum Interviews: One in Five Checked Summaries Failed",
+  "summary": ""
+ },
+ {
+  "url": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
+  "title": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
+  "summary": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like "
  },
  {
   "url": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
@@ -18,6 +63,11 @@
   "url": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
   "title": "xAI is buying out homeowners who promise not to sue over data center noise",
   "summary": "A subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data center and power plant, accordi"
+ },
+ {
+  "url": "https://openai.com/index/the-future-of-the-firm",
+  "title": "The future of the firm",
+  "summary": "How AI might enter the org chart—beneath, beside, and between us."
  },
  {
   "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
