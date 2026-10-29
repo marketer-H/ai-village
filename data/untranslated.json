@@ -1,8 +1,88 @@
 [
  {
+  "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+  "title": "Granite Switch 4.1.1 — Update models like you update software",
+  "summary": ""
+ },
+ {
+  "url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
+  "title": "Microsoft’s AI future has fewer jobs",
+  "summary": "To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the si"
+ },
+ {
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+  "title": "The NYT Cooking app is testing AI recipe modifications",
+  "summary": "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users. Last Friday, NYT Cooking senior editor Genevieve Ko an"
+ },
+ {
+  "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+  "title": "We urgently need to monitor AI agents’ actions in real time",
+  "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about"
+ },
+ {
+  "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+  "title": "Anthropic is asking Wall Street to believe in AGI",
+  "summary": "Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document know"
+ },
+ {
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+  "title": "Anthropic’s business plan: Build God or die trying",
+  "summary": "The Anthropic S-1 seems to have provided the financial justification for the company to spend as much as it possibly can on compute. If you are the kind of person who wonders if Anthropic is doing its"
+ },
+ {
+  "url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
+  "title": "AI has come for Arizona’s water",
+  "summary": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded app"
+ },
+ {
+  "url": "https://zapier.com/blog/best-ai-project-management-tools",
+  "title": "The 5 best AI project management tools in 2026",
+  "summary": "When was the last time you looked at your project management app and didn't get a stress level spike? No matter how much you plan or reprioritize, it always feels like running a sprint on a tightrope."
+ },
+ {
+  "url": "https://zapier.com/blog/automate-google-ai-studio",
+  "title": "Gemini automation: How to use the Zapier Gemini integration (Gemini 3.8 Flash, Gemini Enterprise, and more)",
+  "summary": "Anyone who lives in the Google ecosystem has probably used Gemini for a quick draft or a fast answer. (Or if you're like me, you've been driven to your limit by the Google Docs popups encouraging you "
+ },
+ {
+  "url": "https://zapier.com/blog/how-does-chatgpt-work",
+  "title": "What is ChatGPT? How it works and what it can do",
+  "summary": "I've been writing about AI since before most people knew what it stood for, so a question as simple as \"What is ChatGPT?\" should be a softball. But as OpenAI has kept pushing ChatGPT forward with new "
+ },
+ {
+  "url": "https://zapier.com/blog/openai-playground",
+  "title": "How to use the OpenAI playground to tinker with OpenAI models",
+  "summary": "ChatGPT can do basically anything you ask, but you really don't have a huge amount of control over its outputs. If you want to do more with OpenAI's models, you need to dig a little deeper. If you rea"
+ },
+ {
+  "url": "https://zapier.com/blog/google-gemini",
+  "title": "What is Google Gemini?",
+  "summary": "Google has been in its \"Gemini era\" for a couple years now, and while the confusing rebrandings have slowed, everything else continues to improve at a rapid pace. Gemini is the name Google gave to its"
+ },
+ {
+  "url": "https://huggingface.co/blog/announcing-project-protostar",
+  "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+  "summary": ""
+ },
+ {
+  "url": "https://huggingface.co/blog/mistral-large4",
+  "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+  "summary": ""
+ },
+ {
+  "url": "https://huggingface.co/blog/anydecisionmodel",
+  "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+  "summary": ""
+ },
+ {
   "url": "https://www.reddit.com/r/artificial/comments/1xi1fg7/llms_are_significantly_better_at_finding_mistakes/",
   "title": "LLMs are significantly better at finding mistakes in papers than trained human reviewers",
   "summary": "https://fixupx.com/rust_ruslan/status/2115493697001513053?a=rVJZ_8g4TDjREuYi4jc&s=20 submitted by /u/Eliv_nurotic [link] [comments]"
+ },
+ {
+  "url": "https://www.reddit.com/r/artificial/comments/1xi0dcg/github_just_announced_a_major_overhaul_of_copilot/",
+  "title": "GitHub just announced a major overhaul of Copilot, 'evolving' to focus on an agentic future",
+  "summary": ""
  },
  {
   "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
@@ -18,6 +98,11 @@
   "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
   "title": "Akai is embracing vibe-coded mods with an open-source MPC",
   "summary": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers"
+ },
+ {
+  "url": "https://www.reddit.com/r/artificial/comments/1xhuemz/gemini_4_carbon_ranks_1_on_artificial_analysis_v5/",
+  "title": "Gemini 4 Carbon Ranks #1 on Artificial Analysis V5",
+  "summary": ""
  },
  {
   "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
@@ -108,5 +193,10 @@
   "url": "https://www.reddit.com/r/artificial/comments/1xh84gr/how_do_you_picture_your_life_or_workday_if_ai/",
   "title": "how do you picture your life or workday if ai suddenly vanished?🤖",
   "summary": "lowkey curious what people think. feels like we’ve all just gotten used to ai being part of everything now so yeah - what would your daily routine or workflow actually look like without it? submitted "
+ },
+ {
+  "url": "https://www.reddit.com/r/artificial/comments/1xh0yrj/openai_just_scooped_human_researchers_on_a/",
+  "title": "OpenAI just scooped human researchers on a million-dollar quantum math problem",
+  "summary": ""
  }
 ]
