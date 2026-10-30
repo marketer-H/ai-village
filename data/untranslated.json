@@ -1,5 +1,60 @@
 [
  {
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+  "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+  "summary": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encou"
+ },
+ {
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
+  "title": "Silicon Valley wants you to invest in miracles",
+  "summary": "Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario"
+ },
+ {
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+  "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+  "summary": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no"
+ },
+ {
+  "url": "https://www.reddit.com/r/artificial/comments/1xj9zau/googles_parent_company_alphabet_shares_record/",
+  "title": "Google's parent company Alphabet shares record their worst day ever, shedding $500 billion in value",
+  "summary": ""
+ },
+ {
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
+  "title": "Maine’s data center revolt will decide who controls the Senate",
+  "summary": "Maine Sen. Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short. \"I'm terrified,\" a man shouted. \"AI data "
+ },
+ {
+  "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+  "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+  "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not"
+ },
+ {
+  "url": "https://zapier.com/blog/automate-grok",
+  "title": "Grok automation: How to use the Zapier Grok integration (Grok 4.7, Grok Bot, and more)",
+  "summary": "Grok has a very specific edge over other AI models: live access to X, so your agents can keep their finger on the pulse a little more easily. But outside of that, Grok models and agents are still soli"
+ },
+ {
+  "url": "https://zapier.com/blog/ai-transformation",
+  "title": "What is AI transformation in 2027? How to build a strategy for your business",
+  "summary": "It can feel impossible to escape the pressure to \"do something\" with AI. Maybe your CEO just asked about your AI strategy in an all-hands, or your competitors are shipping faster thanks to automation."
+ },
+ {
+  "url": "https://zapier.com/blog/meta-ai-muse-spark",
+  "title": "Muse Wonder and Muse Spark: A guide to Meta's AI models",
+  "summary": "Meta has shifted to a new family of flagship AI models called Muse and sent the Llama \"herd\" of models to the farm upstate. It's a dramatic but understandable shift in AI strategy from the company tha"
+ },
+ {
+  "url": "https://www.reddit.com/r/artificial/comments/1xj2qw1/reddit_will_force_everyone_to_log_in/",
+  "title": "Reddit will force everyone to log in",
+  "summary": "Recently, CEO Steve Huffman disclosed that Reddit will transition to a \"logged-in-only\" experience. This means that Reddit posts will no longer be searchable via internet browsers, significantly impac"
+ },
+ {
+  "url": "https://www.reddit.com/r/artificial/comments/1xiyu6e/glm_53_can_autonomously_compromise_recent/",
+  "title": "GLM 5.3 can autonomously compromise recent versions of Mozilla Firefox",
+  "summary": "https://epoch.ai/publications/open-weight-models-patch-gap submitted by /u/Eliv_nurotic [link] [comments]"
+ },
+ {
   "url": "https://www.reddit.com/r/artificial/comments/1xiwxih/31yearold_woman_reduced_epilepsy_medication_after/",
   "title": "31-Year-Old Woman Reduced Epilepsy Medication After ChatGPT Advice: Report Links Case to Her Death",
   "summary": ""
@@ -118,6 +173,11 @@
   "url": "https://zapier.com/blog/ai-cost-management",
   "title": "AI cost management: How we track and optimize AI spend at Zapier",
   "summary": "Does $5,000 in AI spend equal $5,000 in value? If it does, that's a bad investment. A 1x return wouldn't get approved anywhere else in our budget, and AI doesn't get an exception. As the Chief Operati"
+ },
+ {
+  "url": "https://openai.com/index/credit-saison",
+  "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+  "summary": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption."
  },
  {
   "url": "https://www.reddit.com/r/artificial/comments/1xi1fg7/llms_are_significantly_better_at_finding_mistakes/",
