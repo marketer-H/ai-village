@@ -1,8 +1,58 @@
 [
  {
+  "url": "https://www.reddit.com/r/artificial/comments/1xjqc40/ai_cracks_a_27yearold_pillar_of_computer_science/",
+  "title": "AI cracks a 27-year-old pillar of computer science, OpenAI and Anthropic claim",
+  "summary": ""
+ },
+ {
+  "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+  "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+  "summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in"
+ },
+ {
+  "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+  "title": "nemotron-halloween",
+  "summary": ""
+ },
+ {
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+  "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+  "summary": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appea"
+ },
+ {
+  "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+  "title": "The biggest names in AI are backing a new way to opt out of scraping",
+  "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this contro"
+ },
+ {
+  "url": "https://www.reddit.com/r/artificial/comments/1xjiczy/tech_stocks_set_to_wipe_out_more_than_1_trillion/",
+  "title": "Tech stocks set to wipe out more than $1 trillion as concerns deepen about the AI boom",
+  "summary": ""
+ },
+ {
+  "url": "https://www.reddit.com/r/artificial/comments/1xjgy47/why_is_every_ai_interface_still_just_a_text_box/",
+  "title": "Why is every AI interface still just a text box?",
+  "summary": "I get that it’s flexible and easy, but is a disorganized pile of “chats” and an empty text box really the best way for ordinary people to interface with a consumer AI? These things can create custom U"
+ },
+ {
+  "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+  "title": "Google’s satellite AI server transmits its first response to Earth",
+  "summary": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowin"
+ },
+ {
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+  "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+  "summary": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore"
+ },
+ {
   "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
   "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
   "summary": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encou"
+ },
+ {
+  "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+  "title": "Making it easier for websites to express AI training preferences",
+  "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers."
  },
  {
   "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
@@ -13,6 +63,11 @@
   "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
   "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
   "summary": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no"
+ },
+ {
+  "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+  "title": "Community safety report and new protections for teens",
+  "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting."
  },
  {
   "url": "https://www.reddit.com/r/artificial/comments/1xj9zau/googles_parent_company_alphabet_shares_record/",
@@ -45,9 +100,24 @@
   "summary": "Meta has shifted to a new family of flagship AI models called Muse and sent the Llama \"herd\" of models to the farm upstate. It's a dramatic but understandable shift in AI strategy from the company tha"
  },
  {
+  "url": "https://zapier.com/blog/grok-bot",
+  "title": "What is Grok Bot?",
+  "summary": "Working with AI is getting weird. Two years ago, I used to do most tasks by myself and then jump into a chatbot task to solve a problem four or five times per hour. These days, I end up staring at my "
+ },
+ {
+  "url": "https://zapier.com/blog/best-ai-agent-builder",
+  "title": "The best AI agent builder software in 2026",
+  "summary": "AI agents have matured fast, and I've been in the weeds the whole time. These days, AI agents are running a lot of my processes in the background. And it's not just me or the Zapier team: 84% of enter"
+ },
+ {
   "url": "https://www.reddit.com/r/artificial/comments/1xj2qw1/reddit_will_force_everyone_to_log_in/",
   "title": "Reddit will force everyone to log in",
   "summary": "Recently, CEO Steve Huffman disclosed that Reddit will transition to a \"logged-in-only\" experience. This means that Reddit posts will no longer be searchable via internet browsers, significantly impac"
+ },
+ {
+  "url": "https://openai.com/index/fair-use-benefits-everyone",
+  "title": "Fair use benefits everyone",
+  "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation."
  },
  {
   "url": "https://www.reddit.com/r/artificial/comments/1xiyu6e/glm_53_can_autonomously_compromise_recent/",
