@@ -1,5 +1,70 @@
 [
  {
+  "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+  "title": "The latest AI news we announced in October 2026",
+  "summary": "Here are Google’s latest AI updates from October 2026"
+ },
+ {
+  "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+  "title": "Raising the quality of insights in agentic analytics",
+  "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automa"
+ },
+ {
+  "url": "https://www.reddit.com/r/artificial/comments/1xm0tga/almost_half_of_all_new_steam_games_use_ai_now/",
+  "title": "Almost half of all new Steam games use AI now",
+  "summary": ""
+ },
+ {
+  "url": "https://openai.com/index/grid-protectors-program",
+  "title": "Introducing the Grid Protectors Program",
+  "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs."
+ },
+ {
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+  "title": "Anthropic clamps down on Claude’s AI video game clones",
+  "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with A"
+ },
+ {
+  "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+  "title": "Stop counting tokens, start counting what ships",
+  "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 "
+ },
+ {
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+  "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
+  "summary": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts "
+ },
+ {
+  "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+  "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+  "summary": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass t"
+ },
+ {
+  "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+  "title": "The agentic web is here",
+  "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he "
+ },
+ {
+  "url": "https://openai.com/index/lifeval",
+  "title": "LifeVal",
+  "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork."
+ },
+ {
+  "url": "https://zapier.com/blog/best-no-code-app-builder",
+  "title": "The 5 best no-code app builders in 2026",
+  "summary": "You're vibing with your AI coding agent, and your prototype is working well in the preview window. Brimming with excitement, you hit publish to share your creation with the world. Everything is great "
+ },
+ {
+  "url": "https://openai.com/index/qodo-codex-plugin",
+  "title": "Qodo builds context into AI code review with Codex",
+  "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request."
+ },
+ {
+  "url": "https://www.reddit.com/r/artificial/comments/1xlfdof/openai_is_now_capping_how_many_paid_chatgpt/",
+  "title": "OpenAI is now capping how many paid ChatGPT accounts you can have per device and payment card",
+  "summary": ""
+ },
+ {
   "url": "https://www.reddit.com/r/artificial/comments/1xlfd9v/grok_bot_users_ran_out_of_a_weeks_usage_overnight/",
   "title": "Grok Bot users ran out of a week’s usage overnight, and Elon Musk says the agent was costing too much",
   "summary": "975845th reason why I'd never use Grok... submitted by /u/ross2000 [link] [comments]"
@@ -170,6 +235,11 @@
   "summary": ""
  },
  {
+  "url": "https://www.reddit.com/r/artificial/comments/1xivhhm/fujifilm_plans_5x_production_boost_of_100tb/",
+  "title": "Fujifilm plans 5x production boost of 100TB magnetic storage tapes driven by skyrocketing AI storage demand — $63 million injection is the largest inv",
+  "summary": ""
+ },
+ {
   "url": "https://openai.com/index/updated-model-spec",
   "title": "An updated Model Spec for more capable and beneficial AI",
   "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent."
@@ -235,14 +305,14 @@
   "summary": "Anyone who lives in the Google ecosystem has probably used Gemini for a quick draft or a fast answer. (Or if you're like me, you've been driven to your limit by the Google Docs popups encouraging you "
  },
  {
-  "url": "https://zapier.com/blog/best-ai-project-management-tools",
-  "title": "The 5 best AI project management tools in 2026",
-  "summary": "When was the last time you looked at your project management app and didn't get a stress level spike? No matter how much you plan or reprioritize, it always feels like running a sprint on a tightrope."
- },
- {
   "url": "https://zapier.com/blog/best-ai-presentation-maker",
   "title": "The 6 best AI presentation makers in 2026",
   "summary": "The days of spending hours dragging images to just the right place on a slide are far behind us. You can now create a presentation with AI, giving the robots the job of setting the structure, adding t"
+ },
+ {
+  "url": "https://zapier.com/blog/best-ai-project-management-tools",
+  "title": "The 5 best AI project management tools in 2026",
+  "summary": "When was the last time you looked at your project management app and didn't get a stress level spike? No matter how much you plan or reprioritize, it always feels like running a sprint on a tightrope."
  },
  {
   "url": "https://zapier.com/blog/openai-playground",
@@ -407,6 +477,11 @@
  {
   "url": "https://www.reddit.com/r/artificial/comments/1xh0yrj/openai_just_scooped_human_researchers_on_a/",
   "title": "OpenAI just scooped human researchers on a million-dollar quantum math problem",
+  "summary": ""
+ },
+ {
+  "url": "https://www.reddit.com/r/artificial/comments/1xgb6b7/jacobian_lens_can_we_read_the_mind_of_an_al/",
+  "title": "Jacobian Lens: Can we read the mind of an Al?",
   "summary": ""
  }
 ]
