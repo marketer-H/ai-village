@@ -1,5 +1,60 @@
 [
  {
+  "url": "https://huggingface.co/blog/allenai/statebench",
+  "title": "StateBench: Testing how language models track state changes over long documents",
+  "summary": ""
+ },
+ {
+  "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+  "title": "Palette: teaching a small model to build decks in your design language",
+  "summary": ""
+ },
+ {
+  "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
+  "title": "Google is entirely disabling Search in schools that don’t want AI",
+  "summary": "Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader education-related update from Google on T"
+ },
+ {
+  "url": "https://www.theverge.com/policy/1020640/midterm-elections-2026-all-the-news",
+  "title": "Midterm elections 2026: all the news",
+  "summary": "The 2026 midterm elections will determine the scope of President Donald Trump’s power in his final two years in office, and signal what voters care about going into the 2028 presidential election. Whi"
+ },
+ {
+  "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+  "title": "How “reverse game theory” could keep AI agents in check",
+  "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers "
+ },
+ {
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
+  "title": "Apple is all in on AI — its own and everyone else’s",
+  "summary": "Apple's latest earnings show how it's continuing to capitalize on the AI boom without busting its budget on the infrastructure spending consuming its competitors. Overall, Apple posted its best-ever f"
+ },
+ {
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
+  "title": "OpenAI is quietly renaming data centers ‘compute campuses’",
+  "summary": "People hate data centers. They're loud, resource-hungry eyesores that are so profoundly unpopular they have managed to achieve the near-impossible in today's polarized political landscape: genuine bip"
+ },
+ {
+  "url": "https://openai.com/index/heimstaden",
+  "title": "Heimstaden is changing residential real estate management with AI",
+  "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe."
+ },
+ {
+  "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+  "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+  "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive o"
+ },
+ {
+  "url": "https://huggingface.co/blog/cwe-bench",
+  "title": "CWE-bench v2: More coverage, quality, and transparency",
+  "summary": ""
+ },
+ {
+  "url": "https://huggingface.co/blog/transformers-mic",
+  "title": "Transformers Model Integration Contracts",
+  "summary": ""
+ },
+ {
   "url": "https://www.reddit.com/r/artificial/comments/1xm7eyb/openai_lowers_funding_goals_as_investors_cool_on/",
   "title": "OpenAI lowers funding goals as investors cool on AI",
   "summary": ""
@@ -410,6 +465,11 @@
   "summary": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers"
  },
  {
+  "url": "https://www.reddit.com/r/artificial/comments/1xhuemz/gemini_4_carbon_ranks_1_on_artificial_analysis_v5/",
+  "title": "Gemini 4 Carbon Ranks #1 on Artificial Analysis V5",
+  "summary": ""
+ },
+ {
   "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
   "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
   "summary": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's to"
@@ -498,10 +558,5 @@
   "url": "https://www.reddit.com/r/artificial/comments/1xh84gr/how_do_you_picture_your_life_or_workday_if_ai/",
   "title": "how do you picture your life or workday if ai suddenly vanished?🤖",
   "summary": "lowkey curious what people think. feels like we’ve all just gotten used to ai being part of everything now so yeah - what would your daily routine or workflow actually look like without it? submitted "
- },
- {
-  "url": "https://www.reddit.com/r/artificial/comments/1xh0yrj/openai_just_scooped_human_researchers_on_a/",
-  "title": "OpenAI just scooped human researchers on a million-dollar quantum math problem",
-  "summary": ""
  }
 ]
