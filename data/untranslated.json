@@ -1,5 +1,20 @@
 [
  {
+  "url": "https://www.reddit.com/r/artificial/comments/1xm7eyb/openai_lowers_funding_goals_as_investors_cool_on/",
+  "title": "OpenAI lowers funding goals as investors cool on AI",
+  "summary": ""
+ },
+ {
+  "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+  "title": "Rewarding defenders with bigger bug bounties",
+  "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers."
+ },
+ {
+  "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+  "title": "Preparing our next security sprint to harden OpenAI",
+  "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI."
+ },
+ {
   "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
   "title": "The latest AI news we announced in October 2026",
   "summary": "Here are Google’s latest AI updates from October 2026"
@@ -15,6 +30,11 @@
   "summary": ""
  },
  {
+  "url": "https://openai.com/index/scaling-git-at-openai",
+  "title": "Scaling Git at OpenAI",
+  "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible."
+ },
+ {
   "url": "https://openai.com/index/grid-protectors-program",
   "title": "Introducing the Grid Protectors Program",
   "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs."
@@ -22,7 +42,7 @@
  {
   "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
   "title": "Anthropic clamps down on Claude’s AI video game clones",
-  "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with A"
+  "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with "
  },
  {
   "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
@@ -58,6 +78,11 @@
   "url": "https://openai.com/index/qodo-codex-plugin",
   "title": "Qodo builds context into AI code review with Codex",
   "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request."
+ },
+ {
+  "url": "https://openai.com/index/dan-driscoll-joins-openai",
+  "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+  "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies."
  },
  {
   "url": "https://www.reddit.com/r/artificial/comments/1xlfdof/openai_is_now_capping_how_many_paid_chatgpt/",
@@ -300,14 +325,14 @@
   "summary": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded app"
  },
  {
-  "url": "https://zapier.com/blog/automate-google-ai-studio",
-  "title": "Gemini automation: How to use the Zapier Gemini integration (Gemini 3.8 Flash, Gemini Enterprise, and more)",
-  "summary": "Anyone who lives in the Google ecosystem has probably used Gemini for a quick draft or a fast answer. (Or if you're like me, you've been driven to your limit by the Google Docs popups encouraging you "
- },
- {
   "url": "https://zapier.com/blog/best-ai-presentation-maker",
   "title": "The 6 best AI presentation makers in 2026",
   "summary": "The days of spending hours dragging images to just the right place on a slide are far behind us. You can now create a presentation with AI, giving the robots the job of setting the structure, adding t"
+ },
+ {
+  "url": "https://zapier.com/blog/automate-google-ai-studio",
+  "title": "Gemini automation: How to use the Zapier Gemini integration (Gemini 3.8 Flash, Gemini Enterprise, and more)",
+  "summary": "Anyone who lives in the Google ecosystem has probably used Gemini for a quick draft or a fast answer. (Or if you're like me, you've been driven to your limit by the Google Docs popups encouraging you "
  },
  {
   "url": "https://zapier.com/blog/best-ai-project-management-tools",
@@ -477,11 +502,6 @@
  {
   "url": "https://www.reddit.com/r/artificial/comments/1xh0yrj/openai_just_scooped_human_researchers_on_a/",
   "title": "OpenAI just scooped human researchers on a million-dollar quantum math problem",
-  "summary": ""
- },
- {
-  "url": "https://www.reddit.com/r/artificial/comments/1xgb6b7/jacobian_lens_can_we_read_the_mind_of_an_al/",
-  "title": "Jacobian Lens: Can we read the mind of an Al?",
   "summary": ""
  }
 ]
