@@ -1,5 +1,20 @@
 [
  {
+  "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+  "title": "The biggest modding site in PC gaming is taking a stance on AI",
+  "summary": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the s"
+ },
+ {
+  "url": "https://www.reddit.com/r/artificial/comments/1xn22y7/google_to_shut_off_search_for_schools_that_optout/",
+  "title": "Google to shut off search for schools that opt-out of AI",
+  "summary": ""
+ },
+ {
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+  "title": "Please stop asking me when the AI bubble will pop",
+  "summary": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-cha"
+ },
+ {
   "url": "https://huggingface.co/blog/allenai/statebench",
   "title": "StateBench: Testing how language models track state changes over long documents",
   "summary": ""
@@ -10,9 +25,44 @@
   "summary": ""
  },
  {
+  "url": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
+  "title": "Those Jeff Bezos hair transplant photos are very fake",
+  "summary": "Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days. However, there are some ima"
+ },
+ {
+  "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+  "title": "Apple starts giving Siri AI access to third-party apps",
+  "summary": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's new features in \"all a"
+ },
+ {
+  "url": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
+  "title": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
+  "summary": "Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Reca"
+ },
+ {
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+  "title": "OpenAI says ChatGPT is catching up to Google in search",
+  "summary": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run t"
+ },
+ {
+  "url": "https://www.theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates",
+  "title": "Indie games are missing launch dates because Steam is backed up",
+  "summary": "Many indie game developers have recently posted on social media about unexpectedly long approval wait times for their game submissions on Steam, with some of the approvals causing developers to miss t"
+ },
+ {
+  "url": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations",
+  "title": "Netflix will show you themed recommendations through a new ‘AI Discover’ tab",
+  "summary": "Netflix's TV app is getting a new \"AI Discover\" tab where the company will show experimental, AI-powered features to help you find new shows and movies to watch. The first of these experiments surface"
+ },
+ {
   "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
   "title": "Google is entirely disabling Search in schools that don’t want AI",
   "summary": "Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader education-related update from Google on T"
+ },
+ {
+  "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+  "title": "Accelerating engineering for the physical world",
+  "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world."
  },
  {
   "url": "https://www.theverge.com/policy/1020640/midterm-elections-2026-all-the-news",
@@ -40,6 +90,11 @@
   "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe."
  },
  {
+  "url": "https://openai.com/index/cisco-cyber",
+  "title": "How Cisco defends at machine speed with OpenAI",
+  "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses."
+ },
+ {
   "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
   "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
   "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive o"
@@ -53,6 +108,11 @@
   "url": "https://huggingface.co/blog/transformers-mic",
   "title": "Transformers Model Integration Contracts",
   "summary": ""
+ },
+ {
+  "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+  "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+  "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning."
  },
  {
   "url": "https://www.reddit.com/r/artificial/comments/1xm7eyb/openai_lowers_funding_goals_as_investors_cool_on/",
@@ -198,11 +258,6 @@
   "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
   "title": "nemotron-halloween",
   "summary": ""
- },
- {
-  "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
-  "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
-  "summary": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appea"
  },
  {
   "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
@@ -455,6 +510,11 @@
   "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automati"
  },
  {
+  "url": "https://openai.com/ads/customers/evernote",
+  "title": "Evernote turns AI-driven discovery into paid subscriptions",
+  "summary": "Evernote used ChatGPT Ads to introduce its note-taking app to people working with AI. The team tracked how often free trials led to paid subscriptions."
+ },
+ {
   "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
   "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
   "summary": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's"
@@ -520,26 +580,6 @@
   "summary": "How AI might enter the org chart—beneath, beside, and between us."
  },
  {
-  "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
-  "title": "Legora is building the agentic operating system for legal work",
-  "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work."
- },
- {
-  "url": "https://openai.com/index/legora",
-  "title": "Legora is building the agentic operating system for legal work",
-  "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work."
- },
- {
-  "url": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
-  "title": "Voters in Texas agree: They hate data centers",
-  "summary": "Ask Texas NAACP president Gary Bledsoe what it's been like to see data center developers descend upon Austin and its surrounding suburbs and he can rattle off project after project facing opposition f"
- },
- {
-  "url": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
-  "title": "Meta quietly launched an ‘AI pet journal’ app",
-  "summary": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations. According to its Apple and Play Store l"
- },
- {
   "url": "https://zapier.com/blog/automationbench-on-specialized-intelligence-index",
   "title": "Which AI model is best for workflow automation?",
   "summary": "Today, AutomationBench joins Fireworks' Specialized Intelligence Index (SII), bringing business workflow automation to a growing collection of practitioner-built benchmarks that compare AI models on r"
@@ -553,10 +593,5 @@
   "url": "https://zapier.com/blog/best-notion-alternatives",
   "title": "The 9 best Notion alternatives in 2026",
   "summary": "Notion is a special app. Starting from an empty screen, you add notes and documents in a freeform way. Then, when the original page is too crowded, you create your first database and the possibilities"
- },
- {
-  "url": "https://www.reddit.com/r/artificial/comments/1xh84gr/how_do_you_picture_your_life_or_workday_if_ai/",
-  "title": "how do you picture your life or workday if ai suddenly vanished?🤖",
-  "summary": "lowkey curious what people think. feels like we’ve all just gotten used to ai being part of everything now so yeah - what would your daily routine or workflow actually look like without it? submitted "
  }
 ]
