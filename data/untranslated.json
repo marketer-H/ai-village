@@ -1,8 +1,53 @@
 [
  {
+  "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+  "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+  "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat J"
+ },
+ {
+  "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+  "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+  "summary": ""
+ },
+ {
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+  "title": "Qualcomm is betting big on data centers as smartphone sales sink",
+  "summary": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans"
+ },
+ {
+  "url": "https://www.reddit.com/r/artificial/comments/1xntvml/apple_watch_now_listens_to_inperson_conversations/",
+  "title": "Apple Watch now listens to in-person conversations & lets you rewind them",
+  "summary": ""
+ },
+ {
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
+  "title": "17 better ways Elon Musk could have wasted $446 million",
+  "summary": "One of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seeking lunatics. If your social media of choice is the"
+ },
+ {
+  "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+  "title": "Gemini for Home now plugs into AT&T’s smart security system",
+  "summary": "AT&T's smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the \"first\" home security product to integrate with Google Home Premium, enabling a"
+ },
+ {
   "url": "https://openai.com/index/openai-to-acquire-pierre",
   "title": "OpenAI to acquire Pierre Computer Company, Inc.",
   "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code."
+ },
+ {
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+  "title": "Nothing teases a screen-free AI device ahead of launch next month",
+  "summary": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI oper"
+ },
+ {
+  "url": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
+  "title": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
+  "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for "
+ },
+ {
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
+  "title": "ChatGPT will now make you animated GIFs",
+  "summary": "ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI's new Images 2.6 model, allows you to adjust the GIF's animation spe"
  },
  {
   "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
@@ -23,6 +68,11 @@
   "url": "https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments",
   "title": "Sam Altman addresses RAM comments: People should ‘put as much as they want in their computers’",
   "summary": "OpenAI CEO Sam Altman spent election night defending his position on PC RAM purchases. He changed his name on X to \"Ram Altman\" in response to another user's comment, saying, \"i actually do want the w"
+ },
+ {
+  "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+  "title": "A thousand fewer paths to root",
+  "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel."
  },
  {
   "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
@@ -48,6 +98,16 @@
   "url": "https://zapier.com/blog/claude-duet",
   "title": "What is Claude Duet?",
   "summary": "Claude Duet is Anthropic's answer to Meta's Muse and OpenAI's dots. It's an always-on AI agent, which means that instead of waiting for you to type a prompt, it sends you a morning brief, checks your "
+ },
+ {
+  "url": "https://openai.com/index/introducing-images-2-6",
+  "title": "Introducing Images 2.6",
+  "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API."
+ },
+ {
+  "url": "https://openai.com/index/devrev-enterprise-self-service",
+  "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+  "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service."
  },
  {
   "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
@@ -505,11 +565,6 @@
   "summary": "Anyone who lives in the Google ecosystem has probably used Gemini for a quick draft or a fast answer. (Or if you're like me, you've been driven to your limit by the Google Docs popups encouraging you "
  },
  {
-  "url": "https://zapier.com/blog/openai-playground",
-  "title": "How to use the OpenAI playground to tinker with OpenAI models",
-  "summary": "ChatGPT can do basically anything you ask, but you really don't have a huge amount of control over its outputs. If you want to do more with OpenAI's models, you need to dig a little deeper. If you rea"
- },
- {
   "url": "https://zapier.com/blog/google-gemini",
   "title": "What is Google Gemini?",
   "summary": "Google has been in its \"Gemini era\" for a couple years now, and while the confusing rebrandings have slowed, everything else continues to improve at a rapid pace. Gemini is the name Google gave to its"
@@ -518,6 +573,11 @@
   "url": "https://zapier.com/blog/best-llm",
   "title": "The best large language models (LLMs) in 2026",
   "summary": "Large language models (LLMs) are what most people think of when they think of AI. They're what you're interacting with in ChatGPT and Claude, they write the code generated by Claude Code and Codex, an"
+ },
+ {
+  "url": "https://zapier.com/blog/openai-playground",
+  "title": "How to use the OpenAI playground to tinker with OpenAI models",
+  "summary": "ChatGPT can do basically anything you ask, but you really don't have a huge amount of control over its outputs. If you want to do more with OpenAI's models, you need to dig a little deeper. If you rea"
  },
  {
   "url": "https://zapier.com/blog/how-does-chatgpt-work",
@@ -545,39 +605,9 @@
   "summary": "Does $5,000 in AI spend equal $5,000 in value? If it does, that's a bad investment. A 1x return wouldn't get approved anywhere else in our budget, and AI doesn't get an exception. As the Chief Operati"
  },
  {
-  "url": "https://openai.com/index/credit-saison",
-  "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
-  "summary": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption."
- },
- {
-  "url": "https://www.reddit.com/r/artificial/comments/1xi1fg7/llms_are_significantly_better_at_finding_mistakes/",
-  "title": "LLMs are significantly better at finding mistakes in papers than trained human reviewers",
-  "summary": "https://fixupx.com/rust_ruslan/status/2115493697001513053?a=rVJZ_8g4TDjREuYi4jc&s=20 submitted by /u/Eliv_nurotic [link] [comments]"
- },
- {
-  "url": "https://www.reddit.com/r/artificial/comments/1xi0dcg/github_just_announced_a_major_overhaul_of_copilot/",
-  "title": "GitHub just announced a major overhaul of Copilot, 'evolving' to focus on an agentic future",
-  "summary": ""
- },
- {
   "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
   "title": "Creating AI value with enterprise context",
   "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automati"
- },
- {
-  "url": "https://openai.com/ads/customers/evernote",
-  "title": "Evernote turns AI-driven discovery into paid subscriptions",
-  "summary": "Evernote used ChatGPT Ads to introduce its note-taking app to people working with AI. The team tracked how often free trials led to paid subscriptions."
- },
- {
-  "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
-  "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
-  "summary": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's"
- },
- {
-  "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
-  "title": "Akai is embracing vibe-coded mods with an open-source MPC",
-  "summary": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers"
  },
  {
   "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
