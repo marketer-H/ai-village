@@ -1,5 +1,55 @@
 [
  {
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+  "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+  "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing."
+ },
+ {
+  "url": "https://www.theverge.com/entertainment/1026282/grimes-ai-movie",
+  "title": "Grimes is going to star in an AI movie that’s coming to theaters",
+  "summary": "The AI-generated sci-fi film Gods Don't Give Gifts has added a bit of star power: Pop star Grimes is going to appear in the movie. Billed as \"the first AI film to come to theatres,\" Gods Don't Give Gi"
+ },
+ {
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
+  "title": "OpenAI says its new cybersecurity model is better at not hacking other companies",
+  "summary": "OpenAI is launching GPT-6 Cyber, the latest version of its cybersecurity AI model, which it says is better at finding vulnerabilities and less likely to go rogue and hack other platforms in the proces"
+ },
+ {
+  "url": "https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book",
+  "title": "The hidden supply chain costs of the AI boom",
+  "summary": "Today, I’m talking with Willy Shih, an economist, a professor of management practice at Harvard Business School, and the author of the upcoming book, Where Does My Stuff Come From? The Powerful Econom"
+ },
+ {
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs",
+  "title": "You can post AI music straight to SoundCloud from ElevenLabs",
+  "summary": "After partnering with Moises earlier this year, SoundCloud is now adding integration with another AI music platform, ElevenLabs. Now, rather than having to export and download your outputs from Eleven"
+ },
+ {
+  "url": "https://www.reddit.com/r/artificial/comments/1xocwcy/apple_is_cutting_employee_ai_spending_budgets/",
+  "title": "Apple is cutting employee AI spending budgets even as it pushes workers to use the technology more. Engineers have seen daily limits cut from $300 to ",
+  "summary": "https://www.bloomberg.com/news/articles/2026-11-04/apple-cuts-internal-ai-usage-budgets-in-move-to-reduce-spending submitted by /u/Eliv_nurotic [link] [comments]"
+ },
+ {
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
+  "title": "Big Tech’s big AI buildout will not end until someone stops it",
+  "summary": "After four of the biggest competitors in the AI race held quarterly earnings calls late last month, two things are clear: Big Tech is not done spending record amounts on the AI data center buildout, a"
+ },
+ {
+  "url": "https://zapier.com/blog/best-ai-courses",
+  "title": "The 8 best AI courses for beginners in 2026",
+  "summary": "Upskilling in AI is just about the most productive thing you could do with your free time right now. With every day that passes, AI technology is making strides, and the demand for AI-related skills i"
+ },
+ {
+  "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+  "title": "Setting a new standard for responsible AI infrastructure",
+  "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development."
+ },
+ {
+  "url": "https://huggingface.co/blog/phonon-tts",
+  "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+  "summary": ""
+ },
+ {
   "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
   "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
   "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat J"
@@ -500,24 +550,9 @@
   "summary": ""
  },
  {
-  "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
-  "title": "You can generate and edit Google Docs files directly in Gemini chats now",
-  "summary": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are availabl"
- },
- {
   "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
   "title": "Granite Switch 4.1.1 — Update models like you update software",
   "summary": ""
- },
- {
-  "url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
-  "title": "Microsoft’s AI future has fewer jobs",
-  "summary": "To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the si"
- },
- {
-  "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
-  "title": "The NYT Cooking app is testing AI recipe modifications",
-  "summary": "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users. Last Friday, NYT Cooking senior editor Genevieve Ko an"
  },
  {
   "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
@@ -525,34 +560,9 @@
   "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about"
  },
  {
-  "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
-  "title": "Anthropic is asking Wall Street to believe in AGI",
-  "summary": "Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document know"
- },
- {
-  "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
-  "title": "Anthropic’s business plan: Build God or die trying",
-  "summary": "The Anthropic S-1 seems to have provided the financial justification for the company to spend as much as it possibly can on compute. If you are the kind of person who wonders if Anthropic is doing its"
- },
- {
-  "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-  "title": "How we detect frontier model misalignment",
-  "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate."
- },
- {
-  "url": "https://openai.com/index/ropes-gray-ai-diligence",
-  "title": "How Ropes & Gray is developing AI for transactional diligence",
-  "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients."
- },
- {
-  "url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
-  "title": "AI has come for Arizona’s water",
-  "summary": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded app"
- },
- {
-  "url": "https://zapier.com/blog/best-ai-project-management-tools",
-  "title": "The 5 best AI project management tools in 2026",
-  "summary": "When was the last time you looked at your project management app and didn't get a stress level spike? No matter how much you plan or reprioritize, it always feels like running a sprint on a tightrope."
+  "url": "https://zapier.com/blog/automate-google-ai-studio",
+  "title": "Gemini automation: How to use the Zapier Gemini integration (Gemini 3.8 Flash, Gemini Enterprise, and more)",
+  "summary": "Anyone who lives in the Google ecosystem has probably used Gemini for a quick draft or a fast answer. (Or if you're like me, you've been driven to your limit by the Google Docs popups encouraging you "
  },
  {
   "url": "https://zapier.com/blog/best-ai-presentation-maker",
@@ -560,14 +570,9 @@
   "summary": "The days of spending hours dragging images to just the right place on a slide are far behind us. You can now create a presentation with AI, giving the robots the job of setting the structure, adding t"
  },
  {
-  "url": "https://zapier.com/blog/automate-google-ai-studio",
-  "title": "Gemini automation: How to use the Zapier Gemini integration (Gemini 3.8 Flash, Gemini Enterprise, and more)",
-  "summary": "Anyone who lives in the Google ecosystem has probably used Gemini for a quick draft or a fast answer. (Or if you're like me, you've been driven to your limit by the Google Docs popups encouraging you "
- },
- {
-  "url": "https://zapier.com/blog/google-gemini",
-  "title": "What is Google Gemini?",
-  "summary": "Google has been in its \"Gemini era\" for a couple years now, and while the confusing rebrandings have slowed, everything else continues to improve at a rapid pace. Gemini is the name Google gave to its"
+  "url": "https://zapier.com/blog/best-ai-project-management-tools",
+  "title": "The 5 best AI project management tools in 2026",
+  "summary": "When was the last time you looked at your project management app and didn't get a stress level spike? No matter how much you plan or reprioritize, it always feels like running a sprint on a tightrope."
  },
  {
   "url": "https://zapier.com/blog/best-llm",
@@ -583,6 +588,11 @@
   "url": "https://zapier.com/blog/how-does-chatgpt-work",
   "title": "What is ChatGPT? How it works and what it can do",
   "summary": "I've been writing about AI since before most people knew what it stood for, so a question as simple as \"What is ChatGPT?\" should be a softball. But as OpenAI has kept pushing ChatGPT forward with new "
+ },
+ {
+  "url": "https://zapier.com/blog/google-gemini",
+  "title": "What is Google Gemini?",
+  "summary": "Google has been in its \"Gemini era\" for a couple years now, and while the confusing rebrandings have slowed, everything else continues to improve at a rapid pace. Gemini is the name Google gave to its"
  },
  {
   "url": "https://huggingface.co/blog/announcing-project-protostar",
@@ -618,10 +628,5 @@
   "url": "https://zapier.com/blog/automationbench-on-specialized-intelligence-index",
   "title": "Which AI model is best for workflow automation?",
   "summary": "Today, AutomationBench joins Fireworks' Specialized Intelligence Index (SII), bringing business workflow automation to a growing collection of practitioner-built benchmarks that compare AI models on r"
- },
- {
-  "url": "https://zapier.com/blog/best-notion-alternatives",
-  "title": "The 9 best Notion alternatives in 2026",
-  "summary": "Notion is a special app. Starting from an empty screen, you add notes and documents in a freeform way. Then, when the original page is too crowded, you create your first database and the possibilities"
  }
 ]
