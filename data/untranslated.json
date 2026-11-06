@@ -1,5 +1,55 @@
 [
  {
+  "url": "https://huggingface.co/blog/allenai/toyblocks",
+  "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+  "summary": ""
+ },
+ {
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
+  "title": "AI is the new dating dealbreaker",
+  "summary": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the "
+ },
+ {
+  "url": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
+  "title": "Big Tech lost big in the 2026 election",
+  "summary": "On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roaring back, and the fight over data cente"
+ },
+ {
+  "url": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
+  "title": "How Akai and Moog are embracing vibe-coded mods",
+  "summary": "inMusic, the parent company of Akai, Moog, Native Instruments, and more, has decided to embrace the modding community. In an interview with The Verge, inMusic CEO Jack O'Donnell said, \"We're going to "
+ },
+ {
+  "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+  "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+  "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post ab"
+ },
+ {
+  "url": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
+  "title": "Amazon will let you text Alexa your shopping list",
+  "summary": "Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users can describe the products they're looking to buy and/or provide"
+ },
+ {
+  "url": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
+  "title": "Protesters break into Microsoft data center site in Amsterdam",
+  "summary": "Protesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Members of the Geef Tegengas group helped organize the protest against the construction of thr"
+ },
+ {
+  "url": "https://zapier.com/blog/what-we-learned-watching-claude-read-zapier",
+  "title": "What we learned by watching Claude read Zapier.com",
+  "summary": "TL;DR SEO feedback loops take weeks. We wanted something faster for agents, so we built a tool that runs the same Claude Code task against production and a preview variant of a page, with the URL held"
+ },
+ {
+  "url": "https://www.reddit.com/r/artificial/comments/1xp3pww/microsoft_files_patent_for_ai_that_can_alter_what/",
+  "title": "Microsoft files patent for AI that can alter what people say during live broadcasts",
+  "summary": ""
+ },
+ {
+  "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+  "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+  "summary": ""
+ },
+ {
   "url": "https://openai.com/index/cultfit-builds-with-codex",
   "title": "Cult.fit builds operational muscle with Codex",
   "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done."
@@ -33,6 +83,11 @@
   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
   "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
   "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing."
+ },
+ {
+  "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+  "title": "Australian universities are creating AI-native graduates",
+  "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
  },
  {
   "url": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
@@ -325,6 +380,11 @@
   "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses."
  },
  {
+  "url": "https://www.reddit.com/r/artificial/comments/1xmkk63/marvell_inks_recordbreaking_115b_ai_deal/",
+  "title": "Marvell inks record-breaking $115B AI deal",
+  "summary": ""
+ },
+ {
   "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
   "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
   "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive o"
@@ -490,69 +550,14 @@
   "summary": ""
  },
  {
-  "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
-  "title": "The biggest names in AI are backing a new way to opt out of scraping",
-  "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this contro"
- },
- {
-  "url": "https://www.reddit.com/r/artificial/comments/1xjiczy/tech_stocks_set_to_wipe_out_more_than_1_trillion/",
-  "title": "Tech stocks set to wipe out more than $1 trillion as concerns deepen about the AI boom",
-  "summary": ""
- },
- {
-  "url": "https://www.reddit.com/r/artificial/comments/1xjgy47/why_is_every_ai_interface_still_just_a_text_box/",
-  "title": "Why is every AI interface still just a text box?",
-  "summary": "I get that it’s flexible and easy, but is a disorganized pile of “chats” and an empty text box really the best way for ordinary people to interface with a consumer AI? These things can create custom U"
- },
- {
-  "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
-  "title": "Google’s satellite AI server transmits its first response to Earth",
-  "summary": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowin"
- },
- {
-  "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
-  "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
-  "summary": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore"
- },
- {
-  "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
-  "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
-  "summary": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encou"
- },
- {
-  "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-  "title": "Making it easier for websites to express AI training preferences",
-  "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers."
- },
- {
-  "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
-  "title": "Silicon Valley wants you to invest in miracles",
-  "summary": "Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario"
- },
- {
-  "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
-  "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
-  "summary": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no"
- },
- {
-  "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-  "title": "Community safety report and new protections for teens",
-  "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting."
- },
- {
-  "url": "https://www.reddit.com/r/artificial/comments/1xj9zau/googles_parent_company_alphabet_shares_record/",
-  "title": "Google's parent company Alphabet shares record their worst day ever, shedding $500 billion in value",
-  "summary": ""
+  "url": "https://zapier.com/blog/ai-transformation",
+  "title": "What is AI transformation in 2027? How to build a strategy for your business",
+  "summary": "It can feel impossible to escape the pressure to \"do something\" with AI. Maybe your CEO just asked about your AI strategy in an all-hands, or your competitors are shipping faster thanks to automation."
  },
  {
   "url": "https://zapier.com/blog/automate-grok",
   "title": "Grok automation: How to use the Zapier Grok integration (Grok 4.7, Grok Bot, and more)",
   "summary": "Grok has a very specific edge over other AI models: live access to X, so your agents can keep their finger on the pulse a little more easily. But outside of that, Grok models and agents are still soli"
- },
- {
-  "url": "https://zapier.com/blog/ai-transformation",
-  "title": "What is AI transformation in 2027? How to build a strategy for your business",
-  "summary": "It can feel impossible to escape the pressure to \"do something\" with AI. Maybe your CEO just asked about your AI strategy in an all-hands, or your competitors are shipping faster thanks to automation."
  },
  {
   "url": "https://zapier.com/blog/meta-ai-muse-spark",
@@ -595,9 +600,9 @@
   "summary": "When was the last time you looked at your project management app and didn't get a stress level spike? No matter how much you plan or reprioritize, it always feels like running a sprint on a tightrope."
  },
  {
-  "url": "https://zapier.com/blog/best-llm",
-  "title": "The best large language models (LLMs) in 2026",
-  "summary": "Large language models (LLMs) are what most people think of when they think of AI. They're what you're interacting with in ChatGPT and Claude, they write the code generated by Claude Code and Codex, an"
+  "url": "https://zapier.com/blog/google-gemini",
+  "title": "What is Google Gemini?",
+  "summary": "Google has been in its \"Gemini era\" for a couple years now, and while the confusing rebrandings have slowed, everything else continues to improve at a rapid pace. Gemini is the name Google gave to its"
  },
  {
   "url": "https://zapier.com/blog/openai-playground",
@@ -605,14 +610,14 @@
   "summary": "ChatGPT can do basically anything you ask, but you really don't have a huge amount of control over its outputs. If you want to do more with OpenAI's models, you need to dig a little deeper. If you rea"
  },
  {
+  "url": "https://zapier.com/blog/best-llm",
+  "title": "The best large language models (LLMs) in 2026",
+  "summary": "Large language models (LLMs) are what most people think of when they think of AI. They're what you're interacting with in ChatGPT and Claude, they write the code generated by Claude Code and Codex, an"
+ },
+ {
   "url": "https://zapier.com/blog/how-does-chatgpt-work",
   "title": "What is ChatGPT? How it works and what it can do",
   "summary": "I've been writing about AI since before most people knew what it stood for, so a question as simple as \"What is ChatGPT?\" should be a softball. But as OpenAI has kept pushing ChatGPT forward with new "
- },
- {
-  "url": "https://zapier.com/blog/google-gemini",
-  "title": "What is Google Gemini?",
-  "summary": "Google has been in its \"Gemini era\" for a couple years now, and while the confusing rebrandings have slowed, everything else continues to improve at a rapid pace. Gemini is the name Google gave to its"
  },
  {
   "url": "https://huggingface.co/blog/announcing-project-protostar",
@@ -638,15 +643,5 @@
   "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
   "title": "Creating AI value with enterprise context",
   "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automati"
- },
- {
-  "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
-  "title": "Pairing industrial AI autonomy and human control",
-  "summary": ""
- },
- {
-  "url": "https://zapier.com/blog/automationbench-on-specialized-intelligence-index",
-  "title": "Which AI model is best for workflow automation?",
-  "summary": "Today, AutomationBench joins Fireworks' Specialized Intelligence Index (SII), bringing business workflow automation to a growing collection of practitioner-built benchmarks that compare AI models on r"
  }
 ]
