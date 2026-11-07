@@ -1,5 +1,25 @@
 [
  {
+  "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+  "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+  "summary": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, b"
+ },
+ {
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+  "title": "The US let Nvidia sell chips to an empty office in China",
+  "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According "
+ },
+ {
+  "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+  "title": "AI broke the cybersecurity world. What’s next?",
+  "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series l"
+ },
+ {
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+  "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+  "summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slo"
+ },
+ {
   "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
   "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
   "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long af"
@@ -22,6 +42,11 @@
  {
   "url": "https://huggingface.co/blog/allenai/toyblocks",
   "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+  "summary": ""
+ },
+ {
+  "url": "https://www.reddit.com/r/artificial/comments/1xpcsds/the_uk_government_asked_14000_children_about_ai/",
+  "title": "The UK Government Asked 14,000 Children About AI. It Ignored Their Answer.",
   "summary": ""
  },
  {
@@ -228,11 +253,6 @@
   "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
   "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
   "summary": ""
- },
- {
-  "url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
-  "title": "Qualcomm is betting big on data centers as smartphone sales sink",
-  "summary": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans"
  },
  {
   "url": "https://www.reddit.com/r/artificial/comments/1xntvml/apple_watch_now_listens_to_inperson_conversations/",
