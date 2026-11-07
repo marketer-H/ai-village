@@ -1,8 +1,33 @@
 [
  {
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+  "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+  "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long af"
+ },
+ {
+  "url": "https://www.reddit.com/r/artificial/comments/1xpk0wl/turkey_uses_ai_and_other_tech_to_claw_back_100/",
+  "title": "Turkey Uses AI and Other Tech to Claw Back 100 Looted Antiquities from the US",
+  "summary": "This is just cool! Goes to show you that AI is not inherently bad. Great news! submitted by /u/ZealousidealOwl2026 [link] [comments]"
+ },
+ {
+  "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+  "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+  "summary": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean inf"
+ },
+ {
+  "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+  "title": "All the latest updates on AI data centers",
+  "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the w"
+ },
+ {
   "url": "https://huggingface.co/blog/allenai/toyblocks",
   "title": "ToyBlocks: A controlled world for robot learning and evaluation",
   "summary": ""
+ },
+ {
+  "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+  "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
+  "summary": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tr"
  },
  {
   "url": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
@@ -30,6 +55,11 @@
   "summary": "Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users can describe the products they're looking to buy and/or provide"
  },
  {
+  "url": "https://openai.com/index/partnering-with-hacktron",
+  "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+  "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI."
+ },
+ {
   "url": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
   "title": "Protesters break into Microsoft data center site in Amsterdam",
   "summary": "Protesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Members of the Geef Tegengas group helped organize the protest against the construction of thr"
@@ -40,14 +70,34 @@
   "summary": "TL;DR SEO feedback loops take weeks. We wanted something faster for agents, so we built a tool that runs the same Claude Code task against production and a preview variant of a page, with the URL held"
  },
  {
+  "url": "https://zapier.com/blog/how-much-should-ai-decide-without-asking",
+  "title": "How much should an AI decide without asking you first?",
+  "summary": "Any AI product that does things, not just says things, runs into the same decision problem sooner or later. The AI assistant can ask before acting, or act and tell you afterward. Both easy answers are"
+ },
+ {
+  "url": "https://zapier.com/blog/ai-automation-examples-sidekick",
+  "title": "AI automation examples: 5 real things Zapier Sidekick has done",
+  "summary": "A few months into our internal pilot, the Sidekick team noticed that most of what reached them was bug reports. Someone started a channel just for wins, a place where people could post what Sidekick h"
+ },
+ {
   "url": "https://www.reddit.com/r/artificial/comments/1xp3pww/microsoft_files_patent_for_ai_that_can_alter_what/",
   "title": "Microsoft files patent for AI that can alter what people say during live broadcasts",
+  "summary": ""
+ },
+ {
+  "url": "https://www.reddit.com/r/artificial/comments/1xozbic/palantir_made_23_billion_last_quarter_and_calls/",
+  "title": "Palantir Made $2.3 Billion Last Quarter and Calls Itself Antiwar",
   "summary": ""
  },
  {
   "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
   "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
   "summary": ""
+ },
+ {
+  "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+  "title": "Measuring how AI agents handle everyday wet-lab science",
+  "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
  },
  {
   "url": "https://openai.com/index/cultfit-builds-with-codex",
@@ -465,6 +515,11 @@
   "summary": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass t"
  },
  {
+  "url": "https://www.reddit.com/r/artificial/comments/1xlu9ui/how_to_stop_meta_openai_and_apple_from_training/",
+  "title": "How to stop Meta, OpenAI, and Apple from training AI on your data in the UK",
+  "summary": ""
+ },
+ {
   "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
   "title": "The agentic web is here",
   "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he "
@@ -520,36 +575,6 @@
   "summary": ""
  },
  {
-  "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
-  "title": "I built an AI Tamagotchi before Meta could",
-  "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a"
- },
- {
-  "url": "https://www.reddit.com/r/artificial/comments/1xjqc40/ai_cracks_a_27yearold_pillar_of_computer_science/",
-  "title": "AI cracks a 27-year-old pillar of computer science, OpenAI and Anthropic claim",
-  "summary": ""
- },
- {
-  "url": "https://www.reddit.com/r/artificial/comments/1xjpdqk/openai_ceo_sam_altman_says_its_quite_terrible_for/",
-  "title": "OpenAI CEO Sam Altman says it's \"quite terrible\" for your PC to have RAM — Sam Altman says data centers offer better utilization",
-  "summary": ">\"From a global allocation perspective, actually, it's quite terrible to have everybody have a bunch of the world's limited supply of DRAM sitting in their own computer and being used 5% of the time,\""
- },
- {
-  "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
-  "title": "Apple Intelligence is finally coming to China with iOS 27.3",
-  "summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in"
- },
- {
-  "url": "https://www.reddit.com/r/artificial/comments/1xjmtot/mits_claim_that_95_of_ai_pilots_fail_is_this_true/",
-  "title": "MIT's claim that 95% of AI pilots fail - Is this true?",
-  "summary": ""
- },
- {
-  "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
-  "title": "nemotron-halloween",
-  "summary": ""
- },
- {
   "url": "https://zapier.com/blog/ai-transformation",
   "title": "What is AI transformation in 2027? How to build a strategy for your business",
   "summary": "It can feel impossible to escape the pressure to \"do something\" with AI. Maybe your CEO just asked about your AI strategy in an all-hands, or your competitors are shipping faster thanks to automation."
@@ -560,9 +585,9 @@
   "summary": "Grok has a very specific edge over other AI models: live access to X, so your agents can keep their finger on the pulse a little more easily. But outside of that, Grok models and agents are still soli"
  },
  {
-  "url": "https://zapier.com/blog/meta-ai-muse-spark",
-  "title": "Muse Wonder and Muse Spark: A guide to Meta's AI models",
-  "summary": "Meta has shifted to a new family of flagship AI models called Muse and sent the Llama \"herd\" of models to the farm upstate. It's a dramatic but understandable shift in AI strategy from the company tha"
+  "url": "https://zapier.com/blog/best-ai-agent-builder",
+  "title": "The best AI agent builder software in 2026",
+  "summary": "AI agents have matured fast, and I've been in the weeds the whole time. These days, AI agents are running a lot of my processes in the background. And it's not just me or the Zapier team: 84% of enter"
  },
  {
   "url": "https://zapier.com/blog/grok-bot",
@@ -570,9 +595,9 @@
   "summary": "Working with AI is getting weird. Two years ago, I used to do most tasks by myself and then jump into a chatbot task to solve a problem four or five times per hour. These days, I end up staring at my "
  },
  {
-  "url": "https://zapier.com/blog/best-ai-agent-builder",
-  "title": "The best AI agent builder software in 2026",
-  "summary": "AI agents have matured fast, and I've been in the weeds the whole time. These days, AI agents are running a lot of my processes in the background. And it's not just me or the Zapier team: 84% of enter"
+  "url": "https://zapier.com/blog/meta-ai-muse-spark",
+  "title": "Muse Wonder and Muse Spark: A guide to Meta's AI models",
+  "summary": "Meta has shifted to a new family of flagship AI models called Muse and sent the Llama \"herd\" of models to the farm upstate. It's a dramatic but understandable shift in AI strategy from the company tha"
  },
  {
   "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
@@ -585,9 +610,9 @@
   "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about"
  },
  {
-  "url": "https://zapier.com/blog/automate-google-ai-studio",
-  "title": "Gemini automation: How to use the Zapier Gemini integration (Gemini 3.8 Flash, Gemini Enterprise, and more)",
-  "summary": "Anyone who lives in the Google ecosystem has probably used Gemini for a quick draft or a fast answer. (Or if you're like me, you've been driven to your limit by the Google Docs popups encouraging you "
+  "url": "https://zapier.com/blog/best-ai-project-management-tools",
+  "title": "The 5 best AI project management tools in 2026",
+  "summary": "When was the last time you looked at your project management app and didn't get a stress level spike? No matter how much you plan or reprioritize, it always feels like running a sprint on a tightrope."
  },
  {
   "url": "https://zapier.com/blog/best-ai-presentation-maker",
@@ -595,9 +620,14 @@
   "summary": "The days of spending hours dragging images to just the right place on a slide are far behind us. You can now create a presentation with AI, giving the robots the job of setting the structure, adding t"
  },
  {
-  "url": "https://zapier.com/blog/best-ai-project-management-tools",
-  "title": "The 5 best AI project management tools in 2026",
-  "summary": "When was the last time you looked at your project management app and didn't get a stress level spike? No matter how much you plan or reprioritize, it always feels like running a sprint on a tightrope."
+  "url": "https://zapier.com/blog/automate-google-ai-studio",
+  "title": "Gemini automation: How to use the Zapier Gemini integration (Gemini 3.8 Flash, Gemini Enterprise, and more)",
+  "summary": "Anyone who lives in the Google ecosystem has probably used Gemini for a quick draft or a fast answer. (Or if you're like me, you've been driven to your limit by the Google Docs popups encouraging you "
+ },
+ {
+  "url": "https://zapier.com/blog/best-llm",
+  "title": "The best large language models (LLMs) in 2026",
+  "summary": "Large language models (LLMs) are what most people think of when they think of AI. They're what you're interacting with in ChatGPT and Claude, they write the code generated by Claude Code and Codex, an"
  },
  {
   "url": "https://zapier.com/blog/google-gemini",
@@ -608,16 +638,6 @@
   "url": "https://zapier.com/blog/openai-playground",
   "title": "How to use the OpenAI playground to tinker with OpenAI models",
   "summary": "ChatGPT can do basically anything you ask, but you really don't have a huge amount of control over its outputs. If you want to do more with OpenAI's models, you need to dig a little deeper. If you rea"
- },
- {
-  "url": "https://zapier.com/blog/best-llm",
-  "title": "The best large language models (LLMs) in 2026",
-  "summary": "Large language models (LLMs) are what most people think of when they think of AI. They're what you're interacting with in ChatGPT and Claude, they write the code generated by Claude Code and Codex, an"
- },
- {
-  "url": "https://zapier.com/blog/how-does-chatgpt-work",
-  "title": "What is ChatGPT? How it works and what it can do",
-  "summary": "I've been writing about AI since before most people knew what it stood for, so a question as simple as \"What is ChatGPT?\" should be a softball. But as OpenAI has kept pushing ChatGPT forward with new "
  },
  {
   "url": "https://huggingface.co/blog/announcing-project-protostar",
@@ -633,11 +653,6 @@
   "url": "https://huggingface.co/blog/anydecisionmodel",
   "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
   "summary": ""
- },
- {
-  "url": "https://zapier.com/blog/ai-cost-management",
-  "title": "AI cost management: How we track and optimize AI spend at Zapier",
-  "summary": "Does $5,000 in AI spend equal $5,000 in value? If it does, that's a bad investment. A 1x return wouldn't get approved anywhere else in our budget, and AI doesn't get an exception. As the Chief Operati"
  },
  {
   "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
