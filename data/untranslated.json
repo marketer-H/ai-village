@@ -1,5 +1,90 @@
 [
  {
+  "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+  "title": "The backlash about data centers might really just be about electricity",
+  "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in "
+ },
+ {
+  "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+  "title": "ChatGPT Enterprise now available in AWS Marketplace",
+  "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships."
+ },
+ {
+  "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+  "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+  "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s"
+ },
+ {
+  "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+  "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+  "summary": ""
+ },
+ {
+  "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+  "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+  "summary": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time p"
+ },
+ {
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+  "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+  "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show impr"
+ },
+ {
+  "url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
+  "title": "Instagram’s Effect Builder makes new filters from AI prompts",
+  "summary": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available now for US residents wh"
+ },
+ {
+  "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+  "title": "Innovating with AI in the special chemicals industry",
+  "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific exper"
+ },
+ {
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
+  "title": "The future of AI hinges on… Jensen Huang’s sex life?",
+  "summary": "I would prefer that these people's sex lives were none of my business but I guess we have to talk about Jensen Huang and the National Security Incident. Who could have guessed that the guy who was out"
+ },
+ {
+  "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+  "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+  "summary": ""
+ },
+ {
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
+  "title": "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
+  "summary": "Asked about AI executives' warnings about their models' safety on 60 Minutes, Trump said, \"I think that the risk is not nearly as real as it- as they talk, and I think the risk can be managed, and it'"
+ },
+ {
+  "url": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+  "title": "Disney and Adobe are building generative AI tools together",
+  "summary": "The Walt Disney Company has teamed up with Adobe to develop proprietary \"artist-led\" generative AI models to support Disney's production pipeline. The multiyear partnership was announced today at Adob"
+ },
+ {
+  "url": "https://www.theverge.com/podcast/1029684/riaa-mitch-glazier-napster-ai-labels-music",
+  "title": "Hold up — I had a great time talking to the RIAA guy",
+  "summary": "Today, I’m talking with Mitch Glazier, who is CEO and chairman of the RIAA. This conversation was a real full-circle moment for me: I was in college when Napster hit, and the RIAA became everyone’s vi"
+ },
+ {
+  "url": "https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech",
+  "title": "Jonathan Kanter is using AI to take on Big Tech",
+  "summary": "When Jonathan Kanter stepped down as head of the Justice Department's Antitrust Division in 2024, he set out to keep fighting to dismantle illegal monopolies. But this time, he's continuing the fight "
+ },
+ {
+  "url": "https://openai.com/index/kuken",
+  "title": "Kuken Industries searches 70 years of drawings in minutes",
+  "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour."
+ },
+ {
+  "url": "https://zapier.com/blog/ai-agents-survey",
+  "title": "88% of enterprises now use or test AI agents, but most still need a human in the loop",
+  "summary": "A robot vacuum should be a simple delegation. The floor is dirty. The robot cleans the floor. I go do literally anything else. Instead, the promise of automated cleaning comes with a surprising number"
+ },
+ {
+  "url": "https://www.reddit.com/r/artificial/comments/1xrcmjw/ai_progress_per_dollar_of_investment_shows/",
+  "title": "AI progress per dollar of investment shows diminishing returns. This is using METR's estimate of acceleration at Anthropic. That acceleration isn't en",
+  "summary": "Source: https://fixupx.com/ramez/status/2119556622619967488 A few things to remember: - it’s easier to go from 30% to 40% on an exam than from 70% to 80% - A lot of spending is for future data centers"
+ },
+ {
   "url": "https://www.reddit.com/r/artificial/comments/1xrbxim/nvidia_has_launched_an_investigation_on_ceo/",
   "title": "Nvidia has launched an investigation on CEO Jensen Huang after, he admitted to having had a romantic relationship with a chinese spy",
   "summary": "Jensen admits to having an affair with a woman who turned out to be a chinese spy, despite having a wife and kids, here is his message to the company: \"I owe my family and all of you an apology. I was"
@@ -16,7 +101,7 @@
  },
  {
   "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
-  "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+  "title": "Nvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy",
   "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Secu"
  },
  {
@@ -60,6 +145,11 @@
   "summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slo"
  },
  {
+  "url": "https://www.reddit.com/r/artificial/comments/1xprvev/claude_helped_solve_the_first_3d_structure_of_a/",
+  "title": "Claude helped solve the first 3D structure of a mysterious 'vault' particle, a hollow protein shell encoded by a bacteriophage virus",
+  "summary": "Anthropic reported on November 5 that Claude helped determine the first three-dimensional structure of a vault particle: a hollow protein shell built from a protein encoded by a bacteriophage, a virus"
+ },
+ {
   "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
   "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
   "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long af"
@@ -68,11 +158,6 @@
   "url": "https://www.reddit.com/r/artificial/comments/1xpk0wl/turkey_uses_ai_and_other_tech_to_claw_back_100/",
   "title": "Turkey Uses AI and Other Tech to Claw Back 100 Looted Antiquities from the US",
   "summary": "This is just cool! Goes to show you that AI is not inherently bad. Great news! submitted by /u/ZealousidealOwl2026 [link] [comments]"
- },
- {
-  "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
-  "title": "China reportedly recruited AI exec to spy on Jensen Huang",
-  "summary": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean inf"
  },
  {
   "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
@@ -310,6 +395,11 @@
   "summary": "One of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seeking lunatics. If your social media of choice is the"
  },
  {
+  "url": "https://www.reddit.com/r/artificial/comments/1xnrvak/anthropics_flashprove_could_prove_an_ai_provider/",
+  "title": "Anthropic’s FlashProve could prove an AI provider used the model you paid for without exposing its weights",
+  "summary": "Users currently have no independent way to confirm whether an AI provider served the requested model or quietly substituted a cheaper one. FlashProve addresses this by using zero-knowledge cryptograph"
+ },
+ {
   "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
   "title": "Gemini for Home now plugs into AT&T’s smart security system",
   "summary": "AT&T's smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the \"first\" home security product to integrate with Google Home Premium, enabling a"
@@ -520,21 +610,6 @@
   "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning."
  },
  {
-  "url": "https://www.reddit.com/r/artificial/comments/1xm7eyb/openai_lowers_funding_goals_as_investors_cool_on/",
-  "title": "OpenAI lowers funding goals as investors cool on AI",
-  "summary": ""
- },
- {
-  "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-  "title": "Rewarding defenders with bigger bug bounties",
-  "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers."
- },
- {
-  "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-  "title": "Preparing our next security sprint to harden OpenAI",
-  "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI."
- },
- {
   "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
   "title": "The latest AI news we announced in October 2026",
   "summary": "Here are Google’s latest AI updates from October 2026"
@@ -545,49 +620,9 @@
   "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automa"
  },
  {
-  "url": "https://www.reddit.com/r/artificial/comments/1xm0tga/almost_half_of_all_new_steam_games_use_ai_now/",
-  "title": "Almost half of all new Steam games use AI now",
-  "summary": ""
- },
- {
-  "url": "https://openai.com/index/scaling-git-at-openai",
-  "title": "Scaling Git at OpenAI",
-  "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible."
- },
- {
-  "url": "https://openai.com/index/grid-protectors-program",
-  "title": "Introducing the Grid Protectors Program",
-  "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs."
- },
- {
-  "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
-  "title": "Anthropic clamps down on Claude’s AI video game clones",
-  "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with "
- },
- {
   "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
   "title": "Stop counting tokens, start counting what ships",
   "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 "
- },
- {
-  "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
-  "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
-  "summary": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts "
- },
- {
-  "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
-  "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
-  "summary": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass t"
- },
- {
-  "url": "https://www.reddit.com/r/artificial/comments/1xlu9ui/how_to_stop_meta_openai_and_apple_from_training/",
-  "title": "How to stop Meta, OpenAI, and Apple from training AI on your data in the UK",
-  "summary": ""
- },
- {
-  "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
-  "title": "The agentic web is here",
-  "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he "
  },
  {
   "url": "https://zapier.com/blog/best-no-code-app-builder",
@@ -605,14 +640,14 @@
   "summary": "Grok has a very specific edge over other AI models: live access to X, so your agents can keep their finger on the pulse a little more easily. But outside of that, Grok models and agents are still soli"
  },
  {
-  "url": "https://zapier.com/blog/best-ai-agent-builder",
-  "title": "The best AI agent builder software in 2026",
-  "summary": "AI agents have matured fast, and I've been in the weeds the whole time. These days, AI agents are running a lot of my processes in the background. And it's not just me or the Zapier team: 84% of enter"
- },
- {
   "url": "https://zapier.com/blog/grok-bot",
   "title": "What is Grok Bot?",
   "summary": "Working with AI is getting weird. Two years ago, I used to do most tasks by myself and then jump into a chatbot task to solve a problem four or five times per hour. These days, I end up staring at my "
+ },
+ {
+  "url": "https://zapier.com/blog/best-ai-agent-builder",
+  "title": "The best AI agent builder software in 2026",
+  "summary": "AI agents have matured fast, and I've been in the weeds the whole time. These days, AI agents are running a lot of my processes in the background. And it's not just me or the Zapier team: 84% of enter"
  },
  {
   "url": "https://zapier.com/blog/meta-ai-muse-spark",
@@ -625,16 +660,6 @@
   "summary": ""
  },
  {
-  "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-  "title": "We urgently need to monitor AI agents’ actions in real time",
-  "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about"
- },
- {
-  "url": "https://zapier.com/blog/best-ai-project-management-tools",
-  "title": "The 5 best AI project management tools in 2026",
-  "summary": "When was the last time you looked at your project management app and didn't get a stress level spike? No matter how much you plan or reprioritize, it always feels like running a sprint on a tightrope."
- },
- {
   "url": "https://zapier.com/blog/best-ai-presentation-maker",
   "title": "The 6 best AI presentation makers in 2026",
   "summary": "The days of spending hours dragging images to just the right place on a slide are far behind us. You can now create a presentation with AI, giving the robots the job of setting the structure, adding t"
@@ -645,6 +670,11 @@
   "summary": "Anyone who lives in the Google ecosystem has probably used Gemini for a quick draft or a fast answer. (Or if you're like me, you've been driven to your limit by the Google Docs popups encouraging you "
  },
  {
+  "url": "https://zapier.com/blog/best-ai-project-management-tools",
+  "title": "The 5 best AI project management tools in 2026",
+  "summary": "When was the last time you looked at your project management app and didn't get a stress level spike? No matter how much you plan or reprioritize, it always feels like running a sprint on a tightrope."
+ },
+ {
   "url": "https://zapier.com/blog/best-llm",
   "title": "The best large language models (LLMs) in 2026",
   "summary": "Large language models (LLMs) are what most people think of when they think of AI. They're what you're interacting with in ChatGPT and Claude, they write the code generated by Claude Code and Codex, an"
@@ -653,11 +683,6 @@
   "url": "https://zapier.com/blog/google-gemini",
   "title": "What is Google Gemini?",
   "summary": "Google has been in its \"Gemini era\" for a couple years now, and while the confusing rebrandings have slowed, everything else continues to improve at a rapid pace. Gemini is the name Google gave to its"
- },
- {
-  "url": "https://zapier.com/blog/openai-playground",
-  "title": "How to use the OpenAI playground to tinker with OpenAI models",
-  "summary": "ChatGPT can do basically anything you ask, but you really don't have a huge amount of control over its outputs. If you want to do more with OpenAI's models, you need to dig a little deeper. If you rea"
  },
  {
   "url": "https://huggingface.co/blog/announcing-project-protostar",
@@ -673,10 +698,5 @@
   "url": "https://huggingface.co/blog/anydecisionmodel",
   "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
   "summary": ""
- },
- {
-  "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
-  "title": "Creating AI value with enterprise context",
-  "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automati"
  }
 ]
