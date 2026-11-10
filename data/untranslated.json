@@ -5,14 +5,44 @@
   "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in "
  },
  {
+  "url": "https://www.reddit.com/r/artificial/comments/1xs17j1/google_is_coming_for_nvidia_its_a_double_bad_day/",
+  "title": "Google is coming for Nvidia, it's a double bad day for Jensen. A deep look at Google's new TPUs (8tx/8i Max)",
+  "summary": "Google just added two new TPU systems to its lineup, the TPU 8tx and the TPU 8i Max, and the coverage is mostly about one thing: whether Google can take a real bite out of Nvidia. If you've seen the n"
+ },
+ {
+  "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+  "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+  "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company"
+ },
+ {
   "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
   "title": "ChatGPT Enterprise now available in AWS Marketplace",
   "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships."
  },
  {
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+  "title": "What could China get from Jensen Huang?",
+  "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced"
+ },
+ {
+  "url": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+  "title": "Here’s what Trump said he knew about Jensen Huang",
+  "summary": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this "
+ },
+ {
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+  "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+  "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporti"
+ },
+ {
   "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
   "title": "Nancy Pelosi’s replacement is ready to regulate AI",
   "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s"
+ },
+ {
+  "url": "https://www.reddit.com/r/artificial/comments/1xrw6dl/nvidia_stock_falls_after_company_opens_probe_into/",
+  "title": "Nvidia stock falls after company opens probe into CEO’s relationship with Chinese spy",
+  "summary": ""
  },
  {
   "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
@@ -38,6 +68,11 @@
   "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
   "title": "Innovating with AI in the special chemicals industry",
   "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific exper"
+ },
+ {
+  "url": "https://openai.com/index/control-room",
+  "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+  "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise."
  },
  {
   "url": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
@@ -75,6 +110,11 @@
   "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour."
  },
  {
+  "url": "https://openai.com/index/coderabbit-codex-daybreak",
+  "title": "CodeRabbit scales agentic software development and ships 20x more",
+  "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team."
+ },
+ {
   "url": "https://zapier.com/blog/ai-agents-survey",
   "title": "88% of enterprises now use or test AI agents, but most still need a human in the loop",
   "summary": "A robot vacuum should be a simple delegation. The floor is dirty. The robot cleans the floor. I go do literally anything else. Instead, the promise of automated cleaning comes with a surprising number"
@@ -98,11 +138,6 @@
   "url": "https://www.reddit.com/r/artificial/comments/1xr1o9g/consumer_gemini_autonomously_ingests_drive/",
   "title": "Consumer Gemini autonomously ingests Drive files/Gmail into human review pool",
   "summary": "In 2023, Google launched Gemini Workspace extensions with an explicit promise: personal content from Gmail, Docs, and Drive \"is not seen by human reviewers\". Google has quietly reversed this commitmen"
- },
- {
-  "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
-  "title": "Nvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy",
-  "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Secu"
  },
  {
   "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
@@ -555,29 +590,9 @@
   "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world."
  },
  {
-  "url": "https://www.theverge.com/policy/1020640/midterm-elections-2026-all-the-news",
-  "title": "Midterm elections 2026: all the news",
-  "summary": "The 2026 midterm elections will determine the scope of President Donald Trump’s power in his final two years in office, and signal what voters care about going into the 2028 presidential election. Whi"
- },
- {
   "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
   "title": "How “reverse game theory” could keep AI agents in check",
   "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers "
- },
- {
-  "url": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
-  "title": "Apple is all in on AI — its own and everyone else’s",
-  "summary": "Apple's latest earnings show how it's continuing to capitalize on the AI boom without busting its budget on the infrastructure spending consuming its competitors. Overall, Apple posted its best-ever f"
- },
- {
-  "url": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
-  "title": "OpenAI is quietly renaming data centers ‘compute campuses’",
-  "summary": "People hate data centers. They're loud, resource-hungry eyesores that are so profoundly unpopular they have managed to achieve the near-impossible in today's polarized political landscape: genuine bip"
- },
- {
-  "url": "https://openai.com/index/heimstaden",
-  "title": "Heimstaden is changing residential real estate management with AI",
-  "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe."
  },
  {
   "url": "https://openai.com/index/cisco-cyber",
@@ -603,11 +618,6 @@
   "url": "https://huggingface.co/blog/transformers-mic",
   "title": "Transformers Model Integration Contracts",
   "summary": ""
- },
- {
-  "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-  "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-  "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning."
  },
  {
   "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
