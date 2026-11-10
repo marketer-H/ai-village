@@ -1,5 +1,80 @@
 [
  {
+  "url": "https://www.reddit.com/r/artificial/comments/1xsoidy/claude_fable_52_coordinated_more_than_1000_ai/",
+  "title": "Claude Fable 5.2 coordinated more than 1,000 AI agents to build a working operating system in eight days",
+  "summary": "In an internal Anthropic experiment, Claude Fable 5.2 received a basic prompt and an empty project folder, then coordinated more than 1,000 subagents to write, test and review an operating system over"
+ },
+ {
+  "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+  "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+  "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership."
+ },
+ {
+  "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+  "title": "Google Cloud launches Gemini for healthcare.",
+  "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works."
+ },
+ {
+  "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+  "title": "Helping caregivers use AI in everyday life",
+  "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life."
+ },
+ {
+  "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+  "title": "eBay appears to have shut the door on third-party AI agents",
+  "summary": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his "
+ },
+ {
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+  "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+  "summary": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"stronges"
+ },
+ {
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
+  "title": "Anthropic targets $1.4 trillion IPO",
+  "summary": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be between $70.00 and $78.00 per share, wh"
+ },
+ {
+  "url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
+  "title": "Adobe is going all in on agentic AI",
+  "summary": "Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tasks on your behalf. Some of the tools and"
+ },
+ {
+  "url": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates",
+  "title": "Photoshop, Lightroom, and Premiere are making it easier to remove things",
+  "summary": "Adobe is expanding its Creative Cloud apps and Firefly AI platform with new capabilities that aim to make design and editing projects faster and less complicated. Some of the announcements from Adobe'"
+ },
+ {
+  "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+  "title": "Closing the AI guidance gap in education",
+  "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning."
+ },
+ {
+  "url": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot",
+  "title": "Hands-on with Ring’s new AI drone camera for your home",
+  "summary": "Ring is finally shipping a flying indoor drone camera. For real this time. The Ring Drone Cam will arrive on January 27th, 2027, for $249.99, Ring founder Jamie Siminoff said at a launch event in New "
+ },
+ {
+  "url": "https://openai.com/index/ai-effect-on-freelance-work",
+  "title": "Work at the Frontier: AI’s effect on freelance work",
+  "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects."
+ },
+ {
+  "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+  "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+  "summary": ""
+ },
+ {
+  "url": "https://huggingface.co/blog/decision",
+  "title": "Decision Models in Hugging Face",
+  "summary": ""
+ },
+ {
+  "url": "https://www.reddit.com/r/artificial/comments/1xs7vim/anthropic_shows_it_has_a_model_stronger_than/",
+  "title": "Anthropic shows it has a model stronger than Fable 5.2 already",
+  "summary": "https://fixupx.com/AndrewCurran_/status/2119930955888746627 submitted by /u/Eliv_nurotic [link] [comments]"
+ },
+ {
   "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
   "title": "The backlash about data centers might really just be about electricity",
   "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in "
@@ -520,23 +595,8 @@
   "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service."
  },
  {
-  "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
-  "title": "The biggest modding site in PC gaming is taking a stance on AI",
-  "summary": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the s"
- },
- {
   "url": "https://www.reddit.com/r/artificial/comments/1xn22y7/google_to_shut_off_search_for_schools_that_optout/",
   "title": "Google to shut off search for schools that opt-out of AI",
-  "summary": ""
- },
- {
-  "url": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
-  "title": "Please stop asking me when the AI bubble will pop",
-  "summary": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-cha"
- },
- {
-  "url": "https://huggingface.co/blog/allenai/statebench",
-  "title": "StateBench: Testing how language models track state changes over long documents",
   "summary": ""
  },
  {
@@ -545,64 +605,9 @@
   "summary": ""
  },
  {
-  "url": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
-  "title": "Those Jeff Bezos hair transplant photos are very fake",
-  "summary": "Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days. However, there are some ima"
- },
- {
-  "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
-  "title": "Apple starts giving Siri AI access to third-party apps",
-  "summary": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's new features in \"all a"
- },
- {
-  "url": "https://www.reddit.com/r/artificial/comments/1xmtn3k/ok_ai_assistants_are_getting_kinda_out_of_hand/",
-  "title": "ok AI assistants are getting kinda out of hand",
-  "summary": "So i've been reading about AI agent stuff and this week was actually insane. this guy in japan asked some AI assistant called Pickle to look up hotels for new years and it just... called the hotel by "
- },
- {
-  "url": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
-  "title": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
-  "summary": "Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Reca"
- },
- {
-  "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
-  "title": "OpenAI says ChatGPT is catching up to Google in search",
-  "summary": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run t"
- },
- {
-  "url": "https://www.theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates",
-  "title": "Indie games are missing launch dates because Steam is backed up",
-  "summary": "Many indie game developers have recently posted on social media about unexpectedly long approval wait times for their game submissions on Steam, with some of the approvals causing developers to miss t"
- },
- {
-  "url": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations",
-  "title": "Netflix will show you themed recommendations through a new ‘AI Discover’ tab",
-  "summary": "Netflix's TV app is getting a new \"AI Discover\" tab where the company will show experimental, AI-powered features to help you find new shows and movies to watch. The first of these experiments surface"
- },
- {
-  "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
-  "title": "Google is entirely disabling Search in schools that don’t want AI",
-  "summary": "Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader education-related update from Google on T"
- },
- {
-  "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-  "title": "Accelerating engineering for the physical world",
-  "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world."
- },
- {
   "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
   "title": "How “reverse game theory” could keep AI agents in check",
   "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers "
- },
- {
-  "url": "https://openai.com/index/cisco-cyber",
-  "title": "How Cisco defends at machine speed with OpenAI",
-  "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses."
- },
- {
-  "url": "https://www.reddit.com/r/artificial/comments/1xmkk63/marvell_inks_recordbreaking_115b_ai_deal/",
-  "title": "Marvell inks record-breaking $115B AI deal",
-  "summary": ""
  },
  {
   "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
@@ -640,14 +645,19 @@
   "summary": "You're vibing with your AI coding agent, and your prototype is working well in the preview window. Brimming with excitement, you hit publish to share your creation with the world. Everything is great "
  },
  {
+  "url": "https://zapier.com/blog/automate-grok",
+  "title": "Grok automation: How to use the Zapier Grok integration (Grok 4.7, Grok Bot, and more)",
+  "summary": "Grok has a very specific edge over other AI models: live access to X, so your agents can keep their finger on the pulse a little more easily. But outside of that, Grok models and agents are still soli"
+ },
+ {
   "url": "https://zapier.com/blog/ai-transformation",
   "title": "What is AI transformation in 2027? How to build a strategy for your business",
   "summary": "It can feel impossible to escape the pressure to \"do something\" with AI. Maybe your CEO just asked about your AI strategy in an all-hands, or your competitors are shipping faster thanks to automation."
  },
  {
-  "url": "https://zapier.com/blog/automate-grok",
-  "title": "Grok automation: How to use the Zapier Grok integration (Grok 4.7, Grok Bot, and more)",
-  "summary": "Grok has a very specific edge over other AI models: live access to X, so your agents can keep their finger on the pulse a little more easily. But outside of that, Grok models and agents are still soli"
+  "url": "https://zapier.com/blog/meta-ai-muse-spark",
+  "title": "Muse Wonder and Muse Spark: A guide to Meta's AI models",
+  "summary": "Meta has shifted to a new family of flagship AI models called Muse and sent the Llama \"herd\" of models to the farm upstate. It's a dramatic but understandable shift in AI strategy from the company tha"
  },
  {
   "url": "https://zapier.com/blog/grok-bot",
@@ -660,19 +670,9 @@
   "summary": "AI agents have matured fast, and I've been in the weeds the whole time. These days, AI agents are running a lot of my processes in the background. And it's not just me or the Zapier team: 84% of enter"
  },
  {
-  "url": "https://zapier.com/blog/meta-ai-muse-spark",
-  "title": "Muse Wonder and Muse Spark: A guide to Meta's AI models",
-  "summary": "Meta has shifted to a new family of flagship AI models called Muse and sent the Llama \"herd\" of models to the farm upstate. It's a dramatic but understandable shift in AI strategy from the company tha"
- },
- {
   "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
   "title": "Granite Switch 4.1.1 — Update models like you update software",
   "summary": ""
- },
- {
-  "url": "https://zapier.com/blog/best-ai-presentation-maker",
-  "title": "The 6 best AI presentation makers in 2026",
-  "summary": "The days of spending hours dragging images to just the right place on a slide are far behind us. You can now create a presentation with AI, giving the robots the job of setting the structure, adding t"
  },
  {
   "url": "https://zapier.com/blog/automate-google-ai-studio",
@@ -685,9 +685,9 @@
   "summary": "When was the last time you looked at your project management app and didn't get a stress level spike? No matter how much you plan or reprioritize, it always feels like running a sprint on a tightrope."
  },
  {
-  "url": "https://zapier.com/blog/best-llm",
-  "title": "The best large language models (LLMs) in 2026",
-  "summary": "Large language models (LLMs) are what most people think of when they think of AI. They're what you're interacting with in ChatGPT and Claude, they write the code generated by Claude Code and Codex, an"
+  "url": "https://zapier.com/blog/best-ai-presentation-maker",
+  "title": "The 6 best AI presentation makers in 2026",
+  "summary": "The days of spending hours dragging images to just the right place on a slide are far behind us. You can now create a presentation with AI, giving the robots the job of setting the structure, adding t"
  },
  {
   "url": "https://zapier.com/blog/google-gemini",
