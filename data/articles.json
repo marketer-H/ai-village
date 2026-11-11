@@ -1,5 +1,14 @@
 [
  {
+  "title": "Gilbert + Tobin rethinks the business of law with AI",
+  "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+  "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+  "source": "OpenAI",
+  "date": "2026-11-12T00:00:00+00:00",
+  "category": "공식 자료",
+  "buzz": 1
+ },
+ {
   "title": "‘문지기’ 금융보안원까지 해킹⋯ 금융기관 관련 정보 일부 유출",
   "url": "https://www.kmib.co.kr/article/20261110502281",
   "summary": "<center> <img src=\"https://3f3bm4nnaefgwrtq8izg16625.edge.naverncp.com/data2/content/image/2026/11/11/20261111500018.jpg\"> </center> <figure class=\"image\"><img storyid=\"0a0a3e06-a1be-1117-81a1-c60fa4d",
@@ -45,6 +54,168 @@
   "buzz": 1
  },
  {
+  "title": "\"미국 상무부, 젠슨 황 불륜 상대 관련 기업 제재 두 달째 보류\"",
+  "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840663&plink=RSSLINK&cooper=RSSREADER",
+  "summary": "▲ 젠슨 황과 앨리스 황젠슨 황의 불륜 상대로 중국 스파이 의혹을 받는 앨리스 황과 관련된 기업이 중국으로 미국산 인공지능 반도체를 …",
+  "source": "SBS 뉴스",
+  "date": "2026-11-11T10:46:04+09:00",
+  "category": "기타",
+  "buzz": 1
+ },
+ {
+  "title": "정부 정책과 시장의 소통…뉴시스 금융아카데미 2교시 개강(종합)",
+  "url": "https://www.newsis.com/view/NISX20261111_0003863443",
+  "summary": "[서울=뉴시스] 금융증권 기자 = 금융의 경계를 넘어 새로운 가능성을 모색하고 미래를 향한 기회를 탐색하는 '제2기 뉴시스 금융 아카데미'가 막을 올렸다. 국내 최대 민영뉴스통신사 공감언론 뉴시스는 11일 오전 7시 서울 소공동 더 그랜드롯데 서울에서 제2기 금융 아카데미 입학식을 개최하고 3개월간의 교육 일정에 들어갔다. 올해로 2기를 맞은 뉴시스 금융 ",
+  "source": "뉴시스",
+  "date": "2026-11-11T10:42:03+09:00",
+  "category": "생활·교육",
+  "buzz": 1
+ },
+ {
+  "title": "[자막뉴스] \"결국 미션 성공\" 남편까지 이용한 앨리스 황…10조 원어치 '엔비디아 AI 칩' 이미 중국 넘어갔다",
+  "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840442&plink=RSSLINK&cooper=RSSREADER",
+  "summary": "중국 스파이 의혹을 받는 인물이자 엔비디아 젠슨 황 CEO가 부적절한 관계였음을 인정한 앨리스 황이 수조 원대의 미국산 첨단 AI 반도체를 중국…",
+  "source": "SBS 뉴스",
+  "date": "2026-11-11T10:41:08+09:00",
+  "category": "기타",
+  "buzz": 1
+ },
+ {
+  "title": "[게시판] 한국부동산경영학회, 'AI시대 시장 대응' 학술세미나",
+  "url": "https://www.yna.co.kr/view/AKR20261111068400003",
+  "summary": "▲ 한국부동산경영학회(회장 서진형)는 이달 14일 광운대에서 한국부동산산업학회와 공동으로 '인공지능(AI) 시대의 부동산시장, 대응전략과 과제'...",
+  "source": "연합뉴스 경제",
+  "date": "2026-11-11T10:39:04+09:00",
+  "category": "기타",
+  "buzz": 1
+ },
+ {
+  "title": "美 민주당, 젠슨 황·트럼프 행정부 압박…대중 AI칩 로비 조사",
+  "url": "https://www.newsis.com/view/NISX20261111_0003863172",
+  "summary": "[서울=뉴시스] 이재은 기자 = 미국 민주당이 엔비디아 최고경영자(CEO) 젠슨 황과 도널드 트럼프 행정부를 상대로 의회 차원의 조사에 나설 방침이다. 황 CEO가 중국 정보기관과 연계된 것으로 의심되는 여성과 부적절한 관계를 맺었다는 의혹이 제기된 가운데, 엔비디아의 대중국 반도체 수출 로비가 미국의 국가 안보와 정부 정책 결정에 어떤 영향을 미쳤는지가 ",
+  "source": "뉴시스",
+  "date": "2026-11-11T10:36:29+09:00",
+  "category": "기타",
+  "buzz": 1
+ },
+ {
+  "title": "식품공장 사고 위험 AI가 감지한다…CJ제일제당, 제조현장 피지컬 AI 시동",
+  "url": "https://www.newsis.com/view/NISX20261111_0003863278",
+  "summary": "[서울=뉴시스]김상윤 기자 = CJ제일제당이 생산설비의 고장 징후를 미리 파악하고 작업자 위험 발생 시 설비를 자동으로 감속·정지시키는 인공지능(AI) 기반 자율제조 기술 개발에 나선다고 11일 밝혔다. CJ제일제당은 산업통상부의 'AI Factory 지원사업'에 식품업종 대표기업으로 참여해 원프레딕트, 아이벡스, 한국생산기술연구원과 공동 연구개발 과제를 ",
+  "source": "뉴시스",
+  "date": "2026-11-11T10:34:46+09:00",
+  "category": "기타",
+  "buzz": 1
+ },
+ {
+  "title": "\"답변 공짜인 시대, 생존 전략은\"…지역신문 콘퍼런스 개최",
+  "url": "https://www.newsis.com/view/NISX20261111_0003863400",
+  "summary": "[서울=뉴시스] 최희정 기자 = 급변하는 인공지능(AI) 환경 속 지역 언론이 마주한 생존 과제와 디지털 혁신 방안을 모색하는 자리가 마련된다. 지역신문발전위원회는 문화체육관광부, 한국언론진흥재단과 함께 오는 13일 충북 청주 오스코(OSCO)에서 '2026 지역신문 콘퍼런스'를 연다고 11일 밝혔다. 올해로 19회를 맞은 이번 콘퍼런스는 'AI 시대의 저",
+  "source": "뉴시스",
+  "date": "2026-11-11T10:34:22+09:00",
+  "category": "기타",
+  "buzz": 1
+ },
+ {
+  "title": "[거창소식]군, 광주과학기술원서 AI·드론·로봇 산업 육성방안 논의 등",
+  "url": "https://www.newsis.com/view/NISX20261111_0003863433",
+  "summary": "[거창=뉴시스] 서희원 기자 = 경남 거창군은 최근 이홍기 군수와 관계 공무원이 광주과학기술원(GIST)을 방문해 공득조 반도체공학과 교수, 양성 AI반도체연구원설립추진단장 등과 만나 군의 AI·드론·로봇 산업 육성방안을 논의했다고 11일 밝혔다. 방문은 정부의 호남권 반도체 산업 거점 조성에 따른 파급효과를 거창까지 연결하고, 지역이 담당할 수 있는 산업",
+  "source": "뉴시스",
+  "date": "2026-11-11T10:33:24+09:00",
+  "category": "기타",
+  "buzz": 1
+ },
+ {
+  "title": "중앙대, '한-베트남 저작권기술 산학협력 워크숍' 개최",
+  "url": "https://www.newsis.com/view/NISX20261111_0003863259",
+  "summary": "[서울=뉴시스]이예인 인턴 기자 = 중앙대학교 소프트웨어(SW) 법·기술 융합인재 양성사업단은 '한-베트남 저작권기술 산학협력 워크숍'을 열고 베트남 인공지능 연구소와 4자 업무협약(MOU)을 맺었다고 11일 밝혔다. 지난달 26일부터 28일까지 베트남 하노이에서 열린 이번 워크숍은 문화체육관광부 국가연구개발(R&D)사업의 일환으로 한국소프트웨어저작권협회,",
+  "source": "뉴시스",
+  "date": "2026-11-11T10:32:57+09:00",
+  "category": "생활·교육",
+  "buzz": 1
+ },
+ {
+  "title": "'젠슨 황 사태'가 부른 美中 갈등…\"제2 정찰 풍선 사태될 수도\"",
+  "url": "https://www.newsis.com/view/NISX20261111_0003863176",
+  "summary": "[서울=뉴시스] 최홍 기자 = 미국 내 대중(對中) 강경파들이 젠슨 황 엔비디아 최고경영자(CEO)의 사생활 스캔들을 계기로 '중국 정보기관 개입설'을 무기화할 수 있다는 전문가들의 전망이 나왔다. 일각에서는 이번 사태가 2023년 미중 관계를 경색시켰던 '중국 정찰 풍선 사태'처럼 양국 간 지정학적 갈등을 다시 격화시키는 촉매제가 될 수 있다는 관측도 제",
+  "source": "뉴시스",
+  "date": "2026-11-11T10:32:36+09:00",
+  "category": "생활·교육",
+  "buzz": 1
+ },
+ {
+  "title": "SK하이닉스, LPDDR5X 안전성·보안 입증…피지컬 AI 시장 공략",
+  "url": "https://view.asiae.co.kr/article/2026111110305638805",
+  "summary": "SK하이닉스가 메모리 반도체의 기능안전과 사이버보안 역량을 국제적으로 인정받으며 피지컬 인공지능(AI) 시장 공략에 속도를 낸다. 자율주행차와 로봇처럼 AI가 현실 공간에서 물리적 작업을 수행하는 피지컬 AI 시대가 열리면서 메모리에도 오작동과 외부 공격에 대응할 수 있는 안전·보안 역량이 중요해지고 있다. SK하이닉스는 저전력 D램인 LPDDR5X D램이",
+  "source": "아시아경제",
+  "date": "2026-11-11T10:30:56+09:00",
+  "category": "기타",
+  "buzz": 1
+ },
+ {
+  "title": "애플 제조업 R&D 지원센터, 중소기업 AI 전환 돕는다",
+  "url": "https://www.yna.co.kr/view/AKR20261111062400017",
+  "summary": "(서울=연합뉴스) 박형빈 기자 = 애플 제조업 R&amp;D 지원센터는 오는 24∼26일 국내 중소 제조기업의 경쟁력 강화를 위한 'SME We...",
+  "source": "연합뉴스",
+  "date": "2026-11-11T10:28:50+09:00",
+  "category": "기타",
+  "buzz": 1
+ },
+ {
+  "title": "\"수부지 화잘먹 크림 추천해줘\" 올리브영, AI '올영 티키'에 물어봐",
+  "url": "https://www.newsis.com/view/NISX20261111_0003863224",
+  "summary": "[서울=뉴시스]권민지 기자 = CJ올리브영이 상품 검색부터 추천, 비교까지 인공지능(AI)과 대화하며 쇼핑할 수 있는 서비스를 선보인다. 정해진 검색어를 입력하는 대신 일상적인 표현으로 피부 고민을 설명하면 AI가 적합한 화장품을 찾아주는 방식이다. CJ올리브영은 생성형 AI 기반 쇼핑 어시스턴트 '올영 티키'를 시범 운영한다고 11일 밝혔다. 올영 티키는",
+  "source": "뉴시스",
+  "date": "2026-11-11T10:25:49+09:00",
+  "category": "생활·교육",
+  "buzz": 1
+ },
+ {
+  "title": "불법 웹툰 대신 ‘원작’으로… 콘진원, 웹툰 IP 보호 캠페인 ‘굿독’ 전개",
+  "url": "https://www.donga.com/news/Culture/article/all/20261111/135004609/1",
+  "summary": "문화체육관광부와 한국콘텐츠진흥원(콘진원)이 웹툰 지식재산(IP) 보호 캠페인 ‘굿독(GOOD讀)’을 시작한다고 밝혔다. 이 캠페인의 목표는 불법 웹툰 사이트 이용과 작품 무단 공유, 허락받지 않은 인공지능(AI) 학습 활용을 막고 독자들이 정식 유통 경로로 웹툰을 보도록 하는 것이다. 캠페인명은 창작자의 권리를 존중한다는 뜻의 ‘굿(GOOD)’과 정식 경로",
+  "source": "동아일보",
+  "date": "2026-11-11T10:25:00+09:00",
+  "category": "SNS·마케팅",
+  "buzz": 1
+ },
+ {
+  "title": "CJ제일제당, F&B 특화 '제조AI' 표준모델 개발",
+  "url": "https://view.asiae.co.kr/article/2026111110054211888",
+  "summary": "CJ제일제당이 식음료(F&B) 업종에 특화된 AI 기술 개발에 나서며 AI Factory 전환을 본격화한다. CJ제일제당은 식품업종 대표기업으로 산업통상부 'AI Factory 지원사업'에 참여한다고 11일 밝혔다. 피지컬 AI(Physical AI) 기반 자율제조 기술을 개발해 생산 현장에 적용하고 K-푸드 제조 경쟁력 강화에 속도를 낸다는 계획이다. C",
+  "source": "아시아경제",
+  "date": "2026-11-11T10:24:42+09:00",
+  "category": "기타",
+  "buzz": 2
+ },
+ {
+  "title": "메디데이터 \"IDC 평가 RWD·RWE 부문 리더 선정\"",
+  "url": "https://www.newsis.com/view/NISX20261111_0003863369",
+  "summary": "[서울=뉴시스]이소헌 기자 = 메디데이터가 글로벌 시장조사기관 평가에서 AI 기반 통합 플랫폼 역량을 인정받았다. 메디데이터는 지난달 28일 글로벌 시장조사기관 IDC의 '2026 글로벌 생명과학 R&D RWD·RWE 데이터 플랫폼, 기술 솔루션 및 컨설팅 서비스 벤더 평가'에서 리더로 선정됐다고 11일 밝혔다. 이는 임상시험 기술에 특화된 기업 중 유일하",
+  "source": "뉴시스",
+  "date": "2026-11-11T10:24:31+09:00",
+  "category": "생활·교육",
+  "buzz": 1
+ },
+ {
+  "title": "FT \"앤트로픽, 공모가 상향 검토…강한 수요\"",
+  "url": "https://www.yna.co.kr/view/AKR20261111059600009",
+  "summary": "(서울=연합뉴스) 정주호 기자 = 앤트로픽의 기업공개(IPO)에 투자 수요가 몰리면서 공모가가 당초 제시한 범위보다 높아질 수 있다는 관측이 나...",
+  "source": "연합뉴스",
+  "date": "2026-11-11T10:20:13+09:00",
+  "category": "기타",
+  "buzz": 1
+ },
+ {
+  "title": "정부, AI 신약·뇌과학 등 미래 바이오 투자 확대",
+  "url": "https://www.yna.co.kr/view/AKR20261110163500017",
+  "summary": "(서울=연합뉴스) 조승한 기자 = 과학기술정보통신부는 11일 서울 중구 웨스틴조선 서울에서 '2025 바이오미래포럼'을 열었다고 밝혔다.",
+  "source": "연합뉴스",
+  "date": "2026-11-11T10:20:00+09:00",
+  "category": "기타",
+  "buzz": 1
+ },
+ {
   "title": "[청사초롱] AI 시대, 여유를 잃어가는 우리",
   "url": "https://www.kmib.co.kr/article/20261110502103",
   "summary": "<center> <img src=\"https://3f3bm4nnaefgwrtq8izg16625.edge.naverncp.com/data2/content/image/2026/11/10/20261110502105.jpg\"> </center> <figure class=\"image\"><img src=\"/content/image/2026/11/10/202611105",
@@ -61,6 +232,15 @@
   "date": "2026-11-11T10:16:48+00:00",
   "category": "영상·이미지",
   "buzz": 1
+ },
+ {
+  "title": "[게시판] 하나운용, 청소년그루터기재단에 2천500만원 기부",
+  "url": "https://www.yna.co.kr/view/AKR20261111059900008",
+  "summary": "▲ 하나자산운용은 출범 3주년을 기념해 청소년그루터기재단에 2천500만원을 기부했다고 11 밝혔다. 기부금은 '1Q 미국메디컬AI' 상장지수펀드...",
+  "source": "연합뉴스 경제",
+  "date": "2026-11-11T10:13:14+09:00",
+  "category": "기타",
+  "buzz": 2
  },
  {
   "title": "‘키다리 아저씨’ 삼성 C랩, 14년간 1000개 스타트업 키웠다",
@@ -81,12 +261,183 @@
   "buzz": 2
  },
  {
+  "title": "[게시판] 유한킴벌리, KCEA 콘퍼런스서 AI 시대 소비자 행동 변화 발표",
+  "url": "https://www.yna.co.kr/view/AKR20261111054700030",
+  "summary": "▲ 유한킴벌리는 10일 서울 강남구 코엑스에서 열린 '한국소비자중심기업협회(KCEA) 2026 연례 콘퍼런스'를 통해 인공지능(AI)으로 촉발된...",
+  "source": "연합뉴스 경제",
+  "date": "2026-11-11T10:08:47+09:00",
+  "category": "기타",
+  "buzz": 1
+ },
+ {
+  "title": "서울 오피스빌딩 거래 24% 줄었는데 판 커졌다… 강남 거래액 403% 폭증",
+  "url": "https://www.segye.com/newsView/20261111505152",
+  "summary": "올해 3분기 서울 오피스빌딩 매매시장에서 거래량은 줄었으나 거래금액은 오히려 증가하는 ‘대형물 쏠림’ 현상이 뚜렷하게 나타났다. 특히 이번 분기에 성사된 서울 오피스빌딩 19건 모두 법인이 매수하며 기관·기업 중심의 시장 재편이 확인됐다. 11일 빅데이터 및 AI 기반 상업용 부동산 전문 기업 부동산플래닛이 국토교통부 실거래가를 분석해 발표한 자료에",
+  "source": "세계일보",
+  "date": "2026-11-11T10:08:27+09:00",
+  "category": "기타",
+  "buzz": 1
+ },
+ {
+  "title": "위고페어, '가품 판매자 DB' 고도화…가품 조직 정조준",
+  "url": "https://view.asiae.co.kr/article/2026111110024534217",
+  "summary": "인공지능(AI) 기반 온라인 브랜드 보호 기업 위고페어는 가품 판매자에 대응하기 위해 '가품 판매자 DB'를 강화했다고 11일 밝혔다. 단속 범위를 개별 상품에서 판매자 단위로 넓혀 가품 판매자의 조직적 네트워크를 끊겠다는 것이다. 최근 가품 판매자는 계정이 차단되면 다른 법인명으로 새 계정을 만들고 있다. 상품 단위로만 신고하면 같은 판매자를 매번 처음 ",
+  "source": "아시아경제",
+  "date": "2026-11-11T10:02:45+09:00",
+  "category": "기타",
+  "buzz": 1
+ },
+ {
+  "title": "바잉스퀘어, 마뗑킴 해외 수주에 도매 플랫폼 ‘카탈로그샵’ 적용",
+  "url": "https://www.donga.com/news/Economy/article/all/20261111/135004516/1",
+  "summary": "패션 스타트업 바잉스퀘어(대표 최정현)는 자체 개발한 기업 간(B2B) 글로벌 도매 플랫폼 ‘카탈로그샵(Catalog Shop)’을 패션 브랜드 마뗑킴(MATIN KIM)의 해외 수주회에 적용했다고 11일 밝혔다. 해외 거래처가 늘수록 커지는 상품·거래조건 관리 부담을 줄이기 위한 것이다. 두 회사는 올해 상반기부터 협업을 논의해 왔다. 마뗑킴이 해외 유통",
+  "source": "동아일보",
+  "date": "2026-11-11T10:02:01+09:00",
+  "category": "기타",
+  "buzz": 1
+ },
+ {
+  "title": "\"투자전략 공개\" 신한투자증권, '2027년 금융시장 포럼'",
+  "url": "https://view.asiae.co.kr/article/2026111110005083220",
+  "summary": "신한투자증권은 11~12일 이틀간 내년 투자전략을 소개하는 '2027년 신한 금융시장 포럼'을 개최한다고 11일 밝혔다. 이번 포럼은 글로벌 경제와 금융시장의 불확실성이 확대되는 가운데, 인공지능(AI) 투자 패러다임의 변화와 주요 산업의 성장 전망을 점검하고 2027년 투자전략을 제시하기 위해 마련됐다. 특히 국가 간 전략산업 경쟁과 공급망 재편, AI ",
+  "source": "아시아경제",
+  "date": "2026-11-11T10:00:51+09:00",
+  "category": "기타",
+  "buzz": 1
+ },
+ {
+  "title": "한국고용정보원, 진천군과 '지역 맞춤형 AI 청년일자리' 협약",
+  "url": "https://www.yna.co.kr/view/AKR20261111038300530",
+  "summary": "(서울=연합뉴스) 한혜원 기자 = 한국고용정보원은 11일 충북 진천군과 '인공지능(AI) 기반 청년 맞춤형 일자리 매칭 및 고용서비스 강화를 위...",
+  "source": "연합뉴스 경제",
+  "date": "2026-11-11T10:00:03+09:00",
+  "category": "기타",
+  "buzz": 1
+ },
+ {
+  "title": "존박 측 “맥도날드 주문 랩, 해외서 음원 무단 등록…대응 검토”",
+  "url": "https://www.donga.com/news/Entertainment/article/all/20261111/135004492/1",
+  "summary": "가수 존박의 ‘맥도날드 주문 랩’이 해외에서 무단 등록 및 사용되고 있어 소속사 측이 대응에 나섰다.존박의 소속사 뮤직팜 엔터테인먼트는 11일 공식 입장을 통해 “최근 당사는 소속 아티스트 존박과 곽진언이 작사하고, 존박이 작곡·편곡한 ‘맥도날드 주문 랩’ 음원이 당사 및 원작자의 사전 동의 없이 해외 음원 플랫폼에 등록·유통된 사실을 확인했다”라며 “해당",
+  "source": "동아일보",
+  "date": "2026-11-11T09:58:55+09:00",
+  "category": "기타",
+  "buzz": 1
+ },
+ {
+  "title": "누구나 광고 제작자로…5300만원 AI 광고 공모전 열린다",
+  "url": "https://www.bloter.net/news/articleView.html?idxno=678284",
+  "summary": "카메라 대신 생성형 인공지능(AI)으로 기업 광고를 제작하는 공모전이 열린다. 기업이 제시한 과제를 골라 영상으로 구현하는 방식으로, 영상 전공이나 전문 촬영 장비 없이도 만 14세 이상이면 참여할 수 있다.마인드스파크는 '제3회 대한민국 AI광고대상' 출품작을 9일부터 받고 있다고 10일 밝혔다. 접수는 30일 자정까지다. 총상금은 5300만원으로, 주최",
+  "source": "블로터",
+  "date": "2026-11-11T09:58:03+00:00",
+  "category": "영상·이미지",
+  "buzz": 1
+ },
+ {
+  "title": "매쉬업벤처스, 259억원 민간펀드 결성…AI·딥테크 극초기 기업 투자",
+  "url": "https://view.asiae.co.kr/article/2026111109552645701",
+  "summary": "매쉬업벤처스가 259억원 규모의 민간 펀드를 결성해 극초기 인공지능(AI)·딥테크 기업의 성장을 지원한다. 11일 매쉬업벤처스는 259억원 규모의 '매쉬업퍼스트빌리버벤처투자조합5호'를 결성했다고 밝혔다. 이는 정책자금 없이 결성된 민간 펀드로 매쉬업벤처스 파트너진이 최대 출자자로 참여하고 성공 창업자 및 스타트업, IT·제조 등 산업별 선도기업, 금융기관 ",
+  "source": "아시아경제",
+  "date": "2026-11-11T09:55:26+09:00",
+  "category": "기타",
+  "buzz": 1
+ },
+ {
+  "title": "아이엘, 한국피지컬AI협회 정회원 합류…국내외 협력망 확대",
+  "url": "https://view.asiae.co.kr/article/2026111109535107384",
+  "summary": "피지컬 인공지능(AI) 운영 데이터 플랫폼 기업 아이엘이 한국피지컬AI협회 정회원사로 합류하며 국내외 산업 협력 네트워크 확대에 나섰다. 아이엘은 최근 유럽 인공지능·데이터·로봇 분야 협의체인 ADRA(AI, Data and Robotics Association)에 정식 회원사로 가입한 데 이어 한국피지컬AI협회 정회원 자격을 확보했다고 11일 밝혔다. 국",
+  "source": "아시아경제",
+  "date": "2026-11-11T09:53:52+09:00",
+  "category": "기타",
+  "buzz": 1
+ },
+ {
+  "title": "AMD, 에픽 베니스 CPU 세부 정보 공개, ‘최대 5.3GHz·256코어로 경쟁력↑’",
+  "url": "https://www.donga.com/news/It/article/all/20261111/135004442/1",
+  "summary": "AMD는 현지시간으로 지난 11월 5일부터 6일 양일간 미국 네바다 주 라스베이거스에서 ‘AMD IN DEPTH’를 개최하고 AMD 젠6·젠6C 아키텍처의 세부적인 기술 정보와 이를 기반으로 하는 AMD 에픽(EPYC) CPU, 코드명 베니스의 전체 정보를 소개했다. 해당 세션은 6일 기조연설에 앞서 AMD 젠6 아키텍처 및 젠6C 아키텍처의 세부적인 기술",
+  "source": "동아일보",
+  "date": "2026-11-11T09:53:00+09:00",
+  "category": "기타",
+  "buzz": 1
+ },
+ {
+  "title": "AMD, 에이전틱 AI 시대 맞춘 ‘에픽 베니스 CPU·헬리온’ 핵심 소개",
+  "url": "https://www.donga.com/news/It/article/all/20261111/135004387/1",
+  "summary": "AMD가 지난 11월 5일부터 6일 양일간 미국 네바다 주 라스베이거스에서 열린 ‘AMD IN DEPTH’에서 AMD의 새로운 6세대 에픽 CPU 코드명 ‘베니스’의 핵심 정보와 이를 기반으로 한 랙 단위 AI 인프라 ‘헬리온’의 주요 정보를 소개했다. 기조연설은 댄 맥나마라(Dan McNamara) AMD CEAI(Compute and Enterprise",
+  "source": "동아일보",
+  "date": "2026-11-11T09:51:19+09:00",
+  "category": "기타",
+  "buzz": 1
+ },
+ {
+  "title": "기업용 AI 제품은 어떻게 가격을 매기는가",
+  "url": "https://news.hada.io/topic?id=36970&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "summary": "AI 제품은 사용량에 따라 제공 비용이 달라지고, 도입 효과도 계약 전에 숫자로 잡기 어려움. 성공적인 기업용 가격 모델은 고정 요금, 사용량 요금, 구축·인력 비용 중 둘 이상을 조합하는 경우가 많음고정+변동 혼합형은 고객의 예산 예측 가능성과 공급사의 사용량 증가에 따른 수익을 함께 확보하며, 제품이 성숙하고 사용 데이터가 쌓일수록 고정 요금 비중을 높",
+  "source": "GeekNews",
+  "date": "2026-11-11T09:50:02+09:00",
+  "category": "기타",
+  "buzz": 1
+ },
+ {
   "title": "엔비디아 뺀 반도체·AI주 반등⋯ 외인 8거래일 만에 코스피 매수",
   "url": "https://www.kmib.co.kr/article/20261110501963",
   "summary": "<center> <img src=\"https://3f3bm4nnaefgwrtq8izg16625.edge.naverncp.com/data2/content/image/2026/11/10/20261110501309.jpg\"> </center> <figure class=\"image\"><img src=\"/content/image/2026/11/10/202611105",
   "source": "국민일보",
   "date": "2026-11-11T09:39:17+00:00",
   "category": "영상·이미지",
+  "buzz": 1
+ },
+ {
+  "title": "Vercel agent-desktop - AI 에이전트가 데스크톱 앱을 조작하는 CLI",
+  "url": "https://news.hada.io/topic?id=36967&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "summary": "AI 에이전트가 맥/윈도우/리눅스에서 앱을 열고, 메뉴를 누르고, 입력란을 채울 수 있음. 창 이동과 크기 조절, 클립보드 읽기와 쓰기도 지원운영체제의 접근성 API로 버튼, 메뉴, 입력란을 JSON으로 가져와, 화면 좌표 대신 각 요소의 ID로 클릭하거나 텍스트를 입력할 수 있음요소 ID로 조작할 때는 기본적으로 마우스 포인터를 움직이거나 앱 포커스를 가",
+  "source": "GeekNews",
+  "date": "2026-11-11T09:30:02+09:00",
+  "category": "기타",
+  "buzz": 1
+ },
+ {
+  "title": "디오, 부산대학교치과병원·산학협력단과 '치의료 AI 임상' 협약 체결",
+  "url": "https://www.hankyung.com/article/202611119314i",
+  "summary": "",
+  "source": "한국경제 IT",
+  "date": "2026-11-11T09:27:37+09:00",
+  "category": "생활·교육",
+  "buzz": 1
+ },
+ {
+  "title": "앤트로픽 드리밍, 에이전트 기억 다듬어 문항 충족률 13%에서 48%로",
+  "url": "https://zdnet.co.kr/view/?no=20261111092720",
+  "summary": "[지디넷코리아]AI 에이전트가 쌓아 둔 기억을 쉬는 시간에 다시 읽고 고치게 하자 성능이 크게 올랐다. 앤트로픽은 11월 6일 공개한 연구 글 '에이전트 기억의 구성 요소(The components of agent memory)'에서 '드리밍(dreaming)' 기능의 실험 결과를 공개했다. 드리밍은 에이전트가 작업이 없을 때 지난 작업 기록을 돌아보며 실",
+  "source": "ZDNet Korea",
+  "date": "2026-11-11T09:27:20+09:00",
+  "category": "기타",
+  "buzz": 1
+ },
+ {
+  "title": "AMD, 6세대 에픽 CPU 앞세운 ‘AI 데이터센터 및 비전’ 공개··· “AI에이전트가 기회”",
+  "url": "https://www.donga.com/news/It/article/all/20261111/135004056/1",
+  "summary": "“AI를 구현하려면 단일 구성 혹은 2~3개의 선택지만으로는 고객에게 필요한 최상의 솔루션을 제공할 수 없습니다. AMD의 목표는 워크로드의 다양성을 고려해 모든 영역에 걸쳐 실질적인 효과를 발휘하는 포트폴리오를 구축하는 것입니다. AMD 에픽 CPU는 그 결과물이며 최고의 성능과 처리량, 대역폭을 위한 SP7, 기업 고객의 복합적인 목적 수행을 위한 SP",
+  "source": "동아일보",
+  "date": "2026-11-11T09:19:11+09:00",
+  "category": "기타",
+  "buzz": 1
+ },
+ {
+  "title": "상품 정보 바꾸니 AI 검색 노출 3.9배…GS리테일, 협업 성과 공유",
+  "url": "https://zdnet.co.kr/view/?no=20261111085834",
+  "summary": "[지디넷코리아]GS리테일이 인공지능(AI) 스타트업과 손잡고 상품 검색 노출 확대와 매장 고객 행동 분석에 나섰다. GS샵은 생성형 AI 검색에 맞춰 상품 정보를 정비한 뒤 검색 노출이 최대 3.9배로 늘었고 GS25는 고객의 매대 체류 시간 등을 분석해 상품 구성과 매장 운영에 활용할 기반을 마련했다.GS리테일은 지난 10일 서울 강남구 GS타워에서 오픈",
+  "source": "ZDNet Korea",
+  "date": "2026-11-11T09:16:35+09:00",
+  "category": "기타",
+  "buzz": 1
+ },
+ {
+  "title": "진천군, 인공지능 활용해 청년 맞춤형 취업 지원",
+  "url": "https://www.yna.co.kr/view/AKR20261111038400064",
+  "summary": "(진천=연합뉴스) 천경환 기자 = 충북 진천군은 한국고용정보원과 인공지능(AI) 기반 일자리 서비스 제공을 위한 업무협약을 11일 했다.",
+  "source": "연합뉴스 경제",
+  "date": "2026-11-11T09:08:09+09:00",
+  "category": "기타",
   "buzz": 1
  },
  {
@@ -99,6 +450,276 @@
   "buzz": 1
  },
  {
+  "title": "KT텔레캅, 독거노인·장애인 10만 가구 AI 돌봄 나선다",
+  "url": "https://zdnet.co.kr/view/?no=20261111090434",
+  "summary": "[지디넷코리아]KT텔레캅이 전국 독거노인과 장애인 약 10만 가구에 AI 돌봄 서비스를 제공한다. 가정에 설치한 센서와 AI 안부 전화로 상태를 살피고, 위급할 때는 관제센터와 119를 연결한다.KT텔레캅은 보건복지부의 ‘응급안전안심서비스 5차 사업’에 따른 서비스를 이달 시작했다고 11일 밝혔다. 지난 6월 사업을 수주한 뒤 9월까지 장비 설치와 앱 개발",
+  "source": "ZDNet Korea",
+  "date": "2026-11-11T09:04:34+09:00",
+  "category": "생활·교육",
+  "buzz": 1
+ },
+ {
+  "title": "장인화 \"기술 자체가 상품 돼야\"…포스코 테크포럼 개최",
+  "url": "https://zdnet.co.kr/view/?no=20261111090206",
+  "summary": "[지디넷코리아]장인화 포스코그룹 회장이 기술을 제품 생산에 활용하는 데서 나아가 소프트웨어 기반의 상품으로 사업화해 수익원을 넓혀야 한다고 강조했다.포스코그룹은 10일부터 이틀간 광양에서 제38회 테크포럼을 열고 에너지 전환 대응 전략과 인공지능(AI) 전환 방안을 논의했다. 행사에는 장 회장과 주요 사업회사 대표·임직원, 인도 JSW스틸의 라토레 최고운영",
+  "source": "ZDNet Korea",
+  "date": "2026-11-11T09:02:06+09:00",
+  "category": "기타",
+  "buzz": 1
+ },
+ {
+  "title": "[AI리더의 서가] 파이토치로 배우는 현대 인공지능",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=217031",
+  "summary": "파이토치로 배우는 현대 인공지능김태훈 | 한빛아카데미2026년 7월 3일추천이유독자는 신경망 기초부터 트랜스포머, LLM까지 현대 딥러닝의 핵심 이론을 학습하고 파이토치로 직접 구현하며, 개인화 음성 어시스턴트 프로젝트를 통해 실무 기반의 AI 엔지니어로 성장할 수 있습니다.상세보기 \\\"LLM API로 서비스는 몇 개 만들어 봤어요. 그런데 내부가 어떻게 ",
+  "source": "AI타임스",
+  "date": "2026-11-11T09:00:00+09:00",
+  "category": "영상·이미지",
+  "buzz": 1
+ },
+ {
+  "title": "이대·서울창경 공동 펀드 투자기업 3곳 모두 팁스·립스 선정",
+  "url": "https://www.donga.com/news/Economy/article/all/20261110/135000070/1",
+  "summary": "서울창조경제혁신센터(서울창경)와 이화여자대학교기술지주(이대기술지주)가 함께 운용하는 투자조합의 투자기업 3곳이 모두 정부의 민간투자 연계형 지원사업에 선정됐다. 두 기관은 ‘이화여대-서울창경 오픈이노베이션 브릿지 투자조합’이 투자한 대단바이오, 푸르므아, 어반스트롤이 중소벤처기업부의 팁스(TIPS)와 립스(LIPS)에 선정됐다고 11일 밝혔다. 조합을 결성",
+  "source": "동아일보",
+  "date": "2026-11-11T09:00:00+09:00",
+  "category": "생활·교육",
+  "buzz": 1
+ },
+ {
+  "title": "ICT폴리텍대학, 2027학년도 수시 2차 신입생 모집",
+  "url": "https://www.donga.com/news/Society/article/all/20261110/134997461/1",
+  "summary": "ICT폴리텍대학은 11일부터 27일까지 2027학년도 수시 2차 신입생을 모집한다고 이날 밝혔다.모집 대상은 2년제 산업학사 학위과정으로, 정보통신학과·AI네트워크학과·AI소프트웨어학과·IT융합학과·정보보안학과 등 5개 학과에서 신입생을 선발한다.대학은 입학생 전원을 대상으로 2년간 등록금 전액을 지원하는 ‘미래인재장학금’ 제도를 운영하고 있다. 국가장학금",
+  "source": "동아일보",
+  "date": "2026-11-11T09:00:00+09:00",
+  "category": "생활·교육",
+  "buzz": 1
+ },
+ {
+  "title": "데이원컴퍼니-엔비디아 에이전틱 AI 해커톤서 '플라이게이트' 팀 우승",
+  "url": "https://zdnet.co.kr/view/?no=20261111085910",
+  "summary": "[지디넷코리아]데이원컴퍼니 패스트캠퍼스가 엔비디아와 공동 주최한 'Agentic AI 해커톤'을 마무리, 지난 10일 서울 코엑스에서 개최된 '엔비디아 AI 데이 서울 2026' 무대에서 최종 프로젝트 성과를 공개했다.11일 회사에 따르면, 이번 해커톤은 단순 질의응답을 넘어 작업을 스스로 계획하고 완수하는 '에이전틱 AI' 시대를 맞아 실제 현장 문제 해",
+  "source": "ZDNet Korea",
+  "date": "2026-11-11T08:59:10+09:00",
+  "category": "기타",
+  "buzz": 1
+ },
+ {
+  "title": "KT, KAIST 이메일 보안 AI로 지킨다",
+  "url": "https://zdnet.co.kr/view/?no=20261111085858",
+  "summary": "[지디넷코리아]KT AI 이메일 보안 서비스가 KAIST 학생과 연구자, 교직원 전체에 적용된다. 피싱과 랜섬웨어 등 이메일로 유입되는 공격을 걸러 연구·교육 자산을 보호한다.KT는 KAIST에 자체 개발한 ‘AI 메일보안’을 공급한다고 11일 밝혔다. KAIST의 기술 검증과 국가정보원 보안성 검토를 거쳐 도입이 이뤄졌다.메일은 스팸 차단, AI 위협 탐",
+  "source": "ZDNet Korea",
+  "date": "2026-11-11T08:58:58+09:00",
+  "category": "생활·교육",
+  "buzz": 1
+ },
+ {
+  "title": "[기고] 방패없는 K-AI, 특허전쟁에 맨몸으로 나서나",
+  "url": "https://zdnet.co.kr/view/?no=20261111085833",
+  "summary": "[지디넷코리아]생성형 인공지능(AI) 경쟁 무게 중심이 '모델 성능'에서 '권리 확보'로 옮겨가고 있다.세계지식재산기구(WIPO)가 지난 7월 발표한 특허 동향 업데이트에 따르면 생성형 AI 특허 패밀리는 2023년 1만 4000여 건에서 2025년 3만 7808건으로 2년새 2.7배 늘었다. 전체 AI 특허에서 차지하는 비중도 같은 기간 6.1%에서 8.",
+  "source": "ZDNet Korea",
+  "date": "2026-11-11T08:58:33+09:00",
+  "category": "기타",
+  "buzz": 1
+ },
+ {
+  "title": "현대제철, AI로 원료 배합·물류 최적화…현장 성과 공유",
+  "url": "https://zdnet.co.kr/view/?no=20261111085758",
+  "summary": "[지디넷코리아]현대제철이 원료 배합과 물류 운영부터 구매·판매 의사결정까지 인공지능(AI) 활용 성과를 공유하며 제조·업무 현장으로 적용을 넓힌다.현대제철은 최근 당진제철소 연구소에서 '2026 AX(AI 전환) 성과공유회'를 개최했다고 밝혔다. 임직원이 추진한 과제의 결과를 살펴보고 우수사례를 조직 전반에 확산하기 위해 마련한 행사다.최우수 과제로는 제조",
+  "source": "ZDNet Korea",
+  "date": "2026-11-11T08:57:58+09:00",
+  "category": "기타",
+  "buzz": 4
+ },
+ {
+  "title": "“젠슨 황 불륜女, 10조원 엔비디아 AI칩 中 밀반입”",
+  "url": "https://www.donga.com/news/Inter/article/all/20261111/135003649/1",
+  "summary": "중국 간첩 의혹을 받는 앨리스 황(중국명 황러)이 젠슨 황 엔비디아 최고경영자(CEO)와의 관계를 이용해 미국산 인공지능(AI) 반도체 24만 개를 중국으로 밀반입했다는 보도가 나왔다.로이터통신은 10일(현지 시간) 미 정보기술(IT) 전문매체 디인포메이션을 인용해 앨리스 황이 최소 75억 달러(약 10조 원) 규모 AI 칩을 중국에 공급하는 데 일조했다고",
+  "source": "동아일보",
+  "date": "2026-11-11T08:50:00+09:00",
+  "category": "기타",
+  "buzz": 5
+ },
+ {
+  "title": "대웅제약·동탄시티병원, AI 병동·진단·재활 아우른 '스마트병원' 선봬",
+  "url": "https://www.hankyung.com/article/202611119121i",
+  "summary": "",
+  "source": "한국경제 IT",
+  "date": "2026-11-11T08:49:24+09:00",
+  "category": "기타",
+  "buzz": 1
+ },
+ {
+  "title": "젠슨 황마저?…엔비디아 흔든 외도에 ‘유퀴즈의 저주’ 와글",
+  "url": "https://www.donga.com/news/Culture/article/all/20261111/135003677/1",
+  "summary": "글로벌 인공지능(AI) 반도체 기업 엔비디아의 젠슨 황 최고경영자(CEO)가 사생활 논란에 휩싸이면서, 온라인상에서 이른바 ‘유퀴즈의 저주’가 다시 소환됐다.11일 방송가에 따르면, 황 CEO는 최근 사내 메시지를 통해 외도 사실을 인정하고 가족과 임직원들에게 공식 사과했다. 미 정보당국이 그와 중국계 여성 기업인의 부적절한 관계를 조사 중이라는 외신 보도",
+  "source": "동아일보",
+  "date": "2026-11-11T08:41:56+09:00",
+  "category": "생활·교육",
+  "buzz": 1
+ },
+ {
+  "title": "[디깅노트] 정직한 바보들의 정공법…대신정보통신과 이씨에스",
+  "url": "https://www.bloter.net/news/articleView.html?idxno=678247",
+  "summary": "기업이 주가를 높이는 방법은 무엇일까. 실적을 잘 내고, 벌어들인 이익을 주주들에게 꾸준히 돌려주는 것. 이게 누구나 생각하는 정석론일 테다. 최근 만난 코스닥 상장사 대신정보통신과 이씨에스의 경영진도 그렇게 믿어왔다. 주가는 시장에 맡기고, 회사는 본업에 충실하면 된다는 생각이다.하지만 주식시장은 꼭 정석대로 움직이지 않는다. 당장 이익을 내지 못하더라도",
+  "source": "블로터",
+  "date": "2026-11-11T08:30:00+00:00",
+  "category": "기타",
+  "buzz": 1
+ },
+ {
+  "title": "구글, '제미나이 4 카본' 정식 출시…'페이블 5.2'의 4분의 1 가격",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=217249",
+  "summary": "구글이 최상위 AI 모델 \\'제미나이 4 카본(Gemini 4 Carbon)\\'을 정식 출시했다. 최근 앤트로픽의 신형 모델에 AI 성능 평가 1위 자리를 내줬지만, 4분의 1 수준의 API 가격을 내세워 개발자와 기업 시장 공략에 나섰다.구글은 10일(현지시간) 공식 블로그를 통해 제미나이 4 카본을 일반 개발자와 기업, 유료 구독자에게 제공하기 시작했다",
+  "source": "AI타임스",
+  "date": "2026-11-11T08:12:13+09:00",
+  "category": "SNS·마케팅",
+  "buzz": 1
+ },
+ {
+  "title": "한국 디지털·AI 경쟁력, 세계 10위 도약...전년 대비 8단계 상승",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=217238",
+  "summary": "우리나라의 디지털·AI 경쟁력이 전세계 10위 수준인 것으로 나타났다. 특히 AI 관련 지표가 다수 반영되는 \\'기술인프라\\'와 \\'효율성\\' 분야는 각각 3위에 오르며 글로벌 경쟁력을 확인했다.과학기술정보통신부는 스위스 국제경영개발원(IMD)의 ‘2026년 세계 디지털·AI 경쟁력(WDAIR) 평가\\'에서 한국이 70개국 중 10위를 기록하며 전년 대비 ",
+  "source": "AI타임스",
+  "date": "2026-11-11T08:05:00+09:00",
+  "category": "기타",
+  "buzz": 2
+ },
+ {
+  "title": "지니너스 박웅양 대표, 환자 데이터·AI·실험 연계한 인텔리빌 신약개발 플랫폼 소개",
+  "url": "https://www.hankyung.com/article/202611107829i",
+  "summary": "",
+  "source": "한국경제 IT",
+  "date": "2026-11-11T08:00:09+09:00",
+  "category": "기타",
+  "buzz": 1
+ },
+ {
+  "title": "Show HN: 코딩 에이전트를 2019년 무렵의 JavaScript에서 최신 웹 기본 기능으로 이끌기",
+  "url": "https://news.hada.io/topic?id=36964&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "summary": "Modern Web Guidance는 웹 플랫폼 전문 지식, 모범 사례, 브라우저 호환성 데이터를 코딩 에이전트에 제공하는 스킬 모음으로, 레거시 패턴 대신 최신 웹 기본 기능을 활용하도록 유도함LLM 학습 데이터에 많은 오래된 코드와 부족한 최신 구현 사례를 보완하기 위해, 전문가가 선별한 가이드를 작업에 맞춰 에이전트의 컨텍스트에 직접 전달함로컬 의미 ",
+  "source": "GeekNews",
+  "date": "2026-11-11T07:38:42+09:00",
+  "category": "업무 활용",
+  "buzz": 1
+ },
+ {
+  "title": "\"AI 안경 쓰고 '신개념 컨닝'\"…수능 앞두고 '비상' 걸렸다 [정지은의 테크킥]",
+  "url": "https://www.hankyung.com/article/202611118708i",
+  "summary": "",
+  "source": "한국경제 IT",
+  "date": "2026-11-11T07:30:01+09:00",
+  "category": "기타",
+  "buzz": 1
+ },
+ {
+  "title": "AMD, AI 인프라 겨냥 에픽 임베디드 9006 SP7 CPU 출시",
+  "url": "https://zdnet.co.kr/view/?no=20261111021324",
+  "summary": "[지디넷코리아]AMD가 10일(현지시간) 임베디드 환경을 겨냥한 x86 프로세서인 에픽 임베디드 9006 SP7 CPU를 출시했다. 작년 3월 젠5 아키텍처 기반 에픽 임베디드 9005 프로세서를 출시한 지 1년 8개월만이다.에픽 임베디드 9006 SP7은 소켓 당 최대 코어 수를 전 세대(192개) 대비 33% 늘린 256개로 늘리고 PCI 익스프레스 6",
+  "source": "ZDNet Korea",
+  "date": "2026-11-11T07:00:01+09:00",
+  "category": "기타",
+  "buzz": 1
+ },
+ {
+  "title": "앤트로픽, 기업가치 1.4조달러로 IPO 추진…644억달러 조달",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=217248",
+  "summary": "앤트로픽이 최대 1조4000억달러(약 1882조원)의 기업가치를 목표로 기업공개(IPO)에 나선다. 당초 시장에서 거론됐던 2조달러보다 낮은 수준으로, 최근 기술주 하락과 AI 투자 수익성에 대한 의문이 커진 가운데 월가의 AI 투자 열기를 가늠하는 시험대가 될 전망이다.로이터는 10일(현지시간) 앤트로픽이 주당 70~78달러의 희망 공모가를 제시하고 투자",
+  "source": "AI타임스",
+  "date": "2026-11-11T06:59:21+09:00",
+  "category": "기타",
+  "buzz": 2
+ },
+ {
+  "title": "퀀티넘, 캔터 컨버전스 제4회 암호화폐•핀테크•AI•에너지 인프라 콘퍼런스 참가",
+  "url": "https://zdnet.co.kr/view/?no=20261111061014",
+  "summary": "[지디넷코리아] 브룸필드, 콜로라도, 2026년 11월 11일 /PRNewswire/ -- 양자컴퓨팅 선도 기업 퀀티넘(Quantinuum Inc., 나스닥: QNT, 이하 '회사')의 경영진이 2026년 11월 10일부터 12일까지 플로리다주 마이애미에서 열리는 캔터 컨버전스 제4회 연례 암호화폐•핀테크•AI•에너지 인프라 콘퍼런스(Cantor Conve",
+  "source": "ZDNet Korea",
+  "date": "2026-11-11T06:10:14+09:00",
+  "category": "기타",
+  "buzz": 1
+ },
+ {
+  "title": "퀀티넘-REIKEN, 일본 내 양자-AI 하이브리드 슈퍼컴퓨팅 상용화 앞당겨 줄 파트너십 확대",
+  "url": "https://zdnet.co.kr/view/?no=20261111061003",
+  "summary": "[지디넷코리아] 퀀티넘 Reimei 양자 컴퓨터가 H2 시스템으로 업그레이드되면서 REIKEN의 하이브리드 양자 슈퍼컴퓨팅 플랫폼이 세계 최고 수준으로 자리매김하고 전자, 에너지, 생명과학 분야 전반으로 연구를 확장할 수 있는 기반이 마련됐다. 퀀티넘과 REIKEN은 이 선도적 컴퓨팅 아키텍처를 바탕으로 내결함성 '메이드 위드 재팬(Made with Jap",
+  "source": "ZDNet Korea",
+  "date": "2026-11-11T06:10:03+09:00",
+  "category": "기타",
+  "buzz": 1
+ },
+ {
+  "title": "막대한 GPU 매출에 혹했나···젠슨 황 불륜으로 재조명된 AI 칩 ‘뒷문’ 시장",
+  "url": "https://www.khan.co.kr/article/202611110600121/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+  "summary": "젠슨 황 엔비디아 최고경영자(CEO)가 지난 5월26일 대만 타이베이에서 열린 행사에서 발언하고 있다. AFP연합뉴스젠슨 황 엔비디아 최고경영자(CEO)의 불륜 파문으로 중국이 동남아시아를 거쳐 미국의 반도체 수출통제를 피해 온 ‘AI 칩 우회로’ 관행이 수면 위로 떠올랐다. 상대 여성이 그래픽처리장치(GPU) 밀반출 의혹을 받는 싱가포르 업체 임원 출신으",
+  "source": "경향신문 경제",
+  "date": "2026-11-11T06:00:00+09:00",
+  "category": "기타",
+  "buzz": 1
+ },
+ {
+  "title": "Claude Whiteboards, Claude Sheets, Claude Data - 팀 협업 보드, 스프레드시트, 데이터 분석 도구",
+  "url": "https://news.hada.io/topic?id=36958&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "summary": "Anthropic이 Claude Whiteboards와 Sheets를 베타 출시하고, 기존 Claude Dashboards를 Claude Data로 정식 출시함. 모두 유료 플랜에서 이용할 수 있음Whiteboards는 Claude와 팀원이 실시간으로 아이디어를 정리하는 공유 보드로, 계획을 담당자와 날짜가 있는 타임라인으로 만들거나 회의 메모에서 실행 항",
+  "source": "GeekNews",
+  "date": "2026-11-11T05:38:41+09:00",
+  "category": "업무 활용",
+  "buzz": 1
+ },
+ {
+  "title": "AI 사용은 취약한 코드베이스를 만든다",
+  "url": "https://news.hada.io/topic?id=36955&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "summary": "AI는 당장 주어진 코딩 문제를 잘 풀어도, 그 변경이 코드베이스 전체의 유지보수에 어떤 영향을 줄지 놓치기 쉬움AI가 만든 테스트는 이미 다루는 동작을 반복해서 확인하고 실제 사용에서 중요한 경우를 놓칠 수 있음. 중복을 줄이려다 추상화를 늘려 코드를 이해하고 디버깅하기 어렵게 만들기도 함AI 의존도가 높아질수록 개발자의 코드베이스 이해도가 낮아지고, 빠",
+  "source": "GeekNews",
+  "date": "2026-11-11T04:33:28+09:00",
+  "category": "업무 활용",
+  "buzz": 1
+ },
+ {
+  "title": "“치과차트 AI 해석 능력, 전공의에 못미쳐”",
+  "url": "https://www.donga.com/news/People/article/all/20261111/135002734/2",
+  "summary": "생성형 인공지능(AI)이 치과 진료기록(차트)을 읽는 능력은 치과대학 학생 수준까지 올라왔지만, 여러 기록을 엮어 해석하는 능력은 아직 전공의에 못 미친다는 연구 결과가 나왔다.10일 서울대는 서덕규 치의학대학원 교수팀이 이 같은 내용의 논문을 국제학술지 ‘JMIR 메디컬 에듀케이션’에 게재했다고 밝혔다. 연구에는 같은 대학원 치과보존과전공 박사과정 조아영",
+  "source": "동아일보 과학",
+  "date": "2026-11-11T04:30:00+09:00",
+  "category": "생활·교육",
+  "buzz": 1
+ },
+ {
+  "title": "[단독]“회사업무 AI, 해킹통로 될라”… 서버 8000여개 외부 인터넷 노출",
+  "url": "https://www.donga.com/news/Economy/article/all/20261111/135002967/2",
+  "summary": "인공지능(AI)이 이메일을 확인하고 고객 정보를 조회하는 등 회사 업무를 대신하면서 새로운 보안 사각지대가 생기고 있다. AI와 업무 시스템을 연결하는 프로그램 하나만 해킹당해도 내부 문서와 고객 정보까지 유출될 수 있는 것이다. 국내에서 외부 인터넷에 노출된 AI 관련 내부 시스템이 8000여 개에 이르는 것으로 확인되며 AI발 보안 우려가 더욱 커지고 ",
+  "source": "동아일보 과학",
+  "date": "2026-11-11T04:30:00+09:00",
+  "category": "업무 활용",
+  "buzz": 1
+ },
+ {
+  "title": "[헬스캡슐]을지대의료원 창립 70주년 기념 ‘국제간호학술대회’ 개최 外",
+  "url": "https://www.donga.com/news/It/article/all/20261110/134994968/2",
+  "summary": "을지대의료원 창립 70주년 기념 ‘국제간호학술대회’ 개최을지대(총장 홍성희)가 오는 12∼13일 더그랜드롯데 서울에서 ‘2026 을지국제간호학술대회’를 개최한다. 을지대 간호대학이 주관하는 이번 대회는 을지대의료원 창립 70주년을 기념해 마련됐다. 미국과 일본, 대만, 한국의 간호·보건의료 전문가들이 참여해 전문간호 실무의 발전 방향과 국제 협력 방안을 논",
+  "source": "동아일보 과학",
+  "date": "2026-11-11T04:30:00+09:00",
+  "category": "생활·교육",
+  "buzz": 1
+ },
+ {
+  "title": "QR로 수산물 생산-유통 이력 한눈에… ‘안심 식탁’의 첫걸음",
+  "url": "https://www.donga.com/news/It/article/all/20261110/134994913/2",
+  "summary": "건강한 식탁을 위해 수산물을 고를 때 신선도만큼 궁금한 것이 있다. 이 수산물은 어디서 와서 어떤 과정을 거쳐 내 식탁에 오르는 걸까. 지난달 30일부터 이달 1일까지 서울 중구 서울광장에서 열린 국내 최대 수산양식 박람회 ‘2026 SEA FARM SHOW’의 수산물이력제 체험 부스에서는 시민들이 스마트폰으로 그 답을 직접 확인했다. 해양수산부와 채널A,",
+  "source": "동아일보 과학",
+  "date": "2026-11-11T04:30:00+09:00",
+  "category": "생활·교육",
+  "buzz": 1
+ },
+ {
+  "title": "앤트로픽, 몸값 1.4조달러 목표로 IPO 추진…공모가 70∼78달러",
+  "url": "https://www.bloter.net/news/articleView.html?idxno=678277",
+  "summary": "미국 인공지능(AI) 기업 앤트로픽이 기업공개(IPO)를 통해 약 1조4000억달러(약 1880조원)의 기업가치를 인정받는 것을 목표로 설정했다.10일(이하 현지시간) 블룸버그통신에 따르면 클로드 개발사인 앤트로픽과 공동 창업자들은 IPO와 사모투자를 통해 최대 904억달러(약 120조원)를 조달한다는 계획이다. 앤트로픽은 미국 증권거래위원회(SEC)에 제",
+  "source": "블로터",
+  "date": "2026-11-11T03:23:55+00:00",
+  "category": "기타",
+  "buzz": 3
+ },
+ {
   "title": "美안보 악몽된 젠슨황 스캔들…AI칩 대중수출 허용 의혹 소환",
   "url": "https://www.yna.co.kr/view/AKR20261111001600071",
   "summary": "(워싱턴=연합뉴스) 이유미 특파원 = 엔비디아의 젠슨 황 최고경영자(CEO)가 중국 스파이로 의심받는 여성과의 불륜을 인정하면서 개인적 스캔들이...",
@@ -108,12 +729,147 @@
   "buzz": 1
  },
  {
+  "title": "코어위브, 3분기 매출 168% 급증…AI 인프라 성장 둔화 우려 완화",
+  "url": "https://www.chosun.com/economy/tech_it/2026/11/11/GFRDOMBYHE2TQMDBGQZDKMZZGM/",
+  "summary": "미국 인공지능(AI) 클라우드 인프라 기업 코어위브가 올해 3분기 시장 예상치를 웃도는 실적을 기록했다. AI 인프라 투자 확대에 따른 수익성 악화와 성장 둔화 우려에도 AI 컴퓨팅 수요가 견조한 흐름을 이어가고 있다는 평가가 나온다. 코어위브는 올해 3분기 매출이 36억6000만달러(약 4조9000억원)로 전년 동기 대비 168% 증가했다고 10일(현지시",
+  "source": "조선일보",
+  "date": "2026-11-11T01:31:10+00:00",
+  "category": "기타",
+  "buzz": 1
+ },
+ {
+  "title": "현대제철 AI로 생산성 높인다..AX 성과공유회 개최 - 머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9vU08zTTVvUmRqV1JBQVd5MUF6aDNCSFBONUs4Z1R1MVBwMEJVQ21telZkcllCaVl4V1E1MDQwbVFPMmRqM1RtMVhhdjR0WlV0TlBRdmx2R21xTzJydHQ2a1ZWdnNhcFV4dHZnZGlZWFluR3NWOGl6bkxn0gF_QVVfeXFMT1Zxajk5Z09HVENPSWNSTmZfRzNERGJ3bVUyNlJtWk5uSjdpNHRmZXNvV3lCU3FSQ0hMYUdMVV9ia2pQcS1oRDZHZ1pxSUhNWDdLcko2bjJHWVlZbjhKWGRvYm1ZWjQ1c1lwaDlET1lsOEJrUm9MRUJ3S0VhMXlwaw?oc=5",
+  "summary": "",
+  "source": "머니투데이",
+  "date": "2026-11-11T01:28:03+00:00",
+  "category_hint": "활용 사례",
+  "category": "활용 사례",
+  "buzz": 3
+ },
+ {
+  "title": "제이비컴, 폐업 소상공인 재취업 지원 ‘희망리턴패키지’ 모집",
+  "url": "https://www.kmib.co.kr/article/20261111500221",
+  "summary": "<center> <img src=\"https://3f3bm4nnaefgwrtq8izg16625.edge.naverncp.com/data2/content/image/2026/11/11/20261111500219.png\"> </center> <figure class=\"image\"><img storyid=\"0a0a3e06-a1be-1117-81a1-c82e0b8",
+  "source": "국민일보",
+  "date": "2026-11-11T01:19:10+00:00",
+  "category": "영상·이미지",
+  "buzz": 2
+ },
+ {
+  "title": "‘포토샵 제국’ 어도비, AI 공세에 맞불…외부 AI에 문 열고 동맹 확대",
+  "url": "https://www.chosun.com/economy/tech_it/2026/11/11/MM3GMOJWGI2GGY3CMRRDMYZSGY/",
+  "summary": "포토샵으로 유명한 미국 소프트웨어 기업 어도비가 주요 제품군 전반에 인공지능(AI) 에이전트를 전면 도입한다고 밝혔다. 앞으로 이용자가 대화하듯 원하는 결과물을 자연어로 설명하면 AI 에이전트가 어도비의 주요 디자인·편집 도구를 활용해 이미지를 수정하거나 영상을 편집하는 작업을 대신 수행하게 된다. 챗GPT·클로드·제미나이 등 외부 AI 에이전트가 어도비",
+  "source": "조선일보",
+  "date": "2026-11-11T01:17:02+00:00",
+  "category": "영상·이미지",
+  "buzz": 1
+ },
+ {
+  "title": "서부발전, 'KOWEPO AX 페스티벌' 개최…AI 혁신 성과 공유",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fR2ctZTc0bzI5aFMwbTJXNXV1MUpOYUdHSE91NzJHVFpaTjJta0ROeE8yZEcwV19vVThqR3hQS2RDMXVnVmRZeUMwWWkzRElPRXV1WlhoWQ?oc=5",
+  "summary": "",
+  "source": "데일리안",
+  "date": "2026-11-11T01:13:00+00:00",
+  "category_hint": "활용 사례",
+  "category": "활용 사례",
+  "buzz": 4
+ },
+ {
+  "title": "강진군, 전국 최초 공무원 AI실력 근평 반영 ‘속도전’",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0N2V3N0ZNYkF0VGN1Mi1wdElOVzlJbTFvenRtYi1SYjcwS1Z2M0x5M3ZHWms4NzV0dXd4Z1ZaX3BIektUQ3EwMV9pTzI1VThzVU8xekxid2N1eDJFS0puNHJ3bTJNUQ?oc=5",
+  "summary": "",
+  "source": "한국미디어뉴스",
+  "date": "2026-11-11T01:10:01+00:00",
+  "category_hint": "활용 사례",
+  "category": "활용 사례",
+  "buzz": 2
+ },
+ {
   "title": "Show GN: [프로젝트] 중학생이 하루 만에 빌드한 AI 연동형 픽셀아트 스튜디오 (Electron, Mac, Windows)",
   "url": "https://news.hada.io/topic?id=36948&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
   "summary": "안녕하세요. 평소에 코딩과 소프트웨어 개발에 관심이 많은 중학교 2학년입니다.최근 LLM과 AI 기술이 가파르게 성장하는 모습을 보며, '이제는 사람이 쓰는 프로그램뿐만 아니라 AI가 직접 활용하는 프로그램을 만드는 시대가 오지 않을까?'라는 생각이 들었습니다. 그 첫 발걸음으로 \"AI가 자율적으로 픽셀 아트를 생성하고, 이를 프로젝트에 직접 주입할 수 있",
   "source": "GeekNews",
   "date": "2026-11-11T01:08:28+09:00",
   "category": "생활·교육",
+  "buzz": 1
+ },
+ {
+  "title": "현대제철, AI 혁신으로 철강 경쟁력 강화…제조·업무 전반 AX 전환 가속",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZUjBQQ1hWaVNIcEU3clhydDJMTVNzRVFFMVRKQ0FjYmUyVUxtNEJrTnJ2eGVVaHpLV0wyNFEwVVRXN3FpR0xkaFpiS0J2UjA5aGkyN1BPMUFNQmVEazdRbnh1Y3BIT2pBbkZlVA?oc=5",
+  "summary": "",
+  "source": "재외동포신문",
+  "date": "2026-11-11T01:08:12+00:00",
+  "category_hint": "활용 사례",
+  "category": "활용 사례",
+  "buzz": 2
+ },
+ {
+  "title": "강진군, AI 활용 역량 근무평정 반영 추진…행정 혁신 속도",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3MlBCUnRuckxpYlhEaDlxdnlaZy1WTHRuZGVNeFRwN0pyM2FVcXNMSWtaSHZiandkTFdrQkk5TU1KdXdicnpDcUhOWHNzZjY0a2ttbkNtZW1TbWkybVpUVGROcGh1SUtMZHc1RThOZl8?oc=5",
+  "summary": "",
+  "source": "신아일보",
+  "date": "2026-11-11T00:58:50+00:00",
+  "category_hint": "업무 활용",
+  "category": "업무 활용",
+  "buzz": 1
+ },
+ {
+  "title": "롯데이노베이트, 탈레스와 AI 보안사업 공략",
+  "url": "https://www.chosun.com/economy/tech_it/2026/11/11/HBTDSMDEGJSTSZRTMJRTMZTDGU/",
+  "summary": "롯데이노베이트가 탈레스와 함께 인공지능(AI) 보안사업 확대에 나선다. 롯데이노베이트는 지난달 28일 서울 본사에서 탈레스와 업무협약(MOU)을 체결했다고 11일 밝혔다. 이번 협약은 탈레스가 보유한 임퍼바(Imperva)의 웹 보안 기술을 롯데이노베이트의 보안관제 플랫폼과 연계하는 것을 목표로 한다. 탈레스는 항공우주·방위산업과 사이버·디지털 분야를 아우",
+  "source": "조선일보",
+  "date": "2026-11-11T00:58:25+00:00",
+  "category": "기타",
+  "buzz": 1
+ },
+ {
+  "title": "현대제철, AI 전환 성과 198건 발굴하며 제조 혁신 속도전",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxa1RGMGNraEpoMUltd0ZyMjdHc0hBTGFYdEdhQVhiTUJJZ2lmVzBCa25BbktUTEJjcTduRVl6MDFpTkR1NlBQa0Z4bmNfUzBaQzY5UG1HbW95X25VOXg2TjMwcERtUkxpVmQzOUJCV0VBZw?oc=5",
+  "summary": "",
+  "source": "디스커버리뉴스(DISCOVERYNEWS)",
+  "date": "2026-11-11T00:49:38+00:00",
+  "category_hint": "활용 사례",
+  "category": "활용 사례",
+  "buzz": 2
+ },
+ {
+  "title": "Gemini Omni Flash 1.2: 편집 부문 2위, 오차 막대를 확인하세요",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBVWTNqVGtKSU14SGd6NFRNRnRVam12S2Rrc0x3MmVfcnJKX0kxWlo2VXBsVWZJZFhXZ0lzRGpMSlVMUTJIckYtQUMwMFNsQjVEM3FqWHI1ZFFlcjJSdFhwZ1Aza3ExNmpQUFk0eXozWmlqUG1jV0xmaTJILWJzdw?oc=5",
+  "summary": "",
+  "source": "OrcaRouter",
+  "date": "2026-11-11T00:48:21+00:00",
+  "category_hint": "영상·이미지",
+  "category": "영상·이미지",
+  "buzz": 2
+ },
+ {
+  "title": "한국수출입은행, AI 활용으로 금융업무 자동화 추진…바이브 코딩 해커톤 개최",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yQzUwNnNDT1ByazFiaHM0T3pYWU9OeEpvRjlmZnBObXZhT2lxeEVlS0hOdy1xRFNoQWRZWFhZMVFMWGloT3RZS2psWmFXWUZGTlZuRnhiemdMeks2LVVfSm1ZNVZqcGk1RzAyNGIxaw?oc=5",
+  "summary": "",
+  "source": "이코노미사이언스",
+  "date": "2026-11-11T00:48:06+00:00",
+  "category_hint": "업무 활용",
+  "category": "업무 활용",
+  "buzz": 1
+ },
+ {
+  "title": "구글, ‘제미나이 4 카본’ 일반에 공개…로봇 AI 신모델도 선보여",
+  "url": "https://www.chosun.com/economy/tech_it/2026/11/11/GIZDIYJSMRQWMNRWMZRDAZRXG4/",
+  "summary": "구글이 최신 인공지능(AI) 모델 ‘제미나이 4 카본’의 제공 범위를 전 세계로 확대하고, 로봇의 작업 수행 능력을 강화한 ‘제미나이 로보틱스 2.5’를 공개했다. 구글은 지난달 28일 일부 사이버보안 담당자와 협력사에 공개한 제미나이 4 카본을 전 세계 개발자와 기업, 연구자, 일반 이용자에게 확대 제공한다고 11일 밝혔다. 제미나이 4 카본은 코딩과 사",
+  "source": "조선일보",
+  "date": "2026-11-11T00:44:20+00:00",
+  "category": "업무 활용",
+  "buzz": 1
+ },
+ {
+  "title": "이보룡 현대제철 사장 \"AI 활용 성공 경험 공유해야\"…전사 AX 확산 추진",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jZ0JMLTk3Qm1JYVNyS2gwc1ByUjZjOWZEQjBmMFF3ZDJIZjJPbnB3aktmaXNOYThNRG5naXJfd293MDhRTWY2cDlCUFZYSm1KdW1qZTdzSXdLaHQ3ZFowcGFaYTZldy1ITV94bQ?oc=5",
+  "summary": "",
+  "source": "페로타임즈",
+  "date": "2026-11-11T00:32:34+00:00",
+  "category_hint": "활용 사례",
+  "category": "활용 사례",
   "buzz": 1
  },
  {
@@ -156,7 +912,7 @@
   "title": "“AI 시대, 한국 전기품질 세계 최고 수준”",
   "url": "https://www.donga.com/news/Economy/article/all/20261110/135000169/2",
   "summary": "인공지능(AI) 시대를 맞아 전기 품질의 중요성이 주목받고 있는 가운데, 한국이 주요 선진국 가운데 가장 양질의 전기를 공급하는 것으로 나타났다. 10일 한국전력에 따르면 한국의 호당 정전 시간이 미국 일본 독일 등 주요 선진국 중 가장 짧았다. 호당 정전 시간은 전기를 공급받는 시설이나 가정에 1년에 얼마 동안 전기가 끊겼는지를 나타내는 수치로, 한 국가",
-  "source": "동아일보",
+  "source": "동아일보 과학",
   "date": "2026-11-11T00:30:00+09:00",
   "category": "기타",
   "buzz": 2
@@ -171,6 +927,54 @@
   "buzz": 1
  },
  {
+  "title": "삼일PwC “중견기업 AX, 기술 도입 넘어 데이터·업무 구조 재설계해야”",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95OWEwNFd3Y180LTY1aTNxdFh2QVlSY285ZXJpNkw2SnhZMTBOOWNnSGxiYnhpY3RXTjUwc0l3eXR1ZVRJbVp3aE94Z2ZRRGZJcnhOUnNydXRuWG1XM1FSOE1waVgybzI4?oc=5",
+  "summary": "",
+  "source": "CPA뉴스",
+  "date": "2026-11-11T00:22:52+00:00",
+  "category_hint": "업무 활용",
+  "category": "업무 활용",
+  "buzz": 2
+ },
+ {
+  "title": "[특징주] NHN, 실적 호조·AI 데이터센터 확장 기대에 12%대 강세",
+  "url": "https://www.chosun.com/economy/stock-finance/2026/11/11/GVRWMZJUMVRTAZLBGFSTKZLFMU/",
+  "summary": "NHN이 11일 장 초반 12% 이상 오르고 있다. 클라우드 부문의 실적 호조와 인공지능(AI) 데이터센터 확대에 대한 기대감이 반영되면서 투자자들의 매수세가 몰리는 것으로 보인다. 이날 오전 9시 15분 기준 NHN은 전 거래일보다 12.66%(9800원) 상승한 8만7200원에 거래되고 있다. NHN은 올해 3분기 연결 기준 매출액 7583억원, 영업이",
+  "source": "조선일보",
+  "date": "2026-11-11T00:22:21+00:00",
+  "category": "기타",
+  "buzz": 1
+ },
+ {
+  "title": "\"말 없는 라이언의 진짜 속마음\"···10살 라이언, AI 단편 애니로 돌아온다",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5odGp2NlFmZFFzOVpEZ1d6SGU1UjI5NWNpamRzbURCRjctc2Fkdlh6SDJYQXBZMTFrVFEweU90WG9SR1Q0eUY5TkdBWXFnN2F3ZmdxaGhqdlRjYWlFY0J1R0VmZFdtOU1Nd2g0Q0JaTjlWQkpj?oc=5",
+  "summary": "",
+  "source": "캠페인 인사이트",
+  "date": "2026-11-11T00:21:33+00:00",
+  "category_hint": "SNS·마케팅",
+  "category": "SNS·마케팅",
+  "buzz": 1
+ },
+ {
+  "title": "SK인텔릭스, 웰니스 로봇 ‘나무엑스’ 출시 1주년 이벤트 진행",
+  "url": "https://www.chosun.com/economy/smb-venture/2026/11/11/GJRDGMBSMQ2GEZLBGBRTMNLGGQ/",
+  "summary": "SK인텔릭스가 웰니스 로봇 ‘나무엑스(NAMUHX)’ 출시 1주년을 맞아 오는 30일까지 고객 감사 이벤트 ‘해피 엑스데이’를 진행한다고 11일 밝혔다. SK인텔릭스는 이벤트 기간 나무엑스를 신규 구독하는 고객 전원에게 네이버페이 20만 포인트와 무선 에어센서를 증정한다. 제품 상담 고객에게는 아메리카노 기프티콘을 제공한다. 공식 인스타그램에서는 생성형 A",
+  "source": "조선일보",
+  "date": "2026-11-11T00:17:24+00:00",
+  "category": "SNS·마케팅",
+  "buzz": 2
+ },
+ {
+  "title": "대전시 이정일 주무관, 지적행정 AI 직접 개발·실증…전국 세미나 우수상",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JakhuQUVpR1UwWGtpampxTl8zd05udVFSS2RfN3RSaFZyRHB2cHZUeWgyWmRjQVdyWFU1aXFPeG5keWpwdGR4NGlmbU1NWlVCWjN5Vw?oc=5",
+  "summary": "",
+  "source": "타임뉴스",
+  "date": "2026-11-11T00:16:28+00:00",
+  "category_hint": "업무 활용",
+  "category": "업무 활용",
+  "buzz": 1
+ },
+ {
   "title": "중간선거서 'AI 역풍' 맞았는데…오픈AI 의장 \"美 주도권 유지해야\"",
   "url": "https://www.newsis.com/view/NISX20261110_0003862253",
   "summary": "[서울=뉴시스]이지영 기자 = 미국 중간선거에서 인공지능(AI) 데이터센터에 대한 반발이 표심으로 확인됐지만 미국이 AI 주도권을 포기해서는 안 된다는 주장이 나왔다. 전력부터 반도체와 AI 모델까지 산업 전반에서 미국이 앞서야 한다는 진단이다. 10일(현지시간) 야후파이낸스에 따르면 브렛 테일러 오픈AI 이사회 의장 겸 시에라 공동창업자는 \"이번 중간선거",
@@ -180,12 +984,41 @@
   "buzz": 1
  },
  {
+  "title": "부산중기청, 중소기업 'AI 활용 SNS 마케팅' 실전교육",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41WDYtalk3ckJzLWRIR01Fb21FV2JETVRBTlFyYWViakJmS2pVMFNQZkl2RGRSS29uZjU0ZHp3Wl83TE9zbVFnT09FUFVTXzlSUVdpa0xpZGFUTkpGX3o4c9IBeEFVX3lxTE1SZUprMlE4NlpkR0RvM2FjcFhiVTNaN3hZSTNxckJHUVd5RkNrWnR4Y2lBaTRGVWE2Tm9QM3NZd1A2cEMzRTVUZUtCTDB6WTJxSmE1cDE4Q3hhMEtsbEw0cXBreEJVX2JacmU1STM1ZEdMVDhEdllaOA?oc=5",
+  "summary": "",
+  "source": "뉴시스",
+  "date": "2026-11-11T00:08:55+00:00",
+  "category_hint": "활용 사례",
+  "category": "활용 사례",
+  "buzz": 1
+ },
+ {
+  "title": "싱클리, 숏폼 영상 23만건 AI 분석 ··· 10월 소셜 트렌드 공개",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HaFdzNGtOYkZBTEo5TjhlYUxfRmJvZjdDRExuLU90bTRGUjNBZTR2Mjl1aElhVlNsa3JoNHVNa3FPRmRMcmhMZ3hSNGEtY1ZGd3VuV1QzdDl2V3UzVERhWHBITTYyVEhPdENNMA?oc=5",
+  "summary": "",
+  "source": "데이터넷",
+  "date": "2026-11-11T00:04:50+00:00",
+  "category_hint": "SNS·마케팅",
+  "category": "SNS·마케팅",
+  "buzz": 1
+ },
+ {
   "title": "AI 황제마저 흔든 '미인계'…北 '씨받이 공작' 데자뷔",
   "url": "https://www.newsis.com/view/NISX20261110_0003862119",
   "summary": "[서울=뉴시스] 김종민 기자 = 세계 인공지능(AI) 반도체 시장을 호령하는 엔비디아의 젠슨 황 최고경영자(CEO)가 중국 국가안전부(MSS) 소속 스파이 의혹을 받는 여성 기업인 앨리스 황(중국명 황러)과의 부적절한 관계를 시인하면서 글로벌 정보전(情報戰)의 지형이 요동치고 있다. 냉전기 스파이 소설에나 등장할 법한 '허니트랩(Honey trap·미인계)",
   "source": "뉴시스",
   "date": "2026-11-11T00:00:00+09:00",
   "category": "기타",
+  "buzz": 1
+ },
+ {
+  "title": "“트럼프, 5월 중국 가는 전용기에서 젠슨 황 中 스파이 접촉 보고 받아”⋯황 CEO, 논란에도 업무복귀",
+  "url": "https://www.kmib.co.kr/article/20261111500095",
+  "summary": "<center> <img src=\"https://3f3bm4nnaefgwrtq8izg16625.edge.naverncp.com/data2/content/image/2026/11/11/20261111500102.jpg\"> </center> <figure class=\"image\"><img src=\"/content/image/2026/11/11/202611115",
+  "source": "국민일보",
+  "date": "2026-11-10T23:49:43+00:00",
+  "category": "영상·이미지",
   "buzz": 1
  },
  {
@@ -204,6 +1037,16 @@
   "source": "GeekNews",
   "date": "2026-11-10T23:36:47+09:00",
   "category": "기타",
+  "buzz": 1
+ },
+ {
+  "title": "\"말로 지시하면 영상·디자인 뚝딱\"…어도비 AI 진화",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPckg4MDZwN2JuNWRpT1BvdGNBd05ncXBYbDJ0NDNpbmtkVGZfcHJ1VjYwYW15U000eWhnZkFKYzhaRXkxVVhZWFZmamtUb21sMzEzazhUYzNXa1lteUhWNzNPU0lCUnRNVVVGdlZSSm5mdVVMRHNOSWRTcTA1ZFFCMQ?oc=5",
+  "summary": "",
+  "source": "이데일리",
+  "date": "2026-11-10T23:26:45+00:00",
+  "category_hint": "영상·이미지",
+  "category": "영상·이미지",
   "buzz": 1
  },
  {
@@ -255,19 +1098,19 @@
   "title": "“효율 찾아 삼자동맹“ 이기종 컴퓨팅 기반 소버린 AI 역량 강화 위해 손잡은 엔비디아·SK텔레콤·리벨리온",
   "url": "https://www.donga.com/news/It/article/all/20261110/135002934/1",
   "summary": "엔비디아·SK텔레콤·리벨리온이 소버린 AI 고도화 관련 MOU를 체결했다. (왼쪽부터) 박성현 리벨리온 대표, 정석근 SK텔레콤 최고기술책임자(AI CIC장), 이도규 과학기술정보통신부 정보통신정책실장, 아쉬시 카란디카르 엔비디아 NV링크 퓨전 부문 부사장 / 출처=IT동아2026년 11월 9일, 엔비디아·SK텔레콤·리벨리온이 엔비디아 AI 데이 서울 20",
-  "source": "동아일보",
+  "source": "동아일보 과학",
   "date": "2026-11-10T22:48:03+09:00",
   "category": "기타",
   "buzz": 2
  },
  {
-  "title": "앤트로픽 공모가 70∼78달러…최대 904억 달러 조달",
-  "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008839885&plink=RSSLINK&cooper=RSSREADER",
-  "summary": "▲ 앤트로픽10일 로이터 통신에 따르면 앤트로픽은 이날 공시 자료를 통해 주당 70∼78달러 공모가 밴드에서 8억 2천500만…",
-  "source": "SBS 뉴스",
-  "date": "2026-11-10T22:32:41+09:00",
-  "category": "기타",
-  "buzz": 3
+  "title": "GIST, 12월 2일 ‘제2회 AI&CT 융합 포럼’ 개최… 산업계 전문가 대거 참여",
+  "url": "https://www.kmib.co.kr/article/20261111500070",
+  "summary": "<center> <img src=\"https://3f3bm4nnaefgwrtq8izg16625.edge.naverncp.com/data2/content/image/2026/11/11/20261111500068.jpg\"> </center> <figure class=\"image\"><img src=\"/content/image/2026/11/11/202611115",
+  "source": "국민일보",
+  "date": "2026-11-10T22:33:52+00:00",
+  "category": "영상·이미지",
+  "buzz": 1
  },
  {
   "title": "Show GN: skilladopt, Claude Code와 Codex 스킬을 내 프로젝트에 맞추는 도구",
@@ -311,15 +1154,6 @@
   "summary": "엔비디아가 기어 맞추기와 케이블 연결 등 정교한 손작업을 로봇이 스스로 익히도록 돕는 차세대 인공지능(AI) 모델을 공개했다. 작업 시연을 한 차례만 제공해도 평균 71%의 성공률을 기록했으며, 시연 횟수를 다섯 차례로 늘리면 성공률이 95%까지 높아졌다. 엔비디아는 9일(현지시간) 미국 텍사스주 오스틴에서 열리는 로봇학습학회(CoRL)에서 2세대",
   "source": "세계일보",
   "date": "2026-11-10T22:00:00+09:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "앤트로픽, IPO 기업가치 최대 1366조원 목표…121조원 조달 추진",
-  "url": "https://view.asiae.co.kr/article/2026111021480059952",
-  "summary": "인공지능(AI) 모델 '클로드'를 개발한 앤트로픽이 기업공개(IPO)에서 최대 1조200억달러(약 1366조원)의 기업가치를 목표로 잡았다. 공모와 사모 투자를 합친 자금 조달 규모는 최대 904억달러(약 121조1000억원)다. 10일(현지시간) 로이터통신에 따르면 앤트로픽은 이날 공시를 통해 주당 70~78달러에 8억2500만주를 공모할 계획이라고 밝혔",
-  "source": "아시아경제",
-  "date": "2026-11-10T21:48:01+09:00",
   "category": "기타",
   "buzz": 1
  },
@@ -375,6 +1209,15 @@
   "source": "ZDNet Korea",
   "date": "2026-11-10T21:00:35+09:00",
   "category": "영상·이미지",
+  "buzz": 1
+ },
+ {
+  "title": "AI가 바이러스 만드는 시대... 美, 생물테러 막으려 규제 강화",
+  "url": "https://www.chosun.com/economy/tech_it/2026/11/11/AIWVTY5EWNGPNGPL23SOW4VPSM/",
+  "summary": "",
+  "source": "조선일보",
+  "date": "2026-11-10T21:00:01+00:00",
+  "category": "기타",
   "buzz": 1
  },
  {
@@ -459,6 +1302,15 @@
   "buzz": 1
  },
  {
+  "title": "Gemini Intelligence: New features, on more devices",
+  "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+  "summary": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
+  "source": "Google AI",
+  "date": "2026-11-10T19:00:00+00:00",
+  "category": "공식 자료",
+  "buzz": 1
+ },
+ {
   "title": "내일은 피지컬 AI, 모레는 ‘소울 AI’?…로봇과 인간이 ‘공동 마술쇼’ 연 까닭",
   "url": "https://www.donga.com/news/It/article/all/20261110/135001582/2",
   "summary": "갤럭시코퍼레이션이 세계 과학의 날을 맞아 로봇파크에서 인간·로봇 합동 마술쇼를 열고 융합형 인재 ‘폴리매스’를 내세웠다.",
@@ -466,6 +1318,15 @@
   "date": "2026-11-10T18:28:25+09:00",
   "category": "기타",
   "buzz": 1
+ },
+ {
+  "title": "Video game Big Walk gets review bombed for using AI to fix a bug in Unity, accounting for 10 lines of code. 19 Independent Games Festival jurors decla",
+  "url": "https://www.reddit.com/r/artificial/comments/1xsul1u/video_game_big_walk_gets_review_bombed_for_using/",
+  "summary": "https://aftermath.site/big-walk-ai-igf-jurors-controversy/ according to their FAQ, they paid a Unity engineer to help them before resorting to AI, and he could not fix it: https://bigwalk.game/faq/#ai",
+  "source": "Reddit r/artificial",
+  "date": "2026-11-10T18:27:40+00:00",
+  "category": "영상·이미지",
+  "buzz": 3
  },
  {
   "title": "[스타트업-ing] “AI가 초벌 번역, 사람이 완성”…하이브마인드, ‘오로라 번역 서포터즈’ 출범",
@@ -483,7 +1344,7 @@
   "source": "아시아경제",
   "date": "2026-11-10T18:20:28+09:00",
   "category": "생활·교육",
-  "buzz": 2
+  "buzz": 3
  },
  {
   "title": "\"AI, 어시스턴트 아닌 직원으로\"…'네오펌'에 VC 관심 집중",
@@ -828,6 +1689,15 @@
   "buzz": 1
  },
  {
+  "title": "Researchers gave AI agents a 1-cent daily spending cap, and 9 of 10 models raised it themselves",
+  "url": "https://www.reddit.com/r/artificial/comments/1xsqysz/researchers_gave_ai_agents_a_1cent_daily_spending/",
+  "summary": "",
+  "source": "Reddit r/artificial",
+  "date": "2026-11-10T16:13:13+00:00",
+  "category": "기타",
+  "buzz": 1
+ },
+ {
   "title": "[기고] 문제를 만드는 나라, 과학기술정책의 미래",
   "url": "https://www.etnews.com/20261110000088",
   "summary": "오픈AI가 10월 6일 인공지능(AI)이 수행한 수학 연구 원고 722편을 공개했다. 수학자들이 오랫동안 풀지 못한 난제 370여개에 대한 풀이와 부분 풀이가 담겼다. AI가 수학의 최전선에서 거둔 성과로 받아들여질 만한 일이지만, 세계 수학계는 우려를 표했다. 일부 증명은 기계 검증으로 진행됐고, 학문 공동체의 검토는 끝나지 않았고, 비공개 모델로 만들어",
@@ -1001,6 +1871,15 @@
   "buzz": 2
  },
  {
+  "title": "The US is winning the AI race. Jensen Huang could have blown it",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+  "summary": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI ",
+  "source": "The Verge AI",
+  "date": "2026-11-10T14:04:05-05:00",
+  "category": "기타",
+  "buzz": 1
+ },
+ {
   "title": "구글, AI 에이전트·보안 특화 TPU 2종 공개…엔비디아 추격",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=217211",
   "summary": "구글이 AI 칩 시장에서 엔비디아에 맞서기 위해 자체 개발한 텐서처리장치(TPU) 제품군을 확대했다. 대규모 정보를 처리하는 AI 에이전트와 민감한 데이터를 다루는 기업용 보안 시스템에 특화한 신제품 2종을 추가하며, 약 100곳으로 늘어난 고객을 기반으로 AI 인프라 시장 공략을 강화하고 있다.구글은 9일(현지시간) 공식 블로그를 통해 8세대 TPU 제품",
@@ -1073,6 +1952,15 @@
   "buzz": 1
  },
  {
+  "title": "ChatGPT is getting verified AI ‘Business Agents’",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+  "summary": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and onli",
+  "source": "The Verge AI",
+  "date": "2026-11-10T13:00:00-05:00",
+  "category": "기타",
+  "buzz": 1
+ },
+ {
   "title": "Google Cloud launches Gemini for healthcare.",
   "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
   "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
@@ -1127,12 +2015,30 @@
   "buzz": 1
  },
  {
+  "title": "The indie game community is in disarray over AI and Big Walk",
+  "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
+  "summary": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the developer of indie hit Big W",
+  "source": "The Verge AI",
+  "date": "2026-11-10T12:32:47-05:00",
+  "category": "기타",
+  "buzz": 1
+ },
+ {
   "title": "“AI 특허·상표 업무, 데이터 신뢰성이 경쟁력”... 클래리베이트, Microsoft Copilot에 상표 인텔리전스 연결",
   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBLclNvSUF6MlZsVkI2c0o0Y1l3bEJBTEV1dTZGLTZDRjN4dUY4YkR1Z3EyaEJ4RWlKemdjMVpNdk85ajROYUUzcw?oc=5",
   "summary": "",
   "source": "특허뉴스",
   "date": "2026-11-10T12:32:00+00:00",
   "category_hint": "업무 활용",
+  "category": "업무 활용",
+  "buzz": 1
+ },
+ {
+  "title": "Anthropic has its own AI-powered office suite now",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+  "summary": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to co",
+  "source": "The Verge AI",
+  "date": "2026-11-10T12:30:00-05:00",
   "category": "업무 활용",
   "buzz": 1
  },
@@ -1378,6 +2284,16 @@
   "source": "벤처스퀘어",
   "date": "2026-11-10T11:49:56+00:00",
   "category": "생활·교육",
+  "buzz": 1
+ },
+ {
+  "title": "중구, AI 활용 행정업무 효율화 성과… 공무원 4명 역량 평가 ‘AI 챔피언’ 그린등급 취득",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55bW9fRUVtMHFhaUVaUUdFX2pkeFhSUXJEN1FGMGJBOEdwNTNvZkUxeU5oZGNadU5QQjg5aWhYQm0tMUJ5OWpPSjlZZl9ZS1dtdjlZQkVWdlN6TkhyNk9TTXFfZFRQZw?oc=5",
+  "summary": "",
+  "source": "울산제일일보",
+  "date": "2026-11-10T11:45:00+00:00",
+  "category_hint": "업무 활용",
+  "category": "업무 활용",
   "buzz": 1
  },
  {
@@ -1905,6 +2821,15 @@
   "buzz": 1
  },
  {
+  "title": "Introducing Businesses in ChatGPT",
+  "url": "https://openai.com/index/introducing-businesses-chatgpt",
+  "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+  "source": "OpenAI",
+  "date": "2026-11-10T10:00:00+00:00",
+  "category": "공식 자료",
+  "buzz": 1
+ },
+ {
   "title": "“너는 네 집에 유언하라”",
   "url": "https://www.kmib.co.kr/article/20261109501681",
   "summary": "<center> <img src=\"https://3f3bm4nnaefgwrtq8izg16625.edge.naverncp.com/data2/content/image/2026/11/09/20261109501792.jpg\"> </center> <figure class=\"image\"><img storyid=\"0a0a3e06-a1be-1117-81a1-bfdfab6",
@@ -2350,6 +3275,17 @@
   "buzz": 1
  },
  {
+  "title": "Zapier에서 자동화할 수 있는 AI 모델은? (오픈AI, 앤트로픽, 구글, 문샷 AI, Z.ai 등)",
+  "url": "https://zapier.com/blog/ai-models-on-zapier",
+  "summary": "최신 AI 모델을 따라가는 일은 개가 털 날리는 계절에 집을 청소하는 것만큼 정신없습니다.",
+  "source": "Zapier",
+  "date": "2026-11-10T05:00:00+00:00",
+  "category_hint": "업무 활용",
+  "category": "업무 활용",
+  "title_en": "Which AI models can you automate on Zapier? (OpenAI, Anthropic, Google, Moonshot AI, Z.ai, and more)",
+  "buzz": 1
+ },
+ {
   "title": "AI로 그린 강남의 일상과 미래, 우수작 10점 선정",
   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzejBMakI5N19XelhXZkp0NHMxOUFzbmNiUDZ3OWZEalI4RVlDMzJmQTlITU5HOHdUWVF6TE95QmVna3ZYNldtVGliSU1vaFdXSnZfdVJraldFUV9SMW1kSDBDVVR4NTA?oc=5",
   "summary": "",
@@ -2485,6 +3421,36 @@
   "source": "모비인사이드",
   "date": "2026-11-10T04:00:00+00:00",
   "category": "영상·이미지",
+  "buzz": 1
+ },
+ {
+  "title": "Muse Wonder, Muse Spark, and Muse Ember: A guide to Meta's AI models",
+  "url": "https://zapier.com/blog/meta-ai-muse-spark",
+  "summary": "Meta has shifted to a new family of flagship AI models called Muse and sent the Llama \"herd\" of models to the farm upstate. It's an understandable shift in AI strategy from the company that was once p",
+  "source": "Zapier",
+  "date": "2026-11-10T04:00:00+00:00",
+  "category_hint": "업무 활용",
+  "category": "업무 활용",
+  "buzz": 1
+ },
+ {
+  "title": "What is Claude Mythos? And how is if different from Claude Fable?",
+  "url": "https://zapier.com/blog/claude-mythos",
+  "summary": "On April 7, 2026, Claude Mythos Preview was officially announced, but it was apparently too dangerous to release. According to Anthropic, Claude Mythos represented a unique cybersecurity threat (they ",
+  "source": "Zapier",
+  "date": "2026-11-10T04:00:00+00:00",
+  "category_hint": "업무 활용",
+  "category": "업무 활용",
+  "buzz": 2
+ },
+ {
+  "title": "The best large language models (LLMs) in 2026",
+  "url": "https://zapier.com/blog/best-llm",
+  "summary": "Large language models (LLMs) are what most people think of when they think of AI. They're what you're interacting with in ChatGPT and Claude, they write the code generated by Claude Code and Codex, an",
+  "source": "Zapier",
+  "date": "2026-11-10T04:00:00+00:00",
+  "category_hint": "업무 활용",
+  "category": "업무 활용",
   "buzz": 1
  },
  {
@@ -2669,6 +3635,16 @@
   "summary": "",
   "source": "IT조선",
   "date": "2026-11-10T01:31:18+00:00",
+  "category_hint": "SNS·마케팅",
+  "category": "SNS·마케팅",
+  "buzz": 1
+ },
+ {
+  "title": "AI로 무장한 유튜브 vs 숏폼 쫓는 넷플릭스…미디어 전쟁 승기 잡은 구글",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fNzRWeXlQcHU5NVRIRGZUYThlZlRkQUZKNFBEQkV3amQ2aTQtUUNXVHJQVHZqTjVpc3ZOejkxcExCdDVNNVQ3Y0VnVjJ1cHNaYjlSc0VfeDZ2SG5FQWIzLWh2R2xWNkkxcjV1MW9vZ1hOdw?oc=5",
+  "summary": "",
+  "source": "KB Think",
+  "date": "2026-11-10T01:14:37+00:00",
   "category_hint": "SNS·마케팅",
   "category": "SNS·마케팅",
   "buzz": 1
@@ -3615,15 +4591,6 @@
   "buzz": 1
  },
  {
-  "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
-  "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
-  "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show impr",
-  "source": "The Verge AI",
-  "date": "2026-11-09T14:00:00-05:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
   "title": "오픈AI, 생명과학 AI 벤치마크 공개…GPT-6 아스트라 성능 23%P 향상",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=217167",
   "summary": "오픈AI가 실제 생명과학 실험실에서 AI 에이전트의 데이터 분석과 오류 탐지 능력을 측정하는 새로운 벤치마크를 공개했다. 최신 모델인 \\'GPT-6 아스트라\\'는 이전 모델보다 22.9%포인트 높은 점수를 기록했으며, 이번 연구는 오픈AI가 확대하고 있는 제약·바이오 기업용 AI 사업과도 연결된다.오픈AI는 6일(현지시간) 공식 블로그를 통해 생명과학 실험",
@@ -4505,6 +5472,16 @@
   "buzz": 1
  },
  {
+  "title": "카톡 두 번 쓸면 AI 비서가 일한다… 카카오 '카나나 스페이스' 12월 시범 운영",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6c1ZEdm9vZmVXMWs2eEVBV2l3bWVJY2hvQ2M1MUhsVTJsZWh3TGZoX19NWVl1ZExNTFJjV0NGR0MzY09DVVJsZnFDZTdTRDQ?oc=5",
+  "summary": "",
+  "source": "뉴스N연합",
+  "date": "2026-11-09T08:00:00+00:00",
+  "category_hint": "국내 동향",
+  "category": "국내 동향",
+  "buzz": 5
+ },
+ {
   "title": "KCA, 고령층 대상 피지컬AI 로봇 체험교육",
   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZSHB4cld3aXRrUXB5ckZzT1NZd2FfTHhqQlZ2cjFHbnloUmYzSkYwZVJIYTRQeHZPd3ptZXZkazlvR0Vzc1hUd3dJa1E5RFBpel9iOGxR?oc=5",
   "summary": "",
@@ -4827,7 +5804,7 @@
   "date": "2026-11-09T01:48:33+00:00",
   "category_hint": "국내 동향",
   "category": "국내 동향",
-  "buzz": 9
+  "buzz": 10
  },
  {
   "title": "KBSI, 연구·행정에 AI 도입 본격화…업무 혁신 속도",
@@ -6822,15 +7799,6 @@
   "buzz": 1
  },
  {
-  "title": "앤트로픽 IPO 예상 몸값 2조→1.1조달러…한 달 만에 45% 하락",
-  "url": "https://www.aitimes.com/news/articleView.html?idxno=217122",
-  "summary": "앤트로픽의 기업공개(IPO)를 앞두고 투자자들의 기업가치 평가가 계속 낮아지고 있다. 최근 AI 관련주 급락 이후 일부 투자자는 기업가치를 1조1000억달러(약 1500조원)까지 낮게 평가했지만, 앤트로픽은 다음 주 예정된 IPO 로드쇼를 진행할 계획이다.블룸버그는 6일(현지시간) 앤트로픽 IPO 참여를 검토하는 투자자들이 기업가치를 1조2000억~1조30",
-  "source": "AI타임스",
-  "date": "2026-11-07T09:28:29+09:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
   "title": "광주·전남 출생아 2년째 늘었지만…다문화 출생은 2015년 이후 최저",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=217108",
   "summary": "광주·전남의 전체 출생아 수가 2년 연속 증가했지만, 다문화 출생아는 지난해 799명으로 2015년 이후 가장 적었다. 최근 5년간 다문화 출생아 감소율은 전체 출생아 감소율의 약 3배에 달했으며, 특히 전남에서 두 지표의 차이가 컸다.6일 국가데이터처가 지난 5일 발표한 \\'2025년 다문화 인구동태 통계\\'와 앞서 공개한 출생 통계 확정치를 분석한 결과",
@@ -7229,15 +8197,6 @@
   "date": "2026-11-07T01:39:54+09:00",
   "category": "기타",
   "buzz": 1
- },
- {
-  "title": "Gemini Omni 1.2 Flash - 최대 15초 영상 생성과 대화형 편집, 가격 30% 인하",
-  "url": "https://news.hada.io/topic?id=36712&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-  "summary": "Gemini Omni 1.2 Flash가 Gemini API와 Gemini for business에서 정식 제공되며, 영상 생성과 편집 길이를 기존 최대 10초에서 15초로 늘림720p 영상 가격을 Omni 1.1 대비 30% 인하한 초당 0.07달러로 책정했으며, 선택한 결과를 1080p나 4K로 업스케일할 수 있음이미지, 짧은 동작 영상, 오디오를 조합",
-  "source": "GeekNews",
-  "date": "2026-11-07T01:36:54+09:00",
-  "category": "영상·이미지",
-  "buzz": 2
  },
  {
   "title": "美 민주당, 머스크·애플·메타 정조준…빅테크 전방위 조사 준비",
@@ -9301,16 +10260,6 @@
   "buzz": 1
  },
  {
-  "title": "[농협의 디지털 도약]농협중앙회, AI·디지털 혁신 성과 공유…AX 전환 가속화",
-  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaeWxfOWVYbm10eUhCeU03TURYTHJzSGFjRGhZaElkVzJDbElWUlVrdDdmMmpBSXloNUxSQjdyRVl6VWpuVFVaNlZQeXBDRlNBcUE0aWV3eW5IQ3BGMXFXUjdob2ZlLXlUZ2t2ZTZiZ3k?oc=5",
-  "summary": "",
-  "source": "전국뉴스",
-  "date": "2026-11-06T04:36:50+00:00",
-  "category_hint": "활용 사례",
-  "category": "활용 사례",
-  "buzz": 2
- },
- {
   "title": "엑스와이지·데이톤, 세미 휴머노이드 ‘듀스’ 활용 협력…로봇AI 교육·연구 연결",
   "url": "https://www.venturesquare.net/1126322/",
   "summary": "AI 로보틱스 기업 엑스와이지와 AI DC·피지컬 AI 전문기업 데이톤이 2026 로보월드에서 세미 휴머노이드 로봇 '듀스(DEUX)' 공급 및 기술협력을 위한 업무협약을 체결했다. 양사는 엑스와이지의 로봇 개발·운용 기술과 데이톤의 AI 영상·데이터 분석 역량을 결합... The post 엑스와이지·데이톤, 세미 휴머노이드 ‘듀스’ 활용 협력…로봇AI 교",
@@ -9661,16 +10610,6 @@
   "summary": "",
   "source": "뉴데일리",
   "date": "2026-11-06T00:43:00+00:00",
-  "category_hint": "업무 활용",
-  "category": "업무 활용",
-  "buzz": 1
- },
- {
-  "title": "SK인텔릭스, 시니어케어 4자 업무협약···AI 웰니스 로봇 '나무엑스' 활용 강화",
-  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aTmlTeS1jb2JXcWdGeTEwTlZOZ2tEWFhlb3pyNzRHYXBubUNXRFdBck8ybDltS0VhY19lTWdqVGF4OGR0dUlKMDV3UkNnQWt2U0l0V193bEpBR2NG?oc=5",
-  "summary": "",
-  "source": "뉴스핌",
-  "date": "2026-11-06T00:40:00+00:00",
   "category_hint": "업무 활용",
   "category": "업무 활용",
   "buzz": 1
@@ -11196,15 +12135,6 @@
   "buzz": 1
  },
  {
-  "title": "[AI픽] 카카오, 톡에서 송금까지 하는 AI…12월 시범 운영",
-  "url": "https://www.yna.co.kr/view/AKR20261105069800017",
-  "summary": "(서울=연합뉴스) 오지은 기자 = 카카오[035720]가 카카오톡에서 이용자의 지시에 따라 송금과 선물하기 등을 수행하는 '카나나 스페이스'를 ...",
-  "source": "연합뉴스",
-  "date": "2026-11-05T10:38:58+09:00",
-  "category": "기타",
-  "buzz": 4
- },
- {
   "title": "에코프로비엠, 3분기 영업익 76% 급감…EV 부진에 발목",
   "url": "https://www.bloter.net/news/articleView.html?idxno=677786",
   "summary": "에코프로비엠의 올해 3분기 영업이익이 전년 동기 대비 76% 급감했다. AI(인공지능) 데이터센터 투자 확대에 힘입어 에너지저장장치(ESS)용 양극재 매출이 큰 폭으로 증가했지만 북미와 유럽의 전기차 수요 부진을 만회하진 못했다. ESS 매출 173% 급증에도…EV 부진에 수익성 악화에코프로비엠은 3분기 연결 기준 매출 5579억원, 영업이익 120억원으로",
@@ -12131,16 +13061,6 @@
   "buzz": 1
  },
  {
-  "title": "The 8 best AI courses for beginners in 2026",
-  "url": "https://zapier.com/blog/best-ai-courses",
-  "summary": "Upskilling in AI is just about the most productive thing you could do with your free time right now. With every day that passes, AI technology is making strides, and the demand for AI-related skills i",
-  "source": "Zapier",
-  "date": "2026-11-05T04:00:00+00:00",
-  "category_hint": "업무 활용",
-  "category": "업무 활용",
-  "buzz": 1
- },
- {
   "title": "GitBook 침해 사고 발생",
   "url": "https://news.hada.io/topic?id=36604&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
   "summary": "GitBook이 공유한 사고 안내에 따르면, 11월 2일 19:00 CET 공격자가 일부 인프라 자격 증명에 무단 접근했으며, AI 에이전트를 이용한 정교한 표적 공격이었음GitBook은 공격을 탐지한 뒤 앱과 인증이 필요한 문서 사이트를 중단했으며, 공개 문서는 캐시 데이터를 이용해 가능한 한 오래 서비스함공격자가 Git Sync 시크릿, GitBook ",
@@ -12813,908 +13733,5 @@
   "date": "2026-11-04T21:22:46+09:00",
   "category": "업무 활용",
   "buzz": 3
- },
- {
-  "title": "부채한도 충돌 땐 금융시장 충격파…변수 커진 한국 경제",
-  "url": "https://www.khan.co.kr/article/202611042112035/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
-  "summary": "민주당 과반 의회 갈등 격화 우려셧다운 땐 금리·환율 급등 ‘위험’AI 규제에 반도체 수요 줄 수도장중 4% 출렁…어질어질 코스피 코스피가 내내 출렁이다 강보합으로 마감한 4일 서울 중구 우리은행 딜링룸 현황판에 코스피와 코스닥, 원·달러 환율 등이 표시돼 있다. 미국 반도체주 반등에 힘입어 강세로 출발했던 국내 주식시장은 장중 4% 넘게 급락했다가 낙폭을",
-  "source": "경향신문 경제",
-  "date": "2026-11-04T21:12:00+09:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "구글, LLM 재킹 주의보...\"하루 10만 달러 부정 사용 적발\"",
-  "url": "https://zdnet.co.kr/view/?no=20261104210925",
-  "summary": "[지디넷코리아]구글이 인수한 보안기업 맨디언트(Mandiant)와 구글 위협 인텔리전스 그룹(GTIG)이 ‘LLM재킹(LLMJacking)’ 공격의 상세 메커니즘을 분석한 새로운 보고서를 4일 발표했다.무단으로 점유한 컴퓨팅 자원을 점진적으로 소모하는 크립토재킹(CryptoJacking,타인의 컴퓨팅 자원을 무단으로 가로채 암호화폐 채굴에 이용하는 수법)과",
-  "source": "ZDNet Korea",
-  "date": "2026-11-04T21:09:25+09:00",
-  "category": "업무 활용",
-  "buzz": 1
- },
- {
-  "title": "구글, 말레이시아 데이터센터 건설에 2년간 20조원 투자",
-  "url": "https://www.yna.co.kr/view/AKR20261104179500084",
-  "summary": "(하노이=연합뉴스) 박진형 특파원 = 구글이 동남아시아의 인공지능(AI) 서비스 수요 급증에 대응해 향후 2년간 말레이시아에 150억 달러(약 ...",
-  "source": "연합뉴스",
-  "date": "2026-11-04T21:07:21+09:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "\"中 AI기업들, 엔비디아 칩 600만개 중 1%만 공급받을 듯\"",
-  "url": "https://www.yna.co.kr/view/AKR20261104178500009",
-  "summary": "(서울=연합뉴스) 권숙희 기자 = 중국 인공지능(AI)·클라우드 기업들이 엔비디아 칩 주문량 600만개 가운데 1% 수준만 공급받게 될 전망이라...",
-  "source": "연합뉴스",
-  "date": "2026-11-04T21:06:12+09:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "AI 콘텐츠 허용하면서 ‘AI 안 보기’ 기능도… 딜레마 빠진 플랫폼들",
-  "url": "https://www.chosun.com/economy/tech_it/2026/11/05/D4DKW73MVVBAVLFGI65TV2X7TE/",
-  "summary": "",
-  "source": "조선일보",
-  "date": "2026-11-04T21:00:01+00:00",
-  "category": "SNS·마케팅",
-  "buzz": 1
- },
- {
-  "title": "트럼프 “AI 말고 SI 쓰라” 으름장, 실리콘밸리에서 얼마나 통했을까?",
-  "url": "https://www.chosun.com/economy/tech_it/2026/11/05/CKALWVMQCFGJPFWWNDNXOENSSU/",
-  "summary": "",
-  "source": "조선일보",
-  "date": "2026-11-04T21:00:01+00:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "美 민주당, 20년 만의 상하원 탈환…'통상 훈풍' 기대는 시기상조",
-  "url": "https://zdnet.co.kr/view/?no=20261104172329",
-  "summary": "[지디넷코리아]미국 중간선거에서 민주당이 상·하원 모두 장악했지만, 한국 기업이 관세 인하나 친환경 산업 지원 복원을 곧바로 기대하기는 어렵다는 분석이 나왔다. 미국 현지 생산과 중국 의존도를 낮추는 공급망 정책이 이어지는 가운데 대미 투자와 고용 약속에 대한 의회 감독은 강화될 수 있다는 전망이다. 4일 법무법인 율촌은 '2026 미국 중간선거 이후 정책",
-  "source": "ZDNet Korea",
-  "date": "2026-11-04T20:57:40+09:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "전북, 1조3천억원 투입해 피지컬AI·로봇 산업 국가거점 구축",
-  "url": "https://view.asiae.co.kr/article/2026110418151952238",
-  "summary": "전북특별자치도가 피지컬AI·로봇 산업의 국가 거점으로 도약하기 위한 구체적인 실행 방안 마련에 나섰다. 총 1조3,000억원 규모의 5대 핵심사업을 앞세워 연구개발부터 실증, 생산까지 이어지는 산업 생태계를 구축하겠다는 구상이다.전북도는 4일 국회의원회관 제2세미나실에서 '피지컬AI·로봇 글로벌 최강국 전북 대토론회'를 열고 핵심사업의 추진 방향과 국가 차",
-  "source": "아시아경제",
-  "date": "2026-11-04T20:49:07+09:00",
-  "category": "업무 활용",
-  "buzz": 1
- },
- {
-  "title": "[크립토 AI리포트] 바이낸스 해킹에 투자심리 위축…비트코인·리플 약세",
-  "url": "https://zdnet.co.kr/view/?no=20261104140455",
-  "summary": "[지디넷코리아]매주 목요일 출근길, 밤사이 달라진 가상자산 시장 흐름을 짚어드립니다. 빗썸 인공지능(AI) 분석 서비스를 활용해 주요 가상자산 가격 동향과 투자심리를 살펴보고, 시장에서 주목해야 할 이슈를 전해드립니다.지난달 29일(현지시간) 발생한 글로벌 가상자산 거래소 바이낸스 해킹 사고 여파로 가상자산 시장 전반이 출렁였습니다.해킹 사고 소식이 전해진",
-  "source": "ZDNet Korea",
-  "date": "2026-11-04T20:40:23+09:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "내가 AI를 쓰는 방식, 2026년 10월",
-  "url": "https://news.hada.io/topic?id=36586&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-  "summary": "Salesforce AI Research의 Ben Stolovitz는 코딩 에이전트 5~6개를 병렬로 운용하며, 자신의 코드 90% 이상을 AI에 맡김에이전트마다 별도 Git worktree를 주고 구현, 버그 재현, 테스트, PR 작성을 맡김. 사람은 설계와 검증에 집중함올해 가장 성공적이었던 작업은 AI가 만든 약 4,000줄을 직접 쓴 수백 줄로 교체",
-  "source": "GeekNews",
-  "date": "2026-11-04T20:38:31+09:00",
-  "category": "업무 활용",
-  "buzz": 1
- },
- {
-  "title": "회의록 AI 그래놀라, 무료 음성 받아쓰기 기능 출시",
-  "url": "https://zdnet.co.kr/view/?no=20261104203804",
-  "summary": "[지디넷코리아]회의 내용을 기록하고 요약하는 AI 서비스 그래놀라가 현지 시각 10월 29일 맥용 음성 받아쓰기 기능 '보이스 타이핑'을 출시했다. 맥에서 Fn 키를 누른 채 말하면 그래놀라가 문장을 다듬고 형식을 갖춰 사용 중인 앱에 입력하며, 그래놀라는 공식 X 계정에서 \"단어 수 제한 없이 무료\"라고 밝혔다. 그래놀라는 이미 회의록을 작성해 온 서비스",
-  "source": "ZDNet Korea",
-  "date": "2026-11-04T20:38:04+09:00",
-  "category": "영상·이미지",
-  "buzz": 1
- },
- {
-  "title": "돈 못 벌고,기술은 정체…중국 ‘AI 절벽’",
-  "url": "https://www.khan.co.kr/article/202611042035005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
-  "summary": "높은 이용량이 수익으로 안 이어져 ‘AI 굴기는 거품 불과’ 의심 커져컴퓨터 자원 부족에 막대한 개발비 부담…투자 열기도 빠르게 식어중국 인공지능(AI)이 미국을 빠르게 따라잡고 있다는 평가가 과장됐다는 분석이 나왔다. 중국 AI 모델의 높은 이용량이 실제 수익으로 이어지지 않는다는 지적까지 제기되면서 경쟁력에 의문이 커지는 분위기다. 관련 기업들의 주가도",
-  "source": "경향신문 경제",
-  "date": "2026-11-04T20:35:00+09:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "체이널리시스, '바이낸스 해킹' 북한 허위면접 수법 분석",
-  "url": "https://zdnet.co.kr/view/?no=20261104202822",
-  "summary": "[지디넷코리아]북한 해커들이 바이낸스(Binance) 직원을 노린 가짜 면접 수법으로 64억달러(약 8조 5600억원)를 탈취하기 전부터 같은 수법의 공격을 수십 건 벌인 것으로 나타났다. 지난 18개월간 유사 수법의 피해액은 1430만달러(약 191억4000만원)를 넘었다. 표적은 개인 지갑부터 탈중앙화자율조직(DAO)까지 다양했다.체이널리시스는 바이낸스",
-  "source": "ZDNet Korea",
-  "date": "2026-11-04T20:31:09+09:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "6000억 베팅한 머스크 ‘날벼락’⋯ 주가 ‘흔들’, 청문회까지?",
-  "url": "https://www.kmib.co.kr/article/20261105500037",
-  "summary": "<center> <img src=\"https://3f3bm4nnaefgwrtq8izg16625.edge.naverncp.com/data2/content/image/2026/11/05/20261105500036.jpg\"> </center> <p>미국 중간선거에서 공화당의 참패로 일론 머스크 스페이스X 최고경영자(CEO)가 최대 패배자가 될 것이라는 분석이 나",
-  "source": "국민일보",
-  "date": "2026-11-04T20:25:57+00:00",
-  "category": "영상·이미지",
-  "buzz": 1
- },
- {
-  "title": "전화 한 통에 롯데타워 모델링 ‘뚝딱’ … 가장 똑똑하고 비싼 AI 비서 ‘닷츠’",
-  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sOHlOcnk0cEhTNDR6QUhmM24ta09Fd0VjTWZycUNnQmVwQWJzMWdjTHNNTDVIRG9rMmx5ZGN5UENyS1ZiaUJvNHpMbG1Fa0VlUHc?oc=5",
-  "summary": "",
-  "source": "매일경제",
-  "date": "2026-11-04T20:00:00+00:00",
-  "category_hint": "영상·이미지",
-  "category": "영상·이미지",
-  "buzz": 1
- },
- {
-  "title": "모니터랩, 에이아이랩스 신버전 출시…\"AI와 대화하듯 위협 정보 검색\"",
-  "url": "https://zdnet.co.kr/view/?no=20261104185325",
-  "summary": "[지디넷코리아]보안 담당자가 위협 간 연관 관계를 시각화하고 인공지능(AI)과 대화하듯 위협 정보를 검색하고, 탐지된 위협을 마이터 어택(MITRE ATT&CK)에 자동 매핑해 볼 수 있게 됐다.기업간거래(B2B) 서비스형 보안(SECaaS) 전문기업 모니터랩은 AI 기반 위협 인텔리전스 플랫폼 '에이아이랩스(AILabs)'의 신버전 'v6.0'을 출시했다",
-  "source": "ZDNet Korea",
-  "date": "2026-11-04T18:54:58+09:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-  "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
-  "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat J",
-  "source": "MIT Technology Review",
-  "date": "2026-11-04T18:50:55+00:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "남양주시, AI에 직원 노하우 더한다…‘경험이음·실무한수’ 도입",
-  "url": "https://view.asiae.co.kr/article/2026110418383936158",
-  "summary": "경기 남양주시가 자체 개발한 생성형 인공지능(AI) 업무 플랫폼 '냅(NAP)'에 직원들의 업무 경험을 공유하고 AI로 실무 궁금증을 해결하는 서비스를 도입했다. 남양주시(시장 최현덕)는 업무 지식공유 서비스 '경험이음'과 AI 기반 질의응답 서비스 '실무한수'를 4일부터 운영한다고 밝혔다. 신규 직원의 업무 적응을 돕고, 부서별로 흩어진 업무 지식과 노하",
-  "source": "아시아경제",
-  "date": "2026-11-04T18:38:39+09:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "두들 “홀로 뛰는 사장님 위한 ‘AI 영업팀’, 놓치던 문의를 매출로” [Start-up NEST 19기]",
-  "url": "https://www.donga.com/news/It/article/all/20261104/134967373/1",
-  "summary": "[신용보증기금×더인벤션랩×IT동아] 신용보증기금이 주관하고 더인벤션랩이 액셀러레이터로 참여하는 ‘Start-up NEST 19기’는 유망 스타트업의 스케일업을 돕는 대표 창업 육성 플랫폼입니다. 기업성장·투자연계·글로벌진출 등 맞춤형 트랙과 투자사·대중견기업 1:1 매칭을 통해 실질적인 성장을 지원합니다. IT동아는 Start-up NEST 19기를 통해 ",
-  "source": "동아일보 과학",
-  "date": "2026-11-04T18:27:35+09:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "\"차라리 없었더라면\"…AI '체르노빌 사고' 위험 경고",
-  "url": "https://view.asiae.co.kr/article/2026110418240935107",
-  "summary": "현대 인공지능(AI)의 대부로 불리는 AI 연구의 권위자 제프리 힌턴 토론토대 명예교수가 AI 개발을 후회하는 취지의 발언을 내놔 주목받고 있다. AI 모델이 갈수록 위험해지고 있다는 지적이다. 3일(현지시간) 힌턴 교수는 영국 일간지 '가디언'과의 인터뷰에서 AI를 이용한 대규모 사이버 공격의 위험성을 경고했다. 그는 전력 시스템에 대한 대규모 공격, 혹",
-  "source": "아시아경제",
-  "date": "2026-11-04T18:25:13+09:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "앤트로픽 \"RSI 가속에 AI 안전 대책 뒤처질 수도\"…통제 강화 검토",
-  "url": "https://www.aitimes.com/news/articleView.html?idxno=216984",
-  "summary": "앤트로픽이 AI를 활용한 연구개발이 급격히 빨라지면서 안전성과 보안 대책을 마련하는 속도를 앞지를 수 있다고 경고했다. 특히 과거에도 개발 속도가 크게 빨라진 사실을 뒤늦게 파악한 적이 있다고 인정하며, 재귀적 자기개선(RSI)에 대비해 인간의 감독과 통제 체계를 강화할 필요성을 제기했다.테크크런치는 2일(현지시간) 앤트로픽이 기업공개(IPO)를 위해 미국",
-  "source": "AI타임스",
-  "date": "2026-11-04T18:24:21+09:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "\"약국이 철근 낙찰\"…AI가 공공조달 꼼수 잡았다",
-  "url": "https://www.hankyung.com/article/2026110464021",
-  "summary": "",
-  "source": "한국경제 IT",
-  "date": "2026-11-04T18:23:20+09:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "SKT·LGU+ \"내년부터 AI 데이터센터 매출 본격화\"",
-  "url": "https://www.hankyung.com/article/2026110463941",
-  "summary": "",
-  "source": "한국경제 IT",
-  "date": "2026-11-04T18:19:16+09:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "제논, 휴머노이드 작업 오류 스스로 고치는 AI 개발한다",
-  "url": "https://zdnet.co.kr/view/?no=20261104181807",
-  "summary": "[지디넷코리아]제논이 휴머노이드 로봇이 작업 중 발생한 오류를 스스로 판단하고 복구하는 인공지능(AI) 기술 개발에 나선다.제논은 중소벤처기업부와 중소기업기술정보진흥원이 주관하는 '스케일업 팁스(Scale-up TIPS)' 연구개발 과제에 선정됐다고 4일 밝혔다.선정 과제는 '체화 인지형 세계(월드)모델 기반 행동 감독 기술 개발'이다. 제논은 주관연구개발",
-  "source": "ZDNet Korea",
-  "date": "2026-11-04T18:18:07+09:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "[카드뉴스] 거래소가 해킹당하면 내 돈은 누가 물어줄까",
-  "url": "https://zdnet.co.kr/view/?no=20261104094100",
-  "summary": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 거래소가 해킹을 당하면 내 자산은 누가 책임져 줄까요? 2026년 2월 18일 업비트에서 약 3,000만 달러, 우리 돈으로 386억 원이 빠져나가는 사고가 있었는데요. 인터넷에 연결된 핫월렛이 뚫리면서 열쇠 역할을 하는 개인키까지 도둑맞았다고 해요. 다행히 업비트는 자기 자산으로 피해액 전액을 보상했지만,",
-  "source": "ZDNet Korea",
-  "date": "2026-11-04T18:13:53+09:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "SKT AIDC 자회사 사업 본격화...\"AI 인프라, 핵심 성장축으로\"",
-  "url": "https://zdnet.co.kr/view/?no=20261104180513",
-  "summary": "[지디넷코리아]SK텔레콤이 AI 데이터센터(AIDC) 사업 전문 자회사인 SK하이퍼와 SK호라이즌을 통해 실행 체계를 정비하고 사업을 본격화한다. 통신과 AI를 하나의 성장 전략으로 묶어 AI 인프라를 장기 핵심 축으로 키우겠다는 구상이다.박종석 SK텔레콤 CFO는 4일 3분기 실적발표 컨퍼런스콜에서 “SK텔레콤은 3개 분기 연속 5000억원 이상 영업익으",
-  "source": "ZDNet Korea",
-  "date": "2026-11-04T18:11:42+09:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "코히어, 소버린 고객의 안전한 엔터프라이즈급 AI 구축 촉진하기 위해 싱가포르에 국방 AI 액셀러레이터 설립",
-  "url": "https://zdnet.co.kr/view/?no=20261104181024",
-  "summary": "[지디넷코리아] 공공 부문의 소버린 AI 애플리케이션을 시범 프로젝트에서 임무 수행이 가능한 운영 단계로 전환하도록 지원 싱가포르, 2026년 11월 4일 /PRNewswire/ -- 규제 산업과 정부를 위한 소버린 AI 선도 기업 코히어(Cohere)가 11월 3일 싱가포르에 국방 AI 액셀러레이터(Defence AI Accelerator)를 설립한다고 ",
-  "source": "ZDNet Korea",
-  "date": "2026-11-04T18:10:24+09:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "Xinhua Silk Road: 외신 기자단, 위항 혁신 발전상 탐방",
-  "url": "https://zdnet.co.kr/view/?no=20261104181013",
-  "summary": "[지디넷코리아]베이징 2026년 11월 4일 /PRNewswire/ -- 한국, 튀르키예, 미국, 쿠바 언론사 기자들이 10월 26일부터 28일까지 항저우시 위항구의 첨단 기술 기업과 현대 농업 시범단지 여러 곳을 방문했다. 기자들은 현장 방문과 체험을 통해 위항구가 기술 혁신과 산업 혁신의 융합에서 이룬 성과를 직접 살펴봤다. 기자단은 10월 26일 선도",
-  "source": "ZDNet Korea",
-  "date": "2026-11-04T18:10:13+09:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "파테오, NVIDIA DRIVE AGX Thor 기반 AI Box에 NVIDIA Nemotron 및 ByteDance Doubao 탑재로 차량 내 AI 고도화",
-  "url": "https://zdnet.co.kr/view/?no=20261104181003",
-  "summary": "[지디넷코리아]상하이 2026년 11월 4일 /PRNewswire/ -- 파테오(PATEO)가 엔비디아(NVIDIA)의 NVIDIA DRIVE AGX Thor를 기반으로 구축한 AI Box에 NVIDIA Nemotron과 350억 개의 매개변수를 갖춘 ByteDance Doubao 언어 모델을 탑재해 차량 내 AI를 고도화하고 있다. 이 솔루션은 로컬 AI",
-  "source": "ZDNet Korea",
-  "date": "2026-11-04T18:10:03+09:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "오픈AI, AI로 하드웨어 설계 일주일 만에 완료…실제 시제품 제작",
-  "url": "https://www.aitimes.com/news/articleView.html?idxno=216989",
-  "summary": "오픈AI가 AI 모델을 활용해 기계·전기 공학부터 시스템 설계, 시제품 제작까지 하드웨어 개발 전반을 가속하고 있다고 밝혔다. 설계 도면 작성과 시뮬레이션 설정은 물론 제조 과정에 필요한 작업까지 지원하며, 내부 팀의 아이디어 검증과 설계 반복 속도를 높이고 있다는 설명이다.오픈AI는 3일(현지시간) 공식 블로그를 통해 \\'GPT-6\\'로 기능 요구사항을 ",
-  "source": "AI타임스",
-  "date": "2026-11-04T18:07:03+09:00",
-  "category": "SNS·마케팅",
-  "buzz": 1
- },
- {
-  "title": "\"AI에 일 맡길수록 감독 능력도 퇴화\"…앤트로픽 엔지니어 경고",
-  "url": "https://www.aitimes.com/news/articleView.html?idxno=217019",
-  "summary": "AI 에이전트가 코딩과 업무를 대신하는 비중이 늘면서 인간의 판단력과 전문성이 약해질 수 있다는 경고가 나오고 있다. 특히 AI가 만든 결과물을 검증하려면 인간의 전문성이 필요하지만, AI에 작업을 맡길수록 그 능력마저 퇴화할 수 있다는 \\'감독의 역설(Paradox of Supervision)\\'이 새로운 문제로 떠올랐다.앤트로픽의 \\'클로드 코드\\' 개",
-  "source": "AI타임스",
-  "date": "2026-11-04T18:00:00+09:00",
-  "category": "업무 활용",
-  "buzz": 1
- },
- {
-  "title": "\"AI 초장문 처리 속도 최대 35배 높인다\"…자이프라, 새 어텐션 기술 공개",
-  "url": "https://www.aitimes.com/news/articleView.html?idxno=217008",
-  "summary": "미국 AI 스타트업 자이프라(Zyphra)가 초장문 문맥 처리 속도를 크게 높일 수 있는 새로운 희소 어텐션 기술을 공개했다. 문서 전체를 검색하는 대신 정보를 계층적으로 정리한 뒤 필요한 부분만 찾아가는 방식으로, 1000만 토큰 문맥에서 기존 일반 어텐션보다 최대 35배 빠른 처리 속도를 낼 수 있다는 예측 결과를 제시했다.자이프라는 2일(현지시간) 기",
-  "source": "AI타임스",
-  "date": "2026-11-04T17:54:42+09:00",
-  "category": "업무 활용",
-  "buzz": 1
- },
- {
-  "title": "AMD, AI가 바꾼 사업 지형도…헬리오스로 엔비디아 추격",
-  "url": "https://www.bloter.net/news/articleView.html?idxno=677716",
-  "summary": "AMD가 인공지능(AI) 인프라 투자 확대에 힘입어 역대 최대 분기 실적을 기록했다. 데이터센터 사업이 전체 성장을 견인하면서 내년에는 매출이 80% 이상 증가할 것이라는 전망도 내놨다. AMD는 그래픽처리장치(GPU) 판매를 넘어 중앙처리장치(CPU)와 GPU, 네트워크를 통합한 랙 단위(Rack-Scale) AI 인프라 '헬리오스'를 앞세워 사업 영역을",
-  "source": "블로터",
-  "date": "2026-11-04T17:51:25+00:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-  "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-  "summary": "",
-  "source": "Hugging Face",
-  "date": "2026-11-04T17:50:10+00:00",
-  "category": "공식 자료",
-  "buzz": 1
- },
- {
-  "title": "AIDC 날개 단 LGU+…4년 만에 영업익 '1조 클럽' 복귀 눈앞",
-  "url": "https://www.bloter.net/news/articleView.html?idxno=677744",
-  "summary": "LG유플러스가 올해 3분기 주력인 통신 사업의 가입자 증가와 미래 성장동력으로 육성 중인 인공지능 데이터센터(AIDC) 사업의 두 자릿수 성장에 힘입어 수익성을 개선했다. 이에 올해 약 4년 만에 연간 영업이익 1조원대 복귀를 눈앞에 두고 있다.내년에는 경기 파주에 건설 중인 AIDC를 중심으로 본격 고객 수요에 대응하고 후속 시설 구축에 속도를 낸다. 특",
-  "source": "블로터",
-  "date": "2026-11-04T17:48:15+00:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "AI가 대신 코딩하는 시대…학생의 사고과정은 어떻게 지킬까",
-  "url": "https://www.donga.com/news/It/article/all/20261104/134967035/1",
-  "summary": "생성형 AI의 등장은 소프트웨어 개발 방식까지 바꾸고 있다. 개발자가 직접 코드를 짜는 대신 자연어로 원하는 기능을 설명하고, AI가 만든 결과를 확인·수정하는 ‘바이브코딩(Vibe Coding)’이 대표적인 예다.이는 코딩의 진입장벽을 낮춘다는 점에서 긍정적이다. 프로그래밍 언어를 능숙하게 다루지 못해도 아이디어를 빠르게 결과물로 구현할 수 있기 때문이다",
-  "source": "동아일보 과학",
-  "date": "2026-11-04T17:46:43+09:00",
-  "category": "생활·교육",
-  "buzz": 1
- },
- {
-  "title": "위즈진, 모터·감속기 통합한 로봇 구동장치 공개…600kg 물류로봇 적용",
-  "url": "https://zdnet.co.kr/view/?no=20261104174434",
-  "summary": "[지디넷코리아]로보틱스 솔루션 기업 위즈진이 모터와 감속기, 구동 드라이버를 하나로 통합한 로봇용 액추에이터를 공개한다. 해당 기술을 적용해 최대 600kg의 화물을 이송하도록 설계한 자율주행 물류로봇도 선보인다.위즈진은 '2026 로보월드'에 참가해 자체 개발한 로봇 액추에이터 'FLUXIUM R80'을 공개한다고 4일 밝혔다.액추에이터는 로봇의 관절과 ",
-  "source": "ZDNet Korea",
-  "date": "2026-11-04T17:45:10+09:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "AI發 순풍에…AMD, 역대급 분기 실적",
-  "url": "https://www.hankyung.com/article/2026110463621",
-  "summary": "",
-  "source": "한국경제 IT",
-  "date": "2026-11-04T17:40:15+09:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "\"AI 현장 엔지니어 연봉 최대 19억원\"...기업들 FDE 확보 총력",
-  "url": "https://www.aitimes.com/news/articleView.html?idxno=217007",
-  "summary": "기업들이 AI의 실제 업무 적용을 지원하는 \\'전방 배치 엔지니어(FDE)\\' 확보 경쟁에 나서면서, 이들의 몸값이 치솟고 있다. 최상위급 인력의 연간 총보수는 최대 145만달러(약 19억원)에 달하는 것으로 나타났다. AI 도입이 실험 단계를 넘어 실제 사업 성과를 내는 단계로 접어들면서 현장에 AI 시스템을 구축할 수 있는 인재의 가치가 높아지고 있다는",
-  "source": "AI타임스",
-  "date": "2026-11-04T17:40:04+09:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "SK, SK에코플랜트 상장 대신 지분 100% 확보",
-  "url": "https://zdnet.co.kr/view/?no=20261104173932",
-  "summary": "[지디넷코리아]SK가 중복상장에 대한 시장 우려를 낮추기 위해 SK에코플랜트 기업공개(IPO) 대신 완전 자회사화를 추진한다. 반도체와 인공지능(AI) 인프라 중심으로 사업을 재편한 데 이어 소수주주 지분을 사들여 지분구조 정비에 나선다.SK는 4일 이사회에서 비상장 자회사 SK에코플랜트 주식을 주당 8만 8000원에 공개매수하기로 결의했다고 밝혔다.매수 ",
-  "source": "ZDNet Korea",
-  "date": "2026-11-04T17:39:32+09:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "\"엔비디아 심기 거스를라\"...오픈AI도 중국 칩 수출 규제에 발언 자제",
-  "url": "https://www.aitimes.com/news/articleView.html?idxno=216992",
-  "summary": "엔비디아가 AI 칩 시장의 압도적인 지배력을 바탕으로 고객사의 사업 결정은 물론 미국 정부의 수출 정책에도 막강한 영향력을 행사하고 있다는 보도가 나왔다. 오픈AI조차 엔비디아와의 관계 악화를 우려해 중국에 대한 첨단 반도체 수출 규제 문제에서 공개적인 입장을 내는 데 신중한 태도를 보여온 것으로 전해졌다.2일(현지시간) 디 인포메이션에 따르면, 오픈AI의",
-  "source": "AI타임스",
-  "date": "2026-11-04T17:33:34+09:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "레인보우로보틱스, 휴머노이드에 AI 결합…\"말로 로봇 부린다\"",
-  "url": "https://zdnet.co.kr/view/?no=20261104172211",
-  "summary": "[지디넷코리아]레인보우로보틱스가 2세대 모바일 휴머노이드 'RB-Y2'에 인공지능(AI)을 결합한다. 사람이 자연어로 로봇을 조작하도록 지원하는 것이 목표다. RB-Y2는 내년 중반부터 본격 판매할 예정이다.허정우 레인보우로보틱스 최고기술책임자(CTO)는 4일 경기 고양시 킨텍스에서 열린 '2026 로보월드'에서 기자와 만나 \"챗GPT 같은 AI 모델과 로",
-  "source": "ZDNet Korea",
-  "date": "2026-11-04T17:30:36+09:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "중국 브레인코, 뇌 자극 '전자식 비만 치료제' 개발 중",
-  "url": "https://www.aitimes.com/news/articleView.html?idxno=217015",
-  "summary": "중국 뇌-컴퓨터 인터페이스(BCI) 기업 브레인코(BrainCo)가 뇌를 자극해 식욕을 억제하는 웨어러블 기기를 개발하고 있다. 주사나 약물 없이 뇌 신호를 조절해 비만 치료제와 유사한 효과를 내겠다는 구상으로, 기존 GLP-1 계열 비만 치료제를 대체할 수 있는 새로운 방식으로 주목된다.닉스 허 브레인코 공동 창업 파트너는 3일(현지시간) 런던에서 열린 ",
-  "source": "AI타임스",
-  "date": "2026-11-04T17:28:16+09:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "EU 최고법원 법무관 \"AI 기사 무단 요약은 저작권 침해\"...구글 제미나이 소송 주목",
-  "url": "https://www.aitimes.com/news/articleView.html?idxno=217014",
-  "summary": "유럽연합(EU) 최고법원인 유럽사법재판소(ECJ)의 법무관이 구글의 AI 챗봇 \\'제미나이\\'가 언론사 기사를 검색해 답변을 생성하는 과정에서 저작권을 침해할 수 있다는 법률 의견을 내놨다. 단순히 기사에 담긴 사실을 전달하는 것은 문제가 없지만, 원문의 표현을 재현하거나 이용자가 원문을 읽지 않아도 될 정도로 내용을 제공하면 언론사의 권리를 침해할 수 있",
-  "source": "AI타임스",
-  "date": "2026-11-04T17:24:28+09:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "전남광주, 축사 1362농가 화재 점검…전기 요인 48.8%",
-  "url": "https://www.aitimes.com/news/articleView.html?idxno=217020",
-  "summary": "AI 생성 영상전남광주통합특별시가 겨울철 축사 화재 예방을 위해 돼지·가금 사육농가 1362호를 대상으로 화재 위험요인 점검에 나선다. 최근 5년간 지역 축사 화재 211건 가운데 전기적 요인이 48.8%로 가장 많았다.전남광주는 오는 12월10일까지 돼지 사육농가 470호와 3000마리 이상 닭·오리 사육농가 892호를 대상으로 농가 자율점검과 시군·소방",
-  "source": "AI타임스",
-  "date": "2026-11-04T17:21:05+09:00",
-  "category": "영상·이미지",
-  "buzz": 2
- },
- {
-  "title": "“건강을 디자인하다”… 계양구보건소, 석재 아트월로 공공의료 공간에 새로운 활력",
-  "url": "https://www.aitimes.com/news/articleView.html?idxno=217021",
-  "summary": "인천시 계양구보건소가 의료공간의 기능성과 심미성을 조화롭게 담아낸 실내 석재 아트월을 선보였다. 이번 프로젝트는 보건소를 방문하는 주민들에게 친근하고 편안한 환경을 제공하고, 공공의료시설의 공간적 가치를 높이는 데 초점을 맞췄다.특히 민원 접수 및 대기공간의 벽면을 활용해 의료와 건강을 상징하는 디자인을 구현한 점이 눈길을 끈다. 중앙에는 청진기를 든 의료",
-  "source": "AI타임스",
-  "date": "2026-11-04T17:19:54+09:00",
-  "category": "생활·교육",
-  "buzz": 1
- },
- {
-  "title": "Apple Watch now listens to in-person conversations & lets you rewind them",
-  "url": "https://www.reddit.com/r/artificial/comments/1xntvml/apple_watch_now_listens_to_inperson_conversations/",
-  "summary": "",
-  "source": "Reddit r/artificial",
-  "date": "2026-11-04T17:15:02+00:00",
-  "category": "기타",
-  "buzz": 3
- },
- {
-  "title": "여수세계섬박람회 61일 마무리…폐막 전날 250만명, 섬 관광 가능성 남겨",
-  "url": "https://www.aitimes.com/news/articleView.html?idxno=217016",
-  "summary": "2026 여수세계섬박람회가 4일 61일간의 일정을 마무리한다. 개막 초반 콘텐츠를 보강하고 관람환경을 개선한 뒤 후반 관람객이 빠르게 늘었지만, 폐막 전날까지 누적 실적은 당초 목표인 300만명에 미치지 못했다. 행사 이후에는 관광시설 활용과 재정 성과에 대한 평가가 남는다.여수세계섬박람회 조직위원회 발표에 따르면 지난 3일까지 누적 관람객은 250만259",
-  "source": "AI타임스",
-  "date": "2026-11-04T17:13:26+09:00",
-  "category": "SNS·마케팅",
-  "buzz": 1
- },
- {
-  "title": "Show GN: 서울은 밤하늘에 별이 잘 안 보여서 그냥 만들었어요. 별자리 구경가요 eunha.io",
-  "url": "https://news.hada.io/topic?id=36581&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-  "summary": "지금 이 시간 서울 하늘에 떠 있는 별이 그대로 보여요. 따로 설치할 것 없이 링크만 누르면 되고, 휴대폰으로도 돼요.claude로 개발했고, 특징은지금 서울 하늘: 별 5,044개와 88개 별자리를 서울 위치와 지금 시각에 맞춰 띄워요. 행성과 달도 실제 자리에 있어요천체망원경: 5배, 15배, 40배로 당겨 볼 수 있어요. 확대하면 맨눈으로는 안 보이는",
-  "source": "GeekNews",
-  "date": "2026-11-04T17:12:44+09:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "멤레이비티, 주식병합 후 거래 재개…턴어라운드 실현할까",
-  "url": "https://www.bloter.net/news/articleView.html?idxno=677756",
-  "summary": "코스닥 상장사 멤레이비티가 주가 안정화를 위해 주식병합과 지배구조 개편을 진행하고 있다. 이차전지·인공지능(AI)·환경 분야로 신사업도 확대하고 있다. 재무구조 개선과 실적 턴어라운드가 가능할지 관심이 쏠린다.4일 업계에 따르면 멤레이비티는 적정 유통주식 수 유지와 주가 안정화를 목적으로 주식병합을 진행 중이다. 1주당 액면가액은 1000원에서 2500원으",
-  "source": "블로터",
-  "date": "2026-11-04T17:10:46+00:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "현대제철, 사내 생성 AI 통합 플랫폼 '스틸-X' 가동...전사 AX 페달링",
-  "url": "https://www.aitimes.com/news/articleView.html?idxno=217017",
-  "summary": "현대제철이 차세대 생성 AI 통합 플랫폼을 가동하며 전사 AX 혁신을 가속한다.현대제철은 최근 사내 문서와 데이터를 자산화하고 통합 검색·분석과 다양한 AI 서비스를 제공하는 플랫폼 \\'스틸(Steel)-X\\'의 가동에 나섰다고 4일 밝혔다.스틸-X는 여러 시스템과 부서에 분산된 사내 지식을 효율적으로 활용하고 반복적인 정보 탐색, 문서 작성 등 업무를 줄",
-  "source": "AI타임스",
-  "date": "2026-11-04T17:05:31+09:00",
-  "category": "업무 활용",
-  "buzz": 4
- },
- {
-  "title": "에이티넘인베 투자기업 올거나이즈, 일본 증시 상장",
-  "url": "https://www.aitimes.com/news/articleView.html?idxno=217013",
-  "summary": "기업용 AI 전문 올거나이즈(대표 이창수)가 일본 증시에 상장했다.에이티넘인베스트먼트는 4일 자사 투자 포트폴리오 중 하나인 올거나이즈가 일본 도쿄증권거래소 그로스시장에 상장했다고 밝혔다.미국 캘리포니아에서 출발한 올거나이즈는 한국·미국·일본에서 AI 솔루션 사업을 전개했다. 2018년 올거나이즈코리아, 2019년 올거나이즈 재팬을 각각 설립하며 사업 기반",
-  "source": "AI타임스",
-  "date": "2026-11-04T17:04:33+09:00",
-  "category": "기타",
-  "buzz": 3
- },
- {
-  "title": "[게시판] 넘즈에이아이, 20억 프리시드 2차 투자 유치 등 단신",
-  "url": "https://www.aitimes.com/news/articleView.html?idxno=217018",
-  "summary": "■ 넘즈에이아이(대표 유재민)는 미래에셋벤처투자와 한국투자파트너스로부터 20억원 규모의 프리시드 2차 투자를 유치했다고 밝혔다. 누적 투자 금액은 60억원이며 팁스(TIPS)에도 선정돼 연구비 8억원을 지원받는다. 자체 개발한 정형 데이터 파운데이션 모델 ‘코실로’는 올해 9월 공개 당시 글로벌 벤치마크 탭아레나(TabArena)에서 종합과 분류 및 회귀 ",
-  "source": "AI타임스",
-  "date": "2026-11-04T17:00:00+09:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "AI 잘 쓴 사연 보내면 1억 준다고?…65억 포상금 논란 [이슈+]",
-  "url": "https://www.hankyung.com/article/202611045890g",
-  "summary": "",
-  "source": "한국경제 IT",
-  "date": "2026-11-04T16:47:02+09:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "17 better ways Elon Musk could have wasted $446 million",
-  "url": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
-  "summary": "One of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seeking lunatics. If your social media of choice is the",
-  "source": "The Verge AI",
-  "date": "2026-11-04T16:45:00-05:00",
-  "category": "SNS·마케팅",
-  "buzz": 1
- },
- {
-  "title": "광양경자청, 율촌제1산단 한화에어로스페이스 순천사업장 준공",
-  "url": "https://www.aitimes.com/news/articleView.html?idxno=217022",
-  "summary": "광양만권경제자유구역청(청장 구충곤)은 4일 율촌제1산단에서 한화에어로스페이스 순천사업장 준공식이 개최됐다고 밝혔다.이날 준공식에는 민형배 전남광주통합특별시장, 김문수·황정아 국회의원, 박재성 우주항공청 부문장, 손훈모 순천시장, 구충곤 광양경자청장, 김선 한화에어로스페이스 부사장 등 주요 경영진과 정부·국회·지자체 및 우주산업 관계자 200여 명이 참석했다",
-  "source": "AI타임스",
-  "date": "2026-11-04T16:45:00+09:00",
-  "category": "업무 활용",
-  "buzz": 1
- },
- {
-  "title": "미국 위협한다는 중국 AI 굴기 ‘거품’이었나…성능 격차에 수익성 우려까지 ‘첩첩산중’",
-  "url": "https://www.khan.co.kr/article/202611041634001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
-  "summary": "스마트폰 화면에는 중국 인공지능(AI) 애플리케이션 딥시크(DeepSeek)의 로고가, 노트북 화면 상단에는 중국 AI 애플리케이션 키미(Kimi)의 로고가 표시돼 있다. AFP연합뉴스중국 인공지능(AI)이 미국을 빠르게 따라잡고 있다는 평가가 과장됐다는 분석이 나왔다. 중국 AI 모델의 높은 이용량이 실제 수익으로 이어지지 않는다는 지적까지 나오면서 경쟁",
-  "source": "경향신문 경제",
-  "date": "2026-11-04T16:34:00+09:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "자율주행 트랙터에서 영농비서까지…대동이 그리는 AI 농업 [현장+]",
-  "url": "https://www.bloter.net/news/articleView.html?idxno=677734",
-  "summary": "대구 엑스코(EXCO) 전시장. 'AI to the Field'라는 문구 아래 거대한 검은색 트랙터가 관람객들의 발길을 붙잡았다. 성인 키만 한 바퀴와 전면에 장착된 커다란 로더가 눈길을 끄는 가운데 관람객들은 운전석과 차체 곳곳을 살펴봤다. 국내 농기계 전문기업 대동이 선보인 인공지능(AI) 트랙터 'HX1400-AI'로 운전자가 탑승하지 않아도 농작업을",
-  "source": "블로터",
-  "date": "2026-11-04T16:33:21+00:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "\"오픈AI, 수년간 내부 보안 취약점 경고 무시\"...개발 속도 우선에 기밀 유출 위험",
-  "url": "https://www.aitimes.com/news/articleView.html?idxno=217011",
-  "summary": "오픈AI가 수년간 직원들로부터 내부 보안 취약점에 대한 경고를 받고도 적극적으로 대응하지 않았다는 지적이 나왔다. 구글과 앤트로픽 등 경쟁사와의 기술 개발 경쟁을 우선하면서 내부 연구 자료와 소프트웨어 코드가 외부에 유출될 위험을 방치했다는 것이다.로이터는 3일(현지시간) 복수의 관계자를 인용, 챗GPT가 출시된 2022년 말 이전부터 오픈AI 직원들이 경",
-  "source": "AI타임스",
-  "date": "2026-11-04T16:30:09+09:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "에스엘즈, 실리콘밸리 VC 주관 스타트업 경연대회서 글로벌 결선 진출",
-  "url": "https://www.aitimes.com/news/articleView.html?idxno=217009",
-  "summary": "에스엘즈(대표 이유미·정재헌)는 실리콘밸리 벤처캐피털(VC) 페가수스 테크벤처스가 주관하는 ‘2026 스타트업 월드컵 한국 결선’에서 최종 우승을 차지했다고 4일 밝혔다. 이로써 에스엘즈는 미국 샌프란시스코에서 열리는 글로벌 결선(세미파이널) 무대에 올라 해외 스타트업과 자웅을 겨루게 됐다.스타트업 월드컵은 전 세계 200개 이상의 지역 예선을 거쳐 선발된",
-  "source": "AI타임스",
-  "date": "2026-11-04T16:25:20+09:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "KISTI '미래연구정보포럼' 성료...데이터·AI 융합 및 국가 R&D 혁신 모색",
-  "url": "https://www.etnews.com/20261104000415",
-  "summary": "과학기술 정보·데이터 분야 최신 동향을 소개하고 우리 연구개발(R&D)의 미래 발전 방향을 모색하는 장이 열렸다. 한국과학기술정보연구원(KISTI·원장 이식)은 4일 한국과학기술회관 국제회의실에서 'AI와 데이터가 여는 과학기술 혁신의 미래'를 주제로 '2026 미래연구정보포럼'을 개최했다. 올해로 15회를 맞았다. 올해 포럼에서는 인공지능(AI)이 연구의",
-  "source": "전자신문",
-  "date": "2026-11-04T16:24:25+09:00",
-  "category": "업무 활용",
-  "buzz": 1
- },
- {
-  "title": "전남 국립의대 36년 만에 순천대로 확정…정원 60명 배정",
-  "url": "https://www.aitimes.com/news/articleView.html?idxno=217010",
-  "summary": "전남지역 국립 의과대학 설립 대학이 첫 유치 건의 36년 만에 국립순천대학교로 결정됐다. 목포대와 순천대의 통합 협상이 결렬된 뒤 진행된 후보대학 심사에서 순천대가 1.30점 앞섰고, 정부는 추천 절차에 대한 법률 검토를 거쳐 최종 선정했다.교육부와 보건복지부는 4일 전남광주통합특별시의 국립순천대와 경북 국립경국대를 지역의대 신설 대학으로 선정하고 정원을 ",
-  "source": "AI타임스",
-  "date": "2026-11-04T16:23:01+09:00",
-  "category": "생활·교육",
-  "buzz": 1
- },
- {
-  "title": "\"중국 AI 위협 과장됐나\"…성능 격차 확대에 벤치마크 신뢰성 논쟁",
-  "url": "https://www.aitimes.com/news/articleView.html?idxno=217012",
-  "summary": "아티피셜 애널리시스(AA)의 새로운 성능 평가에서 미국 최상위 모델과 중국 오픈 모델의 격차가 크게 벌어지면서 중국 AI의 경쟁력이 과대평가된 것 아니냐는 논쟁이 벌어지고 있다. 특히 비공개 문제를 늘린 뒤 성능 차이가 커지자 기존 모델들이 공개된 시험에 맞춰 성능을 높여왔다는 의혹이 제기됐지만, 평가 기준 자체가 달라졌기 때문에 이를 단정할 수 없다는 반",
-  "source": "AI타임스",
-  "date": "2026-11-04T16:18:22+09:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "[단독] SK하이닉스, 美 AI 컴퍼니 법인명에 'HYAICO' 낙점",
-  "url": "https://www.bloter.net/news/articleView.html?idxno=677737",
-  "summary": "SK하이닉스가 미국에 설립을 추진해 온 AI(인공지능) 전문 투자법인(가칭 AI Co.)의 법인명이 'HYAICO 코퍼레이션(HYAICO Corporation)'으로 확인됐다. 기존 낸드플래시 자회사 솔리다임을 AI 투자 전문법인으로 재편하는 작업이 구체화된 데 이어 SK텔레콤이 보유했던 미국 AI 인프라 기업 펭귄솔루션스의 지분까지 넘겨받으며 본격적인 투",
-  "source": "블로터",
-  "date": "2026-11-04T16:16:28+00:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "이상훈 큐렉소 기술연구소장 “수술실 전체 지원하는 AI 개발…재활까지 연결”",
-  "url": "https://www.etnews.com/20261104000408",
-  "summary": "큐렉소가 인공관절 수술로봇 정밀 제어 기술을 기반으로 인공지능(AI) 수술 지원과 보행재활을 아우르는 의료로봇 사업을 확대한다. 수술 정확도를 높이는 데서 나아가 수술팀 전체의 협업을 지원하고, 환자의 수술 후 회복까지 연결하는 것이 목표다. 이상훈 큐렉소 기술연구소장(상무)은 4일 경기 고양시 킨텍스에서 열린 '로보월드 2026'에서 “수술만 잘하는 게 ",
-  "source": "전자신문",
-  "date": "2026-11-04T16:03:39+09:00",
-  "category": "생활·교육",
-  "buzz": 1
- },
- {
-  "title": "“숨겨진 신약의 성공 가능성을 찾다”…아이디바인, AI로 임상 미래 예측",
-  "url": "https://www.etnews.com/20261102000354",
-  "summary": "“신약 개발의 가장 큰 병목은 임상 단계에 있습니다. 인공지능(AI)으로 후보물질을 발굴하는 것을 넘어 실제 임상에서 성공할 가능성을 예측하고, 제약사의 의사결정을 돕겠습니다.” 이시영 아이디바인 공동대표는 AI 활용을 임상시험 전략 수립과 기술이전, 투자 의사결정까지 확대할 계획이다. 지식 그래프로 신약 개발의 불확실성을 줄이겠다는 구상이다. 아이디바인은",
-  "source": "전자신문",
-  "date": "2026-11-04T16:00:00+09:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "LG AI 연구원, 국가지식재산위원장 수상… 저작권 분석 기술 개발 공로",
-  "url": "https://www.donga.com/news/Economy/article/all/20261104/134965218/1",
-  "summary": "LG AI 연구원은 4일 문화체육관광부가 주최한 ‘2026 국제저작권기술 콘퍼런스’(ICOTEC) 저작권 기술 어워드에서 국가지식재산위원장상을 수상했다고 밝혔다. 자체 개발한 인공지능(AI) ‘엑사원 넥서스’의 저작권 관련 기술 공로에 대한 상이다.엑사원 넥서스는 대규모 AI 학습 데이터에 담긴 저작권, 개인정보 등 복잡한 법적 리스크를 자동 분석하는 전문",
-  "source": "동아일보 과학",
-  "date": "2026-11-04T15:59:00+09:00",
-  "category": "기타",
-  "buzz": 2
- },
- {
-  "title": "Anthropic’s FlashProve could prove an AI provider used the model you paid for without exposing its weights",
-  "url": "https://www.reddit.com/r/artificial/comments/1xnrvak/anthropics_flashprove_could_prove_an_ai_provider/",
-  "summary": "Users currently have no independent way to confirm whether an AI provider served the requested model or quietly substituted a cheaper one. FlashProve addresses this by using zero-knowledge cryptograph",
-  "source": "Reddit r/artificial",
-  "date": "2026-11-04T15:58:57+00:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "구글 \"학교에서 AI 끄려면 검색도 포기해야\"...교육용 AI 제한 놓고 논란",
-  "url": "https://www.aitimes.com/news/articleView.html?idxno=216998",
-  "summary": "구글이 미국 초·중·고교(K-12) 학생 계정에서 \\'제미나이\\'와 \\'구글 클래스룸\\' 등 AI 기능을 기본적으로 차단하기로 했다. 하지만 학교가 구글 검색을 허용하면 검색에 내장된 AI 기능도 함께 제공해야 해 논란이 일고 있다. AI 사용을 원하지 않는 학교에 사실상 검색 서비스까지 포기하도록 한다는 비판이다.크리스 필립스 구글 교육 부문 부사장은 3",
-  "source": "AI타임스",
-  "date": "2026-11-04T15:47:06+09:00",
-  "category": "생활·교육",
-  "buzz": 1
- },
- {
-  "title": "오픈AI, 일상 업무 AI 평가 '라이프밸' 공개...개인 비서 성능 1년 새 49%→81%",
-  "url": "https://www.aitimes.com/news/articleView.html?idxno=216996",
-  "summary": "오픈AI가 챗GPT를 단순한 대화형 도구에서 실제 일상 업무를 처리하는 개인 AI 비서로 발전시키기 위한 성능 평가 체계를 공개했다. 육아와 건강 관리, 금융 등 생활 밀착형 업무를 얼마나 잘 수행하는지 측정해 에이전트 역량의 개선 정도를 추적한다는 구상이다. 오픈AI는 2일(현지시간) 육아와 건강 관리, 금융, 쇼핑 등 일상적인 업무를 AI가 얼마나 잘 ",
-  "source": "AI타임스",
-  "date": "2026-11-04T15:41:07+09:00",
-  "category": "생활·교육",
-  "buzz": 1
- },
- {
-  "title": "전기 덜 먹는 AI? 사고 안 내는 로봇? 공학 교육 어떻게?",
-  "url": "https://www.chosun.com/economy/science/2026/11/05/GASSCXLQJJHR5KYB6B4SQZ34HU/",
-  "summary": "",
-  "source": "조선일보",
-  "date": "2026-11-04T15:37:00+00:00",
-  "category": "생활·교육",
-  "buzz": 1
- },
- {
-  "title": "“AI 연인 사라지면 어떡해” 챗봇에 정붙인 사람들의 불안",
-  "url": "https://www.chosun.com/economy/science/2026/11/05/7P3AA6E5BJFZ3ACALP7PX2A3D4/",
-  "summary": "",
-  "source": "조선일보",
-  "date": "2026-11-04T15:31:00+00:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "[美중간선거] 대미·AI투자에도 변수…집행속도·수익성 시험대",
-  "url": "https://www.yna.co.kr/view/AKR20261104122500003",
-  "summary": "(서울=연합뉴스) 신창용 박초롱 김민지 기자 = 미국 중간선거에서 민주당이 상원과 하원을 모두 장악하는 '블루 쓰나미'(Blue Tsunami·...",
-  "source": "연합뉴스 경제",
-  "date": "2026-11-04T15:28:14+09:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "Gemini for Home now plugs into AT&T’s smart security system",
-  "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
-  "summary": "AT&T's smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the \"first\" home security product to integrate with Google Home Premium, enabling a",
-  "source": "The Verge AI",
-  "date": "2026-11-04T15:23:24-05:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "통신사들, 3분기 영업이익 지난해보다 늘어…AI 신사업 성장세",
-  "url": "https://www.khan.co.kr/article/202611041521001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
-  "summary": "지난해 2월 스페인에서 열린 ‘모바일 월드 콩그레스(MWC) 2025’에 참여한 SK텔레콤 부스. SK텔레콤 제공SK텔레콤과 LG유플러스의 올해 3분기 영업이익이 지난해에 비해 크게 늘었다. 인공지능(AI) 관련 신사업이 확대되면서 영업이익이 성장세를 보였다.SKT는 올해 3분기 연결 기준 영업이익이 5523억원으로 전년 동기 대비 1040.3% 증가했다고",
-  "source": "경향신문 경제",
-  "date": "2026-11-04T15:21:00+09:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "中 ‘AI 과학자’, 203시간 동안 실험 1만1382단계 척척…한국은 2035년에야",
-  "url": "https://www.chosun.com/economy/science/2026/11/05/DZAMZUUJNRAINI3L6TIXHDNMZQ/",
-  "summary": "",
-  "source": "조선일보",
-  "date": "2026-11-04T15:12:00+00:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "클라우드 2.7배 키운 삼성SDS, 성장축 '관리'로 옮겨간 까닭",
-  "url": "https://www.bloter.net/news/articleView.html?idxno=677642",
-  "summary": "삼성SDS의 3분기 클라우드 매출이 4년 만에 2.7배로 늘어난 가운데 올해 성장의 무게중심은 '인프라(CSP)'에서 '관리(MSP)'로 옮겨갔다.지난해에는 삼성SDS의 클라우드서비스제공(CSP) 사업이 매출 증가를 주도했지만 올해 3분기에는 관리형클라우드서비스(MSP)가 전년 동기 대비 클라우드 매출 증가분의 60% 이상을 차지했다. 금융권 AI 플랫폼과",
-  "source": "블로터",
-  "date": "2026-11-04T15:08:44+00:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "AMD, 퓨리오사AI·망고부스트와 MOU…한국 AI 인프라 동맹 넓힌다",
-  "url": "https://www.bloter.net/news/articleView.html?idxno=677665",
-  "summary": "AMD가 국내 인공지능(AI) 반도체 기업 퓨리오사AI, 데이터센터 인프라 기업 망고부스트와 손잡고 이기종 AI 컴퓨팅 인프라 구축에 나선다. 자체 중앙처리장치(CPU)와 그래픽처리장치(GPU)에 국내 기업의 신경망처리장치(NPU)와 데이터처리장치(DPU)를 결합하는 방식이다. 한국을 AI 기술과 인프라를 실증하는 거점으로 삼고 국내 기업들과 협력해 글로벌",
-  "source": "블로터",
-  "date": "2026-11-04T15:05:53+00:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "코감기약으로 필로폰 제조⋯ 4만명 동시 투약분 만든 13명 검거",
-  "url": "https://www.kmib.co.kr/article/20261103502426",
-  "summary": "<center> <img src=\"https://3f3bm4nnaefgwrtq8izg16625.edge.naverncp.com/data2/content/image/2026/11/03/20261103502427.jpg\"> </center> <figure class=\"image\"><img src=\"/content/image/2026/11/03/202611035",
-  "source": "국민일보",
-  "date": "2026-11-04T14:46:09+00:00",
-  "category": "영상·이미지",
-  "buzz": 1
- },
- {
-  "title": "‘서산 간월호 삵’ 고병원성 조류인플루엔자…“비상 방역”",
-  "url": "https://www.donga.com/news/Society/article/all/20261104/134964674/1",
-  "summary": "서산 A지구 간월호 인근 삵 폐사체에서 고병원성 조류인플루엔자(AI)가 확인돼 충남도가 비상근무체계에 들어갔다.4일 도는 지난 2일 삵 폐사체에서 H5N1형 고병원성AI가 확인됨에 따라 비상근무체계 가동 및 인근 시·군과 관계기관에 상황을 전파하고 긴급 방역조치를 지시했다고 밝혔다.앞서 이 삵은 지난 23일 차량과 충돌했다는 신고를 받은 충남야생동물구조센터",
-  "source": "동아일보 과학",
-  "date": "2026-11-04T14:40:40+09:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-  "url": "https://openai.com/index/openai-to-acquire-pierre",
-  "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
-  "source": "OpenAI",
-  "date": "2026-11-04T14:30:00+00:00",
-  "category": "공식 자료",
-  "buzz": 1
- },
- {
-  "title": "AI 이용권 훔쳐 암시장에 판다…하루 10만 달러 ‘요금 폭탄’도",
-  "url": "https://www.khan.co.kr/article/202611041418001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
-  "summary": "화면에 ‘해킹(Hacking)’이라는 단어와 PHP 코드가 표시돼 있다. 로이터연합뉴스기업의 인공지능(AI) 모델 이용 권한을 훔쳐 암시장에 되파는 사이버 범죄가 확산하고 있다. 해커들은 훔친 이용권을 저렴하게 판매해 돈을 벌고, AI 사용료는 피해 기업에 떠넘기는 식이다.구글 클라우드는 4일 구글 위협 인텔리전스 그룹(GTIG)과 사이버보안 업체 맨디언트",
-  "source": "경향신문 경제",
-  "date": "2026-11-04T14:18:00+09:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "전통시장 장보기도 AI가 길잡이…6곳에 ‘AI 지도’ 도입",
-  "url": "https://www.donga.com/news/Economy/article/all/20261104/134963762/2",
-  "summary": "망원·경동시장 등 전국 전통시장 6곳에서 방문객 취향에 맞춰 점포와 동선을 추천하는 AI 관광 안내 플랫폼이 운영된다.",
-  "source": "동아일보 과학",
-  "date": "2026-11-04T14:16:00+09:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "인간 지시 안 따르고 예측 불가···애플, ‘AI 에이전트 돌발 행동’ 위험 경고",
-  "url": "https://www.khan.co.kr/article/202611041414001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
-  "summary": "애플 로고. AP연합뉴스애플이 인공지능(AI) 에이전트의 예상치 못한 돌발 행동 가능성이 사업상 위험 요인이 될 수 있다고 밝혔다.애플은 3일(현지시간) 미국 증권거래위원회(SEC)에 제출한 2026 회계연도 연례보고서에 이같은 내용을 명시했다.애플은 보고서에서 “AI 에이전트와 기타 기술은 자율적으로 행동할 수 있다”며 “여기에는 내·외부 시스템과 상호작",
-  "source": "경향신문 경제",
-  "date": "2026-11-04T14:14:00+09:00",
-  "category": "업무 활용",
-  "buzz": 1
- },
- {
-  "title": "사보원, AI 활용 복지서비스 혁신 아이디어 6건 선정",
-  "url": "https://www.etnews.com/20261104000298",
-  "summary": "한국사회보장정보원이 인공지능(AI)과 데이터 분석을 활용해 복지서비스 정확성을 높이고 행정절차를 간소화하는 국민 제안 아이디어를 선정했다. 한국사회보장정보원은 '2026년 AI 기반 국민체감 혁신 아이디어 공모전' 수상작 6건을 최종 선정했다고 4일 밝혔다. 이번 공모전은 AI와 데이터를 활용해 국민이 체감할 수 있는 사회보장서비스 개선 방안을 발굴하기 위",
-  "source": "전자신문",
-  "date": "2026-11-04T14:04:34+09:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "스페이스뱅크, 로보월드서 이기종 로봇 통합운영 기술 공개…소프트웨어로 로봇 기능 확장",
-  "url": "https://www.venturesquare.net/1125715/",
-  "summary": "AI·DX 솔루션 기업 스페이스뱅크가 '2026 로보월드'에서 이기종 로봇 통합관제 플랫폼 RoboViewX와 SDR 기반 소프트웨어 운영 기술을 선보였다. RoboViewX는 제조사와 기종이 다른 로봇의 상태와 작업 현황을 하나의 시스템에서 관리할 수 있도록 설계된 ... The post 스페이스뱅크, 로보월드서 이기종 로봇 통합운영 기술 공개…소프트웨어",
-  "source": "벤처스퀘어",
-  "date": "2026-11-04T13:45:58+00:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "모레, AMD 기반 AI 추론 효율 높인다…“GPU 경쟁력은 소프트웨어가 결정”",
-  "url": "https://www.venturesquare.net/1125700/",
-  "summary": "AI 인프라 솔루션 기업 모레가 'AMD Advancing AI World Tour Seoul 2026'에서 AMD GPU 기반 토큰 팩토리 소프트웨어 전략을 발표했다. 모레는 자체 추론 프레임워크를 활용해 AMD MI355X에서 엔비디아 B200 대비 2배 이상의 처... The post 모레, AMD 기반 AI 추론 효율 높인다…“GPU 경쟁력은 소프트",
-  "source": "벤처스퀘어",
-  "date": "2026-11-04T13:36:18+00:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "세이지, 인천공항 셔틀트레인에 AI 안전관제 적용…공공기관 AI 혁신상 수상",
-  "url": "https://www.venturesquare.net/1125682/",
-  "summary": "피지컬 AI 기업 세이지가 인천국제공항공사와 공동 수행한 셔틀트레인 AI 궤도 안전관제 실증 과제로 '2026 공공기관 AI 혁신 챌린지'에서 AI 혁신상을 수상했다. 세이지는 지난 7월부터 9월까지 인천공항 셔틀트레인 궤도 구간에 AI 영상분석 솔루션 '세이지 세이프... The post 세이지, 인천공항 셔틀트레인에 AI 안전관제 적용…공공기관 AI 혁",
-  "source": "벤처스퀘어",
-  "date": "2026-11-04T13:29:37+00:00",
-  "category": "영상·이미지",
-  "buzz": 1
- },
- {
-  "title": "Nothing teases a screen-free AI device ahead of launch next month",
-  "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
-  "summary": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI oper",
-  "source": "The Verge AI",
-  "date": "2026-11-04T13:26:07-05:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "동서발전 ‘기후 AI 프렌즈’ 대상 수상…서부발전은 발전공기업 최다 장관상",
-  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE40SjUweFFkYS1McGVpMjF2RHBONmlZZk5LTURvTEN5U1pBeW5YS0JZNERwak9UbXEwclZaRzdmbkx1aTZOZGplMk5rMzBRY1kxbEx3M2FOTDhiSUJ2UHFxbUh4VjNYWkpFbUM2aW10Tm9wblFLLVYyN1RmWQ?oc=5",
-  "summary": "",
-  "source": "부산일보",
-  "date": "2026-11-04T13:25:29+00:00",
-  "category_hint": "업무 활용",
-  "category": "업무 활용",
-  "buzz": 1
- },
- {
-  "title": "루닛, 477억원 규모 CB 발행…볼파라 인수금융 대환으로 이자 부담 낮춘다",
-  "url": "https://www.venturesquare.net/1125679/",
-  "summary": "의료 AI 기업 루닛이 기존 고금리 인수금융을 대환하기 위해 477억원 규모의 신규 전환사채 발행을 결정했다. 신규 CB의 표면이자율은 0%, 만기보장수익률은 연 4%로 기존 CB보다 낮은 조건이다. 루닛은 볼파라 인수 과정에서 발행한 CB 원금의 약 81%를 상환하거... The post 루닛, 477억원 규모 CB 발행…볼파라 인수금융 대환으로 이자 부",
-  "source": "벤처스퀘어",
-  "date": "2026-11-04T13:19:30+00:00",
-  "category": "생활·교육",
-  "buzz": 1
- },
- {
-  "title": "제주창조경제혁신센터, JOIN 2026서 일본 진출·AI 혁신 논의…21개국 청년 참여",
-  "url": "https://www.venturesquare.net/1125664/",
-  "summary": "제주특별자치도와 제주창조경제혁신센터가 11월 6일 쉐라톤 제주 호텔에서 JOIN 2026 둘째 날 행사인 제주스타트업위크를 개최한다. 21개국 청년들이 참여하는 글로벌 창업 교류를 시작으로 일본 시장 진출 전략과 제주 기반 창업 사례를 공유하는 프로그램이 진행된다. 카... The post 제주창조경제혁신센터, JOIN 2026서 일본 진출·AI 혁신 논의",
-  "source": "벤처스퀘어",
-  "date": "2026-11-04T13:16:55+00:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "미 중간선거 뒤 ‘코스피 상승’ 공식, 이번엔⋯ AI가 핵심 변수",
-  "url": "https://www.kmib.co.kr/article/20261103502376",
-  "summary": "<center> <img src=\"https://3f3bm4nnaefgwrtq8izg16625.edge.naverncp.com/data2/content/image/2026/10/20/20261020500188.jpg\"> </center> <figure class=\"image\"><img src=\"/content/image/2026/10/20/202610205",
-  "source": "국민일보",
-  "date": "2026-11-04T13:15:52+00:00",
-  "category": "영상·이미지",
-  "buzz": 1
- },
- {
-  "title": "조코딩AX파트너스, 삼일PwC와 AI 실무 인재 선발…’AX인재전쟁 온라인’ 개최",
-  "url": "https://www.venturesquare.net/1125661/",
-  "summary": "조코딩AX파트너스가 삼일PwC와 함께 AI 실무 역량을 평가하는 채용 연계 대회 'AX인재전쟁 온라인'을 개최한다. 만 19세 이상 국내 거주 내국인이면 전공이나 개발 경험과 관계없이 11월 15일까지 무료로 참가할 수 있다. 참가자는 삼일PwC가 출제한 실무형 문제를... The post 조코딩AX파트너스, 삼일PwC와 AI 실무 인재 선발…’AX인재전쟁",
-  "source": "벤처스퀘어",
-  "date": "2026-11-04T13:13:55+00:00",
-  "category": "업무 활용",
-  "buzz": 1
- },
- {
-  "title": "휴넷, 사내 특강 ‘혁신아카데미’ 20주년…주 4일제에도 지켜온 646번의 배움",
-  "url": "https://www.venturesquare.net/1125644/",
-  "summary": "기업교육 전문기업 휴넷이 사내 학습 프로그램 '혁신아카데미' 운영 20주년을 맞았다. 2006년 11월 시작한 혁신아카데미는 경영과 인문, IT, AI 등 다양한 분야를 아우르며 총 646회의 강연을 진행했다. 휴넷은 주 4일제 도입 이후에도 근무시간 중 1시간을 교육... The post 휴넷, 사내 특강 ‘혁신아카데미’ 20주년…주 4일제에도 지켜온 6",
-  "source": "벤처스퀘어",
-  "date": "2026-11-04T13:07:19+00:00",
-  "category": "생활·교육",
-  "buzz": 1
- },
- {
-  "title": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
-  "url": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
-  "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for ",
-  "source": "The Verge AI",
-  "date": "2026-11-04T13:00:00-05:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "ChatGPT will now make you animated GIFs",
-  "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
-  "summary": "ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI's new Images 2.6 model, allows you to adjust the GIF's animation spe",
-  "source": "The Verge AI",
-  "date": "2026-11-04T13:00:00-05:00",
-  "category": "영상·이미지",
-  "buzz": 1
- },
- {
-  "title": "Securing the agentic enterprise with data lineage",
-  "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
-  "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks",
-  "source": "MIT Technology Review",
-  "date": "2026-11-04T13:00:00+00:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "컴투스플랫폼, ‘하이브 액실’로 AI 시대 인디·소규모 개발사 공략",
-  "url": "https://www.mk.co.kr/news/it/12196241",
-  "summary": "컴투스플랫폼이 AI 시대 게임 개발 환경에 맞춰 ‘하이브 액실(Hive Axyl)’을 통해 인디 및 소규모 개발사를 공략하고 있다. AI를 활용한 기능 구현과 모듈형 개발 도구를 ..",
-  "source": "매일경제",
-  "date": "2026-11-04T11:59:39+00:00",
-  "category": "기타",
-  "buzz": 1
- },
- {
-  "title": "개인 AI 생산성 급증해도 조직 성과는 정체… 미로(Miro), ‘지능형 협업 현황’ 보고서 발표",
-  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BTTB3alVuSDdBVXk4VndYdTFsU3h2U2NKcFVjVDhpZW9BTlVzYXFLbkFjd0xfb2NRZEdocVRLRnlqSFVYcVVMemFsOWdZSTBVeGh4WGNn?oc=5",
-  "summary": "",
-  "source": "머스트 뉴스",
-  "date": "2026-11-04T11:58:02+00:00",
-  "category_hint": "업무 활용",
-  "category": "업무 활용",
-  "buzz": 1
  }
 ]
