@@ -5,6 +5,61 @@
   "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin."
  },
  {
+  "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+  "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+  "summary": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist."
+ },
+ {
+  "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+  "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+  "summary": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual s"
+ },
+ {
+  "url": "https://www.reddit.com/r/artificial/comments/1xtdzxd/ai_agents_are_becoming_software_buyers_and/",
+  "title": "AI agents are becoming software buyers, and businesses aren't ready",
+  "summary": ""
+ },
+ {
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+  "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+  "summary": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem"
+ },
+ {
+  "url": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+  "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
+  "summary": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they"
+ },
+ {
+  "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+  "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+  "summary": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture."
+ },
+ {
+  "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+  "title": "ChatGPT Plus for veterans and servicemembers",
+  "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers."
+ },
+ {
+  "url": "https://www.reddit.com/r/artificial/comments/1xtbbsx/gpu_companies_built_everything_on_the_back_of/",
+  "title": "GPU Companies built everything on the back of gamers, and now gamers cannot afford them.",
+  "summary": "I mean yeah, I am making this post frustrated with the current pricing of hardware, but ai companies are standing on hardware which mostly gamers bought and paid for. The evolution happened because of"
+ },
+ {
+  "url": "https://huggingface.co/blog/qvac/botpsy",
+  "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+  "summary": ""
+ },
+ {
+  "url": "https://huggingface.co/blog/token-pooling",
+  "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+  "summary": ""
+ },
+ {
+  "url": "https://www.reddit.com/r/artificial/comments/1xt2iwq/linus_torvalds_says_that_ai_fixes_drove_most_of/",
+  "title": "Linus Torvalds says that AI fixes drove most of the progress in latest Linux kernel — BPF saw more AI-written fixes than bug reports, possibly indicat",
+  "summary": ""
+ },
+ {
   "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
   "title": "Gemini Intelligence: New features, on more devices",
   "summary": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more."
@@ -13,6 +68,11 @@
   "url": "https://www.reddit.com/r/artificial/comments/1xsul1u/video_game_big_walk_gets_review_bombed_for_using/",
   "title": "Video game Big Walk gets review bombed for using AI to fix a bug in Unity, accounting for 10 lines of code. 19 Independent Games Festival jurors decla",
   "summary": "https://aftermath.site/big-walk-ai-igf-jurors-controversy/ according to their FAQ, they paid a Unity engineer to help them before resorting to AI, and he could not fix it: https://bigwalk.game/faq/#ai"
+ },
+ {
+  "url": "https://www.reddit.com/r/artificial/comments/1xssda1/gartner_ai_will_create_more_jobs_than_it_destroys/",
+  "title": "Gartner: AI will create more jobs than it destroys by 2030, generating a net gain of 1.7 million jobs globally",
+  "summary": "https://fixupx.com/DeItaone/status/2120171340502073768 submitted by /u/Eliv_nurotic [link] [comments]"
  },
  {
   "url": "https://www.reddit.com/r/artificial/comments/1xsqysz/researchers_gave_ai_agents_a_1cent_daily_spending/",
@@ -100,6 +160,11 @@
   "summary": "Ring is finally shipping a flying indoor drone camera. For real this time. The Ring Drone Cam will arrive on January 27th, 2027, for $249.99, Ring founder Jamie Siminoff said at a launch event in New "
  },
  {
+  "url": "https://openai.com/index/singapore-airlines-travel-work",
+  "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+  "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot."
+ },
+ {
   "url": "https://openai.com/index/ai-effect-on-freelance-work",
   "title": "Work at the Frontier: AI’s effect on freelance work",
   "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects."
@@ -128,6 +193,11 @@
   "url": "https://huggingface.co/blog/decision",
   "title": "Decision Models in Hugging Face",
   "summary": ""
+ },
+ {
+  "url": "https://openai.com/index/cogent-security",
+  "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+  "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents."
  },
  {
   "url": "https://www.reddit.com/r/artificial/comments/1xs7vim/anthropic_shows_it_has_a_model_stronger_than/",
@@ -188,11 +258,6 @@
   "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
   "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
   "summary": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time p"
- },
- {
-  "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
-  "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
-  "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show impr"
  },
  {
   "url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
@@ -550,64 +615,9 @@
   "summary": ""
  },
  {
-  "url": "https://www.reddit.com/r/artificial/comments/1xntvml/apple_watch_now_listens_to_inperson_conversations/",
-  "title": "Apple Watch now listens to in-person conversations & lets you rewind them",
-  "summary": ""
- },
- {
-  "url": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
-  "title": "17 better ways Elon Musk could have wasted $446 million",
-  "summary": "One of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seeking lunatics. If your social media of choice is the"
- },
- {
-  "url": "https://www.reddit.com/r/artificial/comments/1xnrvak/anthropics_flashprove_could_prove_an_ai_provider/",
-  "title": "Anthropic’s FlashProve could prove an AI provider used the model you paid for without exposing its weights",
-  "summary": "Users currently have no independent way to confirm whether an AI provider served the requested model or quietly substituted a cheaper one. FlashProve addresses this by using zero-knowledge cryptograph"
- },
- {
-  "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
-  "title": "Gemini for Home now plugs into AT&T’s smart security system",
-  "summary": "AT&T's smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the \"first\" home security product to integrate with Google Home Premium, enabling a"
- },
- {
-  "url": "https://openai.com/index/openai-to-acquire-pierre",
-  "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-  "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code."
- },
- {
-  "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
-  "title": "Nothing teases a screen-free AI device ahead of launch next month",
-  "summary": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI oper"
- },
- {
-  "url": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
-  "title": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
-  "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for "
- },
- {
-  "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
-  "title": "ChatGPT will now make you animated GIFs",
-  "summary": "ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI's new Images 2.6 model, allows you to adjust the GIF's animation spe"
- },
- {
   "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
   "title": "Securing the agentic enterprise with data lineage",
   "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks"
- },
- {
-  "url": "https://openai.com/index/daybreak-red-aws-govcloud",
-  "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-  "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work."
- },
- {
-  "url": "https://www.reddit.com/r/artificial/comments/1xng7ur/chatgpts_search_volume_is_now_roughly_20_of/",
-  "title": "ChatGPT's search volume is now roughly 20% of Google's. Wow, people were really sick of Google, huh?",
-  "summary": ""
- },
- {
-  "url": "https://www.reddit.com/r/artificial/comments/1xnf3ks/congressional_progressive_caucus_chair_calls_for/",
-  "title": "Congressional Progressive Caucus Chair calls for AI to be a top issue next year and for testimony from CEOs",
-  "summary": "https://fixupx.com/BenBrodyDC/status/2117821832317534519 submitted by /u/Eliv_nurotic [link] [comments]"
  },
  {
   "url": "https://zapier.com/blog/claude-duet",
@@ -660,14 +670,14 @@
   "summary": "You're vibing with your AI coding agent, and your prototype is working well in the preview window. Brimming with excitement, you hit publish to share your creation with the world. Everything is great "
  },
  {
-  "url": "https://zapier.com/blog/ai-transformation",
-  "title": "What is AI transformation in 2027? How to build a strategy for your business",
-  "summary": "It can feel impossible to escape the pressure to \"do something\" with AI. Maybe your CEO just asked about your AI strategy in an all-hands, or your competitors are shipping faster thanks to automation."
- },
- {
   "url": "https://zapier.com/blog/automate-grok",
   "title": "Grok automation: How to use the Zapier Grok integration (Grok 4.7, Grok Bot, and more)",
   "summary": "Grok has a very specific edge over other AI models: live access to X, so your agents can keep their finger on the pulse a little more easily. But outside of that, Grok models and agents are still soli"
+ },
+ {
+  "url": "https://zapier.com/blog/ai-transformation",
+  "title": "What is AI transformation in 2027? How to build a strategy for your business",
+  "summary": "It can feel impossible to escape the pressure to \"do something\" with AI. Maybe your CEO just asked about your AI strategy in an all-hands, or your competitors are shipping faster thanks to automation."
  },
  {
   "url": "https://zapier.com/blog/best-ai-agent-builder",
