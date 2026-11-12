@@ -5,6 +5,26 @@
   "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin."
  },
  {
+  "url": "https://www.reddit.com/r/artificial/comments/1xtr9oc/anthropic_says_a_key_ai_safety_alarm_has_been/",
+  "title": "Anthropic says a key AI safety alarm has been triggered, days before its IPO",
+  "summary": ""
+ },
+ {
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+  "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+  "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions."
+ },
+ {
+  "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+  "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+  "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a w"
+ },
+ {
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+  "title": "United won’t let your AI agent book your flight",
+  "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book t"
+ },
+ {
   "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
   "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
   "summary": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist."
@@ -50,9 +70,34 @@
   "summary": ""
  },
  {
+  "url": "https://zapier.com/blog/gemini-api",
+  "title": "How to get a Google Gemini API key—and use the Gemini API",
+  "summary": "OpenAI and Anthropic models can read text and look at images just fine, but video is a big no-no. If you're building a tool or a product that absolutely needs that type of media, you'd have to enginee"
+ },
+ {
+  "url": "https://zapier.com/blog/tray-pricing",
+  "title": "Tray pricing: Is it worth it?",
+  "summary": "As a software engineer who's built hundreds of integrations over the years, I demand a lot from integration platforms. In the case of Tray, the promise is that you can orchestrate workflows and enterp"
+ },
+ {
+  "url": "https://zapier.com/blog/uipath-pricing",
+  "title": "UiPath pricing: Exploring RPA pricing models",
+  "summary": "Understanding UiPath pricing should take three minutes. It doesn't. Take a few seconds to browse the website, and you'll find a mostly hidden pricing structure filled with attended bots, action center"
+ },
+ {
+  "url": "https://zapier.com/blog/lindy-pricing",
+  "title": "Lindy pricing and plans for 2026",
+  "summary": "As a small business owner running multiple newsletters, I'm always hunting for ways to claw back a few hours. So my ears perked up when I first heard Lindy AI's pitch that it could save me time. Of co"
+ },
+ {
   "url": "https://huggingface.co/blog/token-pooling",
   "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
   "summary": ""
+ },
+ {
+  "url": "https://openai.com/index/jiostar-vijay-seshadri",
+  "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+  "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production."
  },
  {
   "url": "https://www.reddit.com/r/artificial/comments/1xt2iwq/linus_torvalds_says_that_ai_fixes_drove_most_of/",
@@ -575,11 +620,6 @@
   "summary": "https://www.bloomberg.com/news/articles/2026-11-04/apple-cuts-internal-ai-usage-budgets-in-move-to-reduce-spending submitted by /u/Eliv_nurotic [link] [comments]"
  },
  {
-  "url": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
-  "title": "Big Tech’s big AI buildout will not end until someone stops it",
-  "summary": "After four of the biggest competitors in the AI race held quarterly earnings calls late last month, two things are clear: Big Tech is not done spending record amounts on the AI data center buildout, a"
- },
- {
   "url": "https://zapier.com/blog/best-ai-courses",
   "title": "The 8 best AI courses for beginners in 2026",
   "summary": "Upskilling in AI is just about the most productive thing you could do with your free time right now. With every day that passes, AI technology is making strides, and the demand for AI-related skills i"
@@ -590,19 +630,9 @@
   "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development."
  },
  {
-  "url": "https://openai.com/ads/customers/flipsnack",
-  "title": "Flipsnack grows product signups with conversion optimization",
-  "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup."
- },
- {
   "url": "https://huggingface.co/blog/phonon-tts",
   "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
   "summary": ""
- },
- {
-  "url": "https://openai.com/index/franklin-templeton",
-  "title": "Franklin Templeton uses OpenAI to support investment research",
-  "summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks."
  },
  {
   "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
@@ -618,11 +648,6 @@
   "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
   "title": "Securing the agentic enterprise with data lineage",
   "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks"
- },
- {
-  "url": "https://zapier.com/blog/claude-duet",
-  "title": "What is Claude Duet?",
-  "summary": "Claude Duet is Anthropic's answer to Meta's Muse and OpenAI's dots. It's an always-on AI agent, which means that instead of waiting for you to type a prompt, it sends you a morning brief, checks your "
  },
  {
   "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
@@ -665,39 +690,9 @@
   "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 "
  },
  {
-  "url": "https://zapier.com/blog/best-no-code-app-builder",
-  "title": "The 5 best no-code app builders in 2026",
-  "summary": "You're vibing with your AI coding agent, and your prototype is working well in the preview window. Brimming with excitement, you hit publish to share your creation with the world. Everything is great "
- },
- {
-  "url": "https://zapier.com/blog/automate-grok",
-  "title": "Grok automation: How to use the Zapier Grok integration (Grok 4.7, Grok Bot, and more)",
-  "summary": "Grok has a very specific edge over other AI models: live access to X, so your agents can keep their finger on the pulse a little more easily. But outside of that, Grok models and agents are still soli"
- },
- {
-  "url": "https://zapier.com/blog/ai-transformation",
-  "title": "What is AI transformation in 2027? How to build a strategy for your business",
-  "summary": "It can feel impossible to escape the pressure to \"do something\" with AI. Maybe your CEO just asked about your AI strategy in an all-hands, or your competitors are shipping faster thanks to automation."
- },
- {
-  "url": "https://zapier.com/blog/best-ai-agent-builder",
-  "title": "The best AI agent builder software in 2026",
-  "summary": "AI agents have matured fast, and I've been in the weeds the whole time. These days, AI agents are running a lot of my processes in the background. And it's not just me or the Zapier team: 84% of enter"
- },
- {
-  "url": "https://zapier.com/blog/grok-bot",
-  "title": "What is Grok Bot?",
-  "summary": "Working with AI is getting weird. Two years ago, I used to do most tasks by myself and then jump into a chatbot task to solve a problem four or five times per hour. These days, I end up staring at my "
- },
- {
   "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
   "title": "Granite Switch 4.1.1 — Update models like you update software",
   "summary": ""
- },
- {
-  "url": "https://zapier.com/blog/best-ai-presentation-maker",
-  "title": "The 6 best AI presentation makers in 2026",
-  "summary": "The days of spending hours dragging images to just the right place on a slide are far behind us. You can now create a presentation with AI, giving the robots the job of setting the structure, adding t"
  },
  {
   "url": "https://huggingface.co/blog/announcing-project-protostar",
