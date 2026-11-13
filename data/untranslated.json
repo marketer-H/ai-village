@@ -1,5 +1,50 @@
 [
  {
+  "url": "https://huggingface.co/blog/allenai/xybench",
+  "title": "XYBench: Helping with the problem behind the question",
+  "summary": ""
+ },
+ {
+  "url": "https://openai.com/index/introducing-chatgpt-wallet",
+  "title": "Introducing ChatGPT Wallet",
+  "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections."
+ },
+ {
+  "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+  "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+  "summary": ""
+ },
+ {
+  "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+  "title": "What’s really at stake in the Jensen Huang saga",
+  "summary": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much "
+ },
+ {
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+  "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+  "summary": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try "
+ },
+ {
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+  "title": "Let’s talk about Jensen Huang’s many affairs!",
+  "summary": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the "
+ },
+ {
+  "url": "https://zapier.com/blog/automate-ai-personal-assistant",
+  "title": "How to automate your AI personal assistant",
+  "summary": "Personal AI assistants have officially stopped being chatbots. Muse, ChatGPT dots, Claude Duet, and Pally now all do some version of the same thing: they run on their own, flag important stuff for you"
+ },
+ {
+  "url": "https://www.reddit.com/r/artificial/comments/1xuy74i/former_us_ai_czar_david_sacks_says_theres_no/",
+  "title": "Former US AI Czar David Sacks says there’s no evidence that Alice Huang was a Chinese Spy",
+  "summary": "https://fixupx.com/DavidSacks/status/2121070881258504395 CNN article making the same argument https://fixupx.com/NatashaBertrand/status/2121009555303759969 submitted by /u/Eliv_nurotic [link] [comment"
+ },
+ {
+  "url": "https://www.reddit.com/r/artificial/comments/1xuqml7/a_united_nations_survey_last_year_found_that_as/",
+  "title": "A United Nations survey last year found that as many as 80% of people in [China] support data center construction. At least two-thirds of Chinese peop",
+  "summary": ">Experts cited by the Financial Times say data centers in China are built at about one-fifth of the costs incurred in the U.S., not least due to the much higher land and labor costs. Why is there such"
+ },
+ {
   "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
   "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
   "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT"
@@ -23,6 +68,11 @@
   "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
   "title": "Google’s new Gemini model is better at understanding complicated questions",
   "summary": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The ne"
+ },
+ {
+  "url": "https://www.reddit.com/r/artificial/comments/1xufn7w/jensen_huang_leaving_nvidia_risks_a_brain_drain/",
+  "title": "Jensen Huang leaving Nvidia risks a 'brain drain' from the AI chipmaker",
+  "summary": ""
  },
  {
   "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
@@ -65,9 +115,9 @@
   "summary": "Jensen Huang resigned as CEO of Nvidia this morning, a company he co-founded in 1993. The decision came following the company's board opening an investigation into multiple extramarital affairs Huang "
  },
  {
-  "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-  "title": "Nvidia CEO Jensen Huang has resigned. What happens next?",
-  "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, Th"
+  "url": "https://www.reddit.com/r/artificial/comments/1xu8l1b/united_airlines_bans_ai_agents_from_booking/",
+  "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+  "summary": ""
  },
  {
   "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
@@ -530,41 +580,6 @@
   "summary": "This is just cool! Goes to show you that AI is not inherently bad. Great news! submitted by /u/ZealousidealOwl2026 [link] [comments]"
  },
  {
-  "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-  "title": "All the latest updates on AI data centers",
-  "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the w"
- },
- {
-  "url": "https://huggingface.co/blog/allenai/toyblocks",
-  "title": "ToyBlocks: A controlled world for robot learning and evaluation",
-  "summary": ""
- },
- {
-  "url": "https://www.reddit.com/r/artificial/comments/1xpcsds/the_uk_government_asked_14000_children_about_ai/",
-  "title": "The UK Government Asked 14,000 Children About AI. It Ignored Their Answer.",
-  "summary": ""
- },
- {
-  "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
-  "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
-  "summary": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tr"
- },
- {
-  "url": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
-  "title": "AI is the new dating dealbreaker",
-  "summary": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the "
- },
- {
-  "url": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
-  "title": "Big Tech lost big in the 2026 election",
-  "summary": "On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roaring back, and the fight over data cente"
- },
- {
-  "url": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
-  "title": "How Akai and Moog are embracing vibe-coded mods",
-  "summary": "inMusic, the parent company of Akai, Moog, Native Instruments, and more, has decided to embrace the modding community. In an interview with The Verge, inMusic CEO Jack O'Donnell said, \"We're going to "
- },
- {
   "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
   "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
   "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post ab"
@@ -590,11 +605,6 @@
   "summary": "TL;DR SEO feedback loops take weeks. We wanted something faster for agents, so we built a tool that runs the same Claude Code task against production and a preview variant of a page, with the URL held"
  },
  {
-  "url": "https://www.reddit.com/r/artificial/comments/1xp3pww/microsoft_files_patent_for_ai_that_can_alter_what/",
-  "title": "Microsoft files patent for AI that can alter what people say during live broadcasts",
-  "summary": ""
- },
- {
   "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
   "title": "Measuring how AI agents handle everyday wet-lab science",
   "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
@@ -603,11 +613,6 @@
   "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
   "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
   "summary": ""
- },
- {
-  "url": "https://openai.com/index/australian-universities-ai-native-graduates",
-  "title": "Australian universities are creating AI-native graduates",
-  "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
  },
  {
   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
