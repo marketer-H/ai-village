@@ -1,5 +1,15 @@
 [
  {
+  "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+  "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+  "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Hele"
+ },
+ {
+  "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+  "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+  "summary": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packe"
+ },
+ {
   "url": "https://www.reddit.com/r/artificial/comments/1xvivdy/openai_is_so_convinced_that_llms_will_become/",
   "title": "OpenAI is so convinced that LLMs will become brains for robots that it has disbanded its robotics team",
   "summary": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/ submitted by /u/Eliv_nurotic [link] [comments]"
@@ -563,26 +573,6 @@
   "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
   "title": "Elvis and Eminem rights holders are suing Suno",
   "summary": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illega"
- },
- {
-  "url": "https://www.reddit.com/r/artificial/comments/1xq9os9/professor_returns_from_lunch_to_find_ai_deleted/",
-  "title": "Professor returns from lunch to find AI deleted year’s worth of lecture notes",
-  "summary": ""
- },
- {
-  "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
-  "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
-  "summary": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, b"
- },
- {
-  "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-  "title": "The US let Nvidia sell chips to an empty office in China",
-  "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According "
- },
- {
-  "url": "https://www.reddit.com/r/artificial/comments/1xq34um/bank_of_england_pours_cold_water_on_ai/",
-  "title": "Bank of England pours cold water on AI productivity boom",
-  "summary": ""
  },
  {
   "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
