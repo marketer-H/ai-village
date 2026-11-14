@@ -1,8 +1,33 @@
 [
  {
+  "url": "https://www.reddit.com/r/artificial/comments/1xvivdy/openai_is_so_convinced_that_llms_will_become/",
+  "title": "OpenAI is so convinced that LLMs will become brains for robots that it has disbanded its robotics team",
+  "summary": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/ submitted by /u/Eliv_nurotic [link] [comments]"
+ },
+ {
+  "url": "https://www.reddit.com/r/artificial/comments/1xvinch/we_are_deeply_sorry_microsoft_apologizes_for/",
+  "title": "\"We are deeply sorry\" Microsoft apologizes for major outage that knocked Outlook, Teams, and Microsoft 365 offline for 24 hours – insists it wasn't AI",
+  "summary": ""
+ },
+ {
+  "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+  "title": "Amazon has a plan to index the world’s online shopping data",
+  "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reute"
+ },
+ {
+  "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+  "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+  "summary": ""
+ },
+ {
   "url": "https://huggingface.co/blog/allenai/xybench",
   "title": "XYBench: Helping with the problem behind the question",
   "summary": ""
+ },
+ {
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+  "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+  "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 a"
  },
  {
   "url": "https://openai.com/index/introducing-chatgpt-wallet",
@@ -23,6 +48,11 @@
   "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
   "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
   "summary": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try "
+ },
+ {
+  "url": "https://openai.com/business/customer-stories/shield",
+  "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+  "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment."
  },
  {
   "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
@@ -103,11 +133,6 @@
   "url": "https://openai.com/business/customer-stories/gondola",
   "title": "Gondola doubles revenue as its team builds more with Codex",
   "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work."
- },
- {
-  "url": "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump",
-  "title": "Jensen Huang is out. What did China want from him?",
-  "summary": "Today, we’re talking about the Jensen Huang scandal at Nvidia, which is developing so quickly that we had to do an emergency update of this intro minutes before publishing this episode. Huang just res"
  },
  {
   "url": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang",
@@ -560,26 +585,6 @@
   "summary": ""
  },
  {
-  "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
-  "title": "AI broke the cybersecurity world. What’s next?",
-  "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series l"
- },
- {
-  "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
-  "title": "Why a new report on Anthropic automating AI development is alarming researchers",
-  "summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slo"
- },
- {
-  "url": "https://www.reddit.com/r/artificial/comments/1xprvev/claude_helped_solve_the_first_3d_structure_of_a/",
-  "title": "Claude helped solve the first 3D structure of a mysterious 'vault' particle, a hollow protein shell encoded by a bacteriophage virus",
-  "summary": "Anthropic reported on November 5 that Claude helped determine the first three-dimensional structure of a vault particle: a hollow protein shell built from a protein encoded by a bacteriophage, a virus"
- },
- {
-  "url": "https://www.reddit.com/r/artificial/comments/1xpk0wl/turkey_uses_ai_and_other_tech_to_claw_back_100/",
-  "title": "Turkey Uses AI and Other Tech to Claw Back 100 Looted Antiquities from the US",
-  "summary": "This is just cool! Goes to show you that AI is not inherently bad. Great news! submitted by /u/ZealousidealOwl2026 [link] [comments]"
- },
- {
   "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
   "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
   "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post ab"
@@ -603,11 +608,6 @@
   "url": "https://zapier.com/blog/what-we-learned-watching-claude-read-zapier",
   "title": "What we learned by watching Claude read Zapier.com",
   "summary": "TL;DR SEO feedback loops take weeks. We wanted something faster for agents, so we built a tool that runs the same Claude Code task against production and a preview variant of a page, with the URL held"
- },
- {
-  "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-  "title": "Measuring how AI agents handle everyday wet-lab science",
-  "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
  },
  {
   "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
